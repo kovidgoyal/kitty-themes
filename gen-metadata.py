@@ -25,6 +25,7 @@ def theme_name_from_file_name(fname):
 
 def parse_theme(fname, raw):
     in_blurb = False
+    in_metadata = False
     lines = raw.splitlines()
     conf = parse_config(lines)
     bg = conf.get('background', Color())
@@ -34,8 +35,13 @@ def parse_theme(fname, raw):
         line = line.strip()
         if not line:
             continue
-        if not line.startswith('## '):
+        is_block = line.startswith('## ')
+        if in_metadata and not is_block:
             break
+        if not in_metadata and is_block:
+            in_metadata = True
+        if not in_metadata:
+            continue
         line = line[3:]
         if in_blurb:
             ans['blurb'] += line
