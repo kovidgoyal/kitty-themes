@@ -1047,15 +1047,6 @@
         "num_settings": 21
     },
     {
-        "author": "The name of the theme author",
-        "blurb": "A description of this theme. This must be thelast item in the metadata and can continue over multiple lines.",
-        "file": "themes/template.conf",
-        "is_dark": true,
-        "license": "The license information",
-        "name": "The name of the theme (if not present, derived from filename)",
-        "num_settings": 0
-    },
-    {
         "file": "themes/Tomorrow.conf",
         "name": "Tomorrow",
         "num_settings": 21
