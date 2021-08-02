@@ -3,1160 +3,1169 @@
         "file": "themes/1984_dark.conf",
         "is_dark": true,
         "name": "1984 Dark",
-        "num_settings": 29
+        "num_settings": 23
     },
     {
         "file": "themes/1984_light.conf",
         "name": "1984 Light",
-        "num_settings": 29
+        "num_settings": 23
     },
     {
         "file": "themes/1984_orwellian.conf",
         "is_dark": true,
         "name": "1984 Orwellian",
-        "num_settings": 29
+        "num_settings": 23
     },
     {
         "file": "themes/3024_Day.conf",
         "name": "3024 Day",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/3024_Night.conf",
         "is_dark": true,
         "name": "3024 Night",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/AdventureTime.conf",
         "is_dark": true,
         "name": "Adventure Time",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Afterglow.conf",
         "is_dark": true,
         "name": "Afterglow",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/AlienBlood.conf",
         "is_dark": true,
         "name": "Alien Blood",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Alucard.conf",
         "is_dark": true,
         "name": "Alucard",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Apprentice.conf",
         "is_dark": true,
         "name": "Apprentice",
-        "num_settings": 28
+        "num_settings": 22
     },
     {
         "file": "themes/Argonaut.conf",
         "is_dark": true,
         "name": "Argonaut",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Arthur.conf",
         "is_dark": true,
         "name": "Arthur",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/AtelierSulphurpool.conf",
         "is_dark": true,
         "name": "Atelier Sulphurpool",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Atom.conf",
         "is_dark": true,
         "name": "Atom",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/AtomOneLight.conf",
         "name": "Atom One Light",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/ayu.conf",
         "is_dark": true,
         "name": "Ayu",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/ayu_light.conf",
         "name": "Ayu Light",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/ayu_mirage.conf",
         "is_dark": true,
         "name": "Ayu Mirage",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Batman.conf",
         "is_dark": true,
         "name": "Batman",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Belafonte_Day.conf",
         "name": "Belafonte Day",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Belafonte_Night.conf",
         "is_dark": true,
         "name": "Belafonte Night",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/BirdsOfParadise.conf",
         "is_dark": true,
         "name": "Birds Of Paradise",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/BlackMetal.conf",
         "is_dark": true,
         "name": "Black Metal",
-        "num_settings": 31
+        "num_settings": 25
     },
     {
         "file": "themes/Blazer.conf",
         "is_dark": true,
         "name": "Blazer",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Borland.conf",
         "name": "Borland",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Bright_Lights.conf",
         "is_dark": true,
         "name": "Bright Lights",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Broadcast.conf",
         "is_dark": true,
         "name": "Broadcast",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Brogrammer.conf",
         "is_dark": true,
         "name": "Brogrammer",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/C64.conf",
         "name": "C64",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Chalk.conf",
         "is_dark": true,
         "name": "Chalk",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Chalkboard.conf",
         "is_dark": true,
         "name": "Chalkboard",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/ChallengerDeep.conf",
         "is_dark": true,
         "name": "Challenger Deep",
-        "num_settings": 31
+        "num_settings": 25
     },
     {
         "file": "themes/Ciapre.conf",
         "is_dark": true,
         "name": "Ciapre",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/CLRS.conf",
         "name": "Clrs",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Cobalt_Neon.conf",
         "is_dark": true,
         "name": "Cobalt Neon",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Cobalt2.conf",
         "is_dark": true,
         "name": "Cobalt2",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Corvine.conf",
         "is_dark": true,
         "name": "Corvine",
-        "num_settings": 24
+        "num_settings": 18
     },
     {
         "file": "themes/CrayonPonyFish.conf",
         "is_dark": true,
         "name": "Crayon Pony Fish",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Dark_Pastel.conf",
         "is_dark": true,
         "name": "Dark Pastel",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Darkside.conf",
         "is_dark": true,
         "name": "Darkside",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Desert.conf",
         "is_dark": true,
         "name": "Desert",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/DesertNight.conf",
         "is_dark": true,
         "name": "Desert Night",
-        "num_settings": 25
+        "num_settings": 19
     },
     {
         "file": "themes/DimmedMonokai.conf",
         "is_dark": true,
         "name": "Dimmed Monokai",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/DotGov.conf",
         "is_dark": true,
         "name": "Dot Gov",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Dracula.conf",
         "is_dark": true,
         "name": "Dracula",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Dumbledore.conf",
         "is_dark": true,
         "name": "Dumbledore",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Duotone_Dark.conf",
         "is_dark": true,
         "name": "Duotone Dark",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Earthsong.conf",
         "is_dark": true,
         "name": "Earthsong",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Elemental.conf",
         "is_dark": true,
         "name": "Elemental",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/ENCOM.conf",
         "is_dark": true,
         "name": "Encom",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Espresso.conf",
         "is_dark": true,
         "name": "Espresso",
-        "num_settings": 31
+        "num_settings": 25
     },
     {
         "file": "themes/Espresso_Libre.conf",
         "is_dark": true,
         "name": "Espresso Libre",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Falcon.conf",
         "is_dark": true,
         "name": "Falcon",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Farin.conf",
         "is_dark": true,
         "name": "Farin",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Fideloper.conf",
         "is_dark": true,
         "name": "Fideloper",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/FishTank.conf",
         "is_dark": true,
         "name": "Fish Tank",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Flat.conf",
         "is_dark": true,
         "name": "Flat",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Flatland.conf",
         "is_dark": true,
         "name": "Flatland",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Floraverse.conf",
         "is_dark": true,
         "name": "Floraverse",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/ForestNight.conf",
         "is_dark": true,
         "name": "Forest Night",
-        "num_settings": 24
+        "num_settings": 18
     },
     {
         "file": "themes/FrontEndDelight.conf",
         "is_dark": true,
         "name": "Front End Delight",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/FunForrest.conf",
         "is_dark": true,
         "name": "Fun Forrest",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Galaxy.conf",
         "is_dark": true,
         "name": "Galaxy",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Github.conf",
         "name": "Github",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Glacier.conf",
         "is_dark": true,
         "name": "Glacier",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/GoaBase.conf",
         "is_dark": true,
         "name": "Goa Base",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Grape.conf",
         "is_dark": true,
         "name": "Grape",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Grass.conf",
         "name": "Grass",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/gruvbox_dark.conf",
         "is_dark": true,
         "name": "Gruvbox Dark",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/gruvbox_light.conf",
         "name": "Gruvbox Light",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/GruvboxMaterialDarkHard.conf",
         "is_dark": true,
         "name": "Gruvbox Material Dark Hard",
-        "num_settings": 32
+        "num_settings": 26
     },
     {
         "file": "themes/GruvboxMaterialDarkMedium.conf",
         "is_dark": true,
         "name": "Gruvbox Material Dark Medium",
-        "num_settings": 32
+        "num_settings": 26
     },
     {
         "file": "themes/GruvboxMaterialDarkSoft.conf",
         "is_dark": true,
         "name": "Gruvbox Material Dark Soft",
-        "num_settings": 32
+        "num_settings": 26
     },
     {
         "file": "themes/GruvboxMaterialLightHard.conf",
         "name": "Gruvbox Material Light Hard",
-        "num_settings": 32
+        "num_settings": 26
     },
     {
         "file": "themes/GruvboxMaterialLightMedium.conf",
         "name": "Gruvbox Material Light Medium",
-        "num_settings": 32
+        "num_settings": 26
     },
     {
         "file": "themes/GruvboxMaterialLightSoft.conf",
         "name": "Gruvbox Material Light Soft",
-        "num_settings": 32
+        "num_settings": 26
     },
     {
         "file": "themes/Hardcore.conf",
         "is_dark": true,
         "name": "Hardcore",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Harper.conf",
         "is_dark": true,
         "name": "Harper",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Highway.conf",
         "is_dark": true,
         "name": "Highway",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Hipster_Green.conf",
         "is_dark": true,
         "name": "Hipster Green",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Homebrew.conf",
         "is_dark": true,
         "name": "Homebrew",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Hurtado.conf",
         "is_dark": true,
         "name": "Hurtado",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Hybrid.conf",
         "is_dark": true,
         "name": "Hybrid",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/IC_Green_PPL.conf",
         "is_dark": true,
         "name": "Ic Green Ppl",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/IC_Orange_PPL.conf",
         "is_dark": true,
         "name": "Ic Orange Ppl",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/idleToes.conf",
         "is_dark": true,
         "name": "Idle Toes",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/IR_Black.conf",
         "is_dark": true,
         "name": "Ir Black",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Jackie_Brown.conf",
         "is_dark": true,
         "name": "Jackie Brown",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Japanesque.conf",
         "is_dark": true,
         "name": "Japanesque",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Jellybeans.conf",
         "is_dark": true,
         "name": "Jellybeans",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/JetBrains_Darcula.conf",
         "is_dark": true,
         "name": "Jet Brains Darcula",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Kibble.conf",
         "is_dark": true,
         "name": "Kibble",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Later_This_Evening.conf",
         "is_dark": true,
         "name": "Later This Evening",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Lavandula.conf",
         "is_dark": true,
         "name": "Lavandula",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/LiquidCarbon.conf",
         "is_dark": true,
         "name": "Liquid Carbon",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/LiquidCarbonTransparent.conf",
         "is_dark": true,
         "name": "Liquid Carbon Transparent",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/LiquidCarbonTransparentInverse.conf",
         "is_dark": true,
         "name": "Liquid Carbon Transparent Inverse",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Man_Page.conf",
         "name": "Man Page",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Material.conf",
         "name": "Material",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/MaterialDark.conf",
         "is_dark": true,
         "name": "Material Dark",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Mathias.conf",
         "is_dark": true,
         "name": "Mathias",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Medallion.conf",
         "is_dark": true,
         "name": "Medallion",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Misterioso.conf",
         "is_dark": true,
         "name": "Misterioso",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Molokai.conf",
         "is_dark": true,
         "name": "Molokai",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/MonaLisa.conf",
         "is_dark": true,
         "name": "Mona Lisa",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Monokai.conf",
         "is_dark": true,
         "name": "Monokai",
-        "num_settings": 34
+        "num_settings": 28
     },
     {
         "file": "themes/Monokai_Classic.conf",
         "is_dark": true,
         "name": "Monokai Classic",
-        "num_settings": 28
+        "num_settings": 22
     },
     {
         "file": "themes/Monokai_Pro.conf",
         "is_dark": true,
         "name": "Monokai Pro",
-        "num_settings": 28
+        "num_settings": 22
     },
     {
         "file": "themes/Monokai_Pro_(Filter_Machine).conf",
         "is_dark": true,
         "name": "Monokai Pro (filter Machine)",
-        "num_settings": 28
+        "num_settings": 22
     },
     {
         "file": "themes/Monokai_Pro_(Filter_Octagon).conf",
         "is_dark": true,
         "name": "Monokai Pro (filter Octagon)",
-        "num_settings": 28
+        "num_settings": 22
     },
     {
         "file": "themes/Monokai_Pro_(Filter_Ristretto).conf",
         "is_dark": true,
         "name": "Monokai Pro (filter Ristretto)",
-        "num_settings": 28
+        "num_settings": 22
     },
     {
         "file": "themes/Monokai_Pro_(Filter_Spectrum).conf",
         "is_dark": true,
         "name": "Monokai Pro (filter Spectrum)",
-        "num_settings": 28
+        "num_settings": 22
     },
     {
         "file": "themes/Monokai_Soda.conf",
         "is_dark": true,
         "name": "Monokai Soda",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/N0tch2k.conf",
         "is_dark": true,
         "name": "N0tch2k",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Neopolitan.conf",
         "is_dark": true,
         "name": "Neopolitan",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Neutron.conf",
         "is_dark": true,
         "name": "Neutron",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/NightLion_v1.conf",
         "is_dark": true,
         "name": "Night Lion V1",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/NightLion_v2.conf",
         "is_dark": true,
         "name": "Night Lion V2",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/nightfly.conf",
         "is_dark": true,
         "name": "Nightfly",
-        "num_settings": 26
+        "num_settings": 20
     },
     {
         "file": "themes/Nord.conf",
         "is_dark": true,
         "name": "Nord",
-        "num_settings": 33
+        "num_settings": 27
     },
     {
         "file": "themes/Nova.conf",
         "is_dark": true,
         "name": "Nova",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Novel.conf",
         "name": "Novel",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Obsidian.conf",
         "is_dark": true,
         "name": "Obsidian",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Ocean.conf",
         "name": "Ocean",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/OceanicMaterial.conf",
         "is_dark": true,
         "name": "Oceanic Material",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Ollie.conf",
         "is_dark": true,
         "name": "Ollie",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/OneDark.conf",
         "is_dark": true,
         "name": "One Dark",
-        "num_settings": 28
+        "num_settings": 22
     },
     {
         "file": "themes/OneHalf.conf",
         "is_dark": true,
         "name": "One Half",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/OneHalfLight.conf",
         "name": "One Half Light",
-        "num_settings": 28
+        "num_settings": 22
     },
     {
         "file": "themes/Parasio_Dark.conf",
         "is_dark": true,
         "name": "Parasio Dark",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/PaulMillr.conf",
         "is_dark": true,
         "name": "Paul Millr",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/PencilDark.conf",
         "is_dark": true,
         "name": "Pencil Dark",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/PencilLight.conf",
         "name": "Pencil Light",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Piatto_Light.conf",
         "name": "Piatto Light",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Pnevma.conf",
         "is_dark": true,
         "name": "Pnevma",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Pro.conf",
         "is_dark": true,
         "name": "Pro",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Red_Alert.conf",
         "name": "Red Alert",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Red_Sands.conf",
         "name": "Red Sands",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Relaxed_Afterglow.conf",
         "is_dark": true,
         "name": "Relaxed Afterglow",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Renault_Style.conf",
         "is_dark": true,
         "name": "Renault Style",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Renault_Style_Light.conf",
         "is_dark": true,
         "name": "Renault Style Light",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Rippedcasts.conf",
         "is_dark": true,
         "name": "Rippedcasts",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Royal.conf",
         "is_dark": true,
         "name": "Royal",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/SeaShells.conf",
         "is_dark": true,
         "name": "Sea Shells",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Seafoam_Pastel.conf",
         "is_dark": true,
         "name": "Seafoam Pastel",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Seti.conf",
         "is_dark": true,
         "name": "Seti",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Shaman.conf",
         "is_dark": true,
         "name": "Shaman",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Sierra.conf",
         "is_dark": true,
         "name": "Sierra",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Slate.conf",
         "is_dark": true,
         "name": "Slate",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Smyck.conf",
         "is_dark": true,
         "name": "Smyck",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/snazzy.conf",
         "is_dark": true,
         "name": "Snazzy",
-        "num_settings": 29
+        "num_settings": 23
     },
     {
         "file": "themes/SnowDark.conf",
         "is_dark": true,
         "name": "Snow Dark",
-        "num_settings": 28
+        "num_settings": 22
     },
     {
         "file": "themes/SnowLight.conf",
         "name": "Snow Light",
-        "num_settings": 28
+        "num_settings": 22
     },
     {
         "file": "themes/SoftServer.conf",
         "is_dark": true,
         "name": "Soft Server",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Solarized_Darcula.conf",
         "is_dark": true,
         "name": "Solarized Darcula",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Solarized_Dark.conf",
         "is_dark": true,
         "name": "Solarized Dark",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Solarized_Dark_-_Patched.conf",
         "is_dark": true,
         "name": "Solarized Dark - Patched",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Solarized_Dark_Higher_Contrast.conf",
         "is_dark": true,
         "name": "Solarized Dark Higher Contrast",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Solarized_Light.conf",
         "name": "Solarized Light",
-        "num_settings": 32
+        "num_settings": 26
     },
     {
         "file": "themes/Solarized8_Dark.conf",
         "is_dark": true,
         "name": "Solarized8 Dark",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Source_Code_X.conf",
         "is_dark": true,
         "name": "Source Code X",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Sourcerer.conf",
         "is_dark": true,
         "name": "Sourcerer",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/SpaceGray.conf",
         "is_dark": true,
         "name": "Space Gray",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/SpaceGray_Eighties.conf",
         "is_dark": true,
         "name": "Space Gray Eighties",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/SpaceGray_Eighties_Dull.conf",
         "is_dark": true,
         "name": "Space Gray Eighties Dull",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Spacedust.conf",
         "is_dark": true,
         "name": "Spacedust",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Spacemacs.conf",
         "is_dark": true,
         "name": "Spacemacs",
-        "num_settings": 26
+        "num_settings": 20
     },
     {
         "file": "themes/Spiderman.conf",
         "is_dark": true,
         "name": "Spiderman",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Spring.conf",
         "name": "Spring",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Square.conf",
         "is_dark": true,
         "name": "Square",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Srcery.conf",
         "is_dark": true,
         "name": "Srcery",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Substrata.conf",
         "is_dark": true,
         "name": "Substrata",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Sundried.conf",
         "is_dark": true,
         "name": "Sundried",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Symfonic.conf",
         "is_dark": true,
         "name": "Symfonic",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Tango_Dark.conf",
         "is_dark": true,
         "name": "Tango Dark",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Tango_Light.conf",
         "name": "Tango Light",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Teerb.conf",
         "is_dark": true,
         "name": "Teerb",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Thayer_Bright.conf",
         "is_dark": true,
         "name": "Thayer Bright",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/The_Hulk.conf",
         "is_dark": true,
         "name": "The Hulk",
-        "num_settings": 27
+        "num_settings": 21
+    },
+    {
+        "author": "The name of the theme author",
+        "blurb": "A description of this theme. This must be thelast item in the metadata and can continue over multiple lines.",
+        "file": "themes/template.conf",
+        "is_dark": true,
+        "license": "The license information",
+        "name": "The name of the theme (if not present, derived from filename)",
+        "num_settings": 0
     },
     {
         "file": "themes/Tomorrow.conf",
         "name": "Tomorrow",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Tomorrow_Night.conf",
         "is_dark": true,
         "name": "Tomorrow Night",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Tomorrow_Night_Blue.conf",
         "is_dark": true,
         "name": "Tomorrow Night Blue",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Tomorrow_Night_Bright.conf",
         "is_dark": true,
         "name": "Tomorrow Night Bright",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Tomorrow_Night_Eighties.conf",
         "is_dark": true,
         "name": "Tomorrow Night Eighties",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/ToyChest.conf",
         "is_dark": true,
         "name": "Toy Chest",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Treehouse.conf",
         "is_dark": true,
         "name": "Treehouse",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Twilight.conf",
         "is_dark": true,
         "name": "Twilight",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Ubuntu.conf",
         "is_dark": true,
         "name": "Ubuntu",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Urple.conf",
         "is_dark": true,
         "name": "Urple",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Vaughn.conf",
         "is_dark": true,
         "name": "Vaughn",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/VibrantInk.conf",
         "is_dark": true,
         "name": "Vibrant Ink",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/WarmNeon.conf",
         "is_dark": true,
         "name": "Warm Neon",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Wez.conf",
         "is_dark": true,
         "name": "Wez",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/WildCherry.conf",
         "is_dark": true,
         "name": "Wild Cherry",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Wombat.conf",
         "is_dark": true,
         "name": "Wombat",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Wryan.conf",
         "is_dark": true,
         "name": "Wryan",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/xcodedark.conf",
         "is_dark": true,
         "name": "Xcodedark",
-        "num_settings": 27
+        "num_settings": 21
     },
     {
         "file": "themes/Zenburn.conf",
         "is_dark": true,
         "name": "Zenburn",
-        "num_settings": 27
+        "num_settings": 21
     }
 ]

@@ -41,7 +41,7 @@ class LineParser:
             return
         line = line[3:]
         if self.in_blurb:
-            ans['blurb'] += line
+            ans['blurb'] += ' ' + line
             return
         try:
             key, val = line.split(':', 1)
@@ -52,6 +52,8 @@ class LineParser:
         val = val.strip()
         if val:
             ans[key] = val
+        if key == 'blurb':
+            self.in_blurb = True
 
 
 def parse_theme(fname, raw):
@@ -59,7 +61,7 @@ def parse_theme(fname, raw):
     conf = parse_config(lines)
     bg = conf.get('background', Color())
     is_dark = max(bg) < 115
-    ans = {'blurb': '', 'name': theme_name_from_file_name(fname)}
+    ans = {'name': theme_name_from_file_name(fname)}
     parser = LineParser()
     for i, line in enumerate(raw.splitlines()):
         line = line.strip()
@@ -72,11 +74,11 @@ def parse_theme(fname, raw):
                 f'Failed to parse {fname} line {i+1} with error: {e}')
         if not parser.keep_going:
             break
-    if not ans['blurb']:
-        del ans['blurb']
     if is_dark:
         ans['is_dark'] = True
-    ans['num_settings'] = len(conf)
+    ans['num_settings'] = len(conf) - len(parse_config(()))
+    if ans['num_settings'] < 1:
+        raise SystemExit(f'The theme {fname} has no settings')
     return ans
 
 
