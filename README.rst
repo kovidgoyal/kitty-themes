@@ -9,3 +9,8 @@ The themes were initially imported from `dexpota/kitty-themes
 
 The overall license of this repository is the GPLv3, however, individual theme
 files can have their own licenses, as specified in the theme file itself.
+
+To contribute a new theme, use `template.conf <template.conf>`_ as
+a base and modify it for your theme. Submit a `pull request
+<https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request>`_
+with your new theme.
