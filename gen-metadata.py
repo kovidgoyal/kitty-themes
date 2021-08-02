@@ -23,38 +23,60 @@ def theme_name_from_file_name(fname):
     return ' '.join(x.capitalize() for x in filter(None, ans.split()))
 
 
+class LineParser:
+
+    def __init__(self):
+        self.in_metadata = False
+        self.in_blurb = False
+        self.keep_going = True
+
+    def __call__(self, line, ans):
+        is_block = line.startswith('## ')
+        if self.in_metadata and not is_block:
+            self.keep_going = False
+            return
+        if not self.in_metadata and is_block:
+            self.in_metadata = True
+        if not self.in_metadata:
+            return
+        line = line[3:]
+        if self.in_blurb:
+            ans['blurb'] += line
+            return
+        try:
+            key, val = line.split(':', 1)
+        except Exception:
+            self.keep_going = False
+            return
+        key = key.strip().lower()
+        val = val.strip()
+        if val:
+            ans[key] = val
+
+
 def parse_theme(fname, raw):
-    in_blurb = False
-    in_metadata = False
     lines = raw.splitlines()
     conf = parse_config(lines)
     bg = conf.get('background', Color())
     is_dark = max(bg) < 115
     ans = {'blurb': '', 'name': theme_name_from_file_name(fname)}
-    for line in raw.splitlines():
+    parser = LineParser()
+    for i, line in enumerate(raw.splitlines()):
         line = line.strip()
         if not line:
             continue
-        is_block = line.startswith('## ')
-        if in_metadata and not is_block:
+        try:
+            parser(line, ans)
+        except Exception as e:
+            raise SystemExit(
+                f'Failed to parse {fname} line {i+1} with error: {e}')
+        if not parser.keep_going:
             break
-        if not in_metadata and is_block:
-            in_metadata = True
-        if not in_metadata:
-            continue
-        line = line[3:]
-        if in_blurb:
-            ans['blurb'] += line
-            continue
-        key, val = line.split(':', 1)
-        key = key.strip().lower()
-        val = val.strip()
-        if val:
-            ans[key] = val
     if not ans['blurb']:
         del ans['blurb']
     if is_dark:
         ans['is_dark'] = True
+    ans['num_settings'] = len(conf)
     return ans
 
 
