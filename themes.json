@@ -1,0 +1,964 @@
+[
+    {
+        "file": "themes/1984_dark.conf",
+        "is_dark": true,
+        "name": "1984 Dark"
+    },
+    {
+        "file": "themes/1984_light.conf",
+        "name": "1984 Light"
+    },
+    {
+        "file": "themes/1984_orwellian.conf",
+        "is_dark": true,
+        "name": "1984 Orwellian"
+    },
+    {
+        "file": "themes/3024_Day.conf",
+        "name": "3024 Day"
+    },
+    {
+        "file": "themes/3024_Night.conf",
+        "is_dark": true,
+        "name": "3024 Night"
+    },
+    {
+        "file": "themes/AdventureTime.conf",
+        "is_dark": true,
+        "name": "Adventure Time"
+    },
+    {
+        "file": "themes/Afterglow.conf",
+        "is_dark": true,
+        "name": "Afterglow"
+    },
+    {
+        "file": "themes/AlienBlood.conf",
+        "is_dark": true,
+        "name": "Alien Blood"
+    },
+    {
+        "file": "themes/Alucard.conf",
+        "is_dark": true,
+        "name": "Alucard"
+    },
+    {
+        "file": "themes/Apprentice.conf",
+        "is_dark": true,
+        "name": "Apprentice"
+    },
+    {
+        "file": "themes/Argonaut.conf",
+        "is_dark": true,
+        "name": "Argonaut"
+    },
+    {
+        "file": "themes/Arthur.conf",
+        "is_dark": true,
+        "name": "Arthur"
+    },
+    {
+        "file": "themes/AtelierSulphurpool.conf",
+        "is_dark": true,
+        "name": "Atelier Sulphurpool"
+    },
+    {
+        "file": "themes/Atom.conf",
+        "is_dark": true,
+        "name": "Atom"
+    },
+    {
+        "file": "themes/AtomOneLight.conf",
+        "name": "Atom One Light"
+    },
+    {
+        "file": "themes/ayu.conf",
+        "is_dark": true,
+        "name": "Ayu"
+    },
+    {
+        "file": "themes/ayu_light.conf",
+        "name": "Ayu Light"
+    },
+    {
+        "file": "themes/ayu_mirage.conf",
+        "is_dark": true,
+        "name": "Ayu Mirage"
+    },
+    {
+        "file": "themes/Batman.conf",
+        "is_dark": true,
+        "name": "Batman"
+    },
+    {
+        "file": "themes/Belafonte_Day.conf",
+        "name": "Belafonte Day"
+    },
+    {
+        "file": "themes/Belafonte_Night.conf",
+        "is_dark": true,
+        "name": "Belafonte Night"
+    },
+    {
+        "file": "themes/BirdsOfParadise.conf",
+        "is_dark": true,
+        "name": "Birds Of Paradise"
+    },
+    {
+        "file": "themes/BlackMetal.conf",
+        "is_dark": true,
+        "name": "Black Metal"
+    },
+    {
+        "file": "themes/Blazer.conf",
+        "is_dark": true,
+        "name": "Blazer"
+    },
+    {
+        "file": "themes/Borland.conf",
+        "name": "Borland"
+    },
+    {
+        "file": "themes/Bright_Lights.conf",
+        "is_dark": true,
+        "name": "Bright Lights"
+    },
+    {
+        "file": "themes/Broadcast.conf",
+        "is_dark": true,
+        "name": "Broadcast"
+    },
+    {
+        "file": "themes/Brogrammer.conf",
+        "is_dark": true,
+        "name": "Brogrammer"
+    },
+    {
+        "file": "themes/C64.conf",
+        "name": "C64"
+    },
+    {
+        "file": "themes/Chalk.conf",
+        "is_dark": true,
+        "name": "Chalk"
+    },
+    {
+        "file": "themes/Chalkboard.conf",
+        "is_dark": true,
+        "name": "Chalkboard"
+    },
+    {
+        "file": "themes/ChallengerDeep.conf",
+        "is_dark": true,
+        "name": "Challenger Deep"
+    },
+    {
+        "file": "themes/Ciapre.conf",
+        "is_dark": true,
+        "name": "Ciapre"
+    },
+    {
+        "file": "themes/CLRS.conf",
+        "name": "Clrs"
+    },
+    {
+        "file": "themes/Cobalt_Neon.conf",
+        "is_dark": true,
+        "name": "Cobalt Neon"
+    },
+    {
+        "file": "themes/Cobalt2.conf",
+        "is_dark": true,
+        "name": "Cobalt2"
+    },
+    {
+        "file": "themes/Corvine.conf",
+        "is_dark": true,
+        "name": "Corvine"
+    },
+    {
+        "file": "themes/CrayonPonyFish.conf",
+        "is_dark": true,
+        "name": "Crayon Pony Fish"
+    },
+    {
+        "file": "themes/Dark_Pastel.conf",
+        "is_dark": true,
+        "name": "Dark Pastel"
+    },
+    {
+        "file": "themes/Darkside.conf",
+        "is_dark": true,
+        "name": "Darkside"
+    },
+    {
+        "file": "themes/Desert.conf",
+        "is_dark": true,
+        "name": "Desert"
+    },
+    {
+        "file": "themes/DesertNight.conf",
+        "is_dark": true,
+        "name": "Desert Night"
+    },
+    {
+        "file": "themes/DimmedMonokai.conf",
+        "is_dark": true,
+        "name": "Dimmed Monokai"
+    },
+    {
+        "file": "themes/DotGov.conf",
+        "is_dark": true,
+        "name": "Dot Gov"
+    },
+    {
+        "file": "themes/Dracula.conf",
+        "is_dark": true,
+        "name": "Dracula"
+    },
+    {
+        "file": "themes/Dumbledore.conf",
+        "is_dark": true,
+        "name": "Dumbledore"
+    },
+    {
+        "file": "themes/Duotone_Dark.conf",
+        "is_dark": true,
+        "name": "Duotone Dark"
+    },
+    {
+        "file": "themes/Earthsong.conf",
+        "is_dark": true,
+        "name": "Earthsong"
+    },
+    {
+        "file": "themes/Elemental.conf",
+        "is_dark": true,
+        "name": "Elemental"
+    },
+    {
+        "file": "themes/ENCOM.conf",
+        "is_dark": true,
+        "name": "Encom"
+    },
+    {
+        "file": "themes/Espresso.conf",
+        "is_dark": true,
+        "name": "Espresso"
+    },
+    {
+        "file": "themes/Espresso_Libre.conf",
+        "is_dark": true,
+        "name": "Espresso Libre"
+    },
+    {
+        "file": "themes/Falcon.conf",
+        "is_dark": true,
+        "name": "Falcon"
+    },
+    {
+        "file": "themes/Farin.conf",
+        "is_dark": true,
+        "name": "Farin"
+    },
+    {
+        "file": "themes/Fideloper.conf",
+        "is_dark": true,
+        "name": "Fideloper"
+    },
+    {
+        "file": "themes/FishTank.conf",
+        "is_dark": true,
+        "name": "Fish Tank"
+    },
+    {
+        "file": "themes/Flat.conf",
+        "is_dark": true,
+        "name": "Flat"
+    },
+    {
+        "file": "themes/Flatland.conf",
+        "is_dark": true,
+        "name": "Flatland"
+    },
+    {
+        "file": "themes/Floraverse.conf",
+        "is_dark": true,
+        "name": "Floraverse"
+    },
+    {
+        "file": "themes/ForestNight.conf",
+        "is_dark": true,
+        "name": "Forest Night"
+    },
+    {
+        "file": "themes/FrontEndDelight.conf",
+        "is_dark": true,
+        "name": "Front End Delight"
+    },
+    {
+        "file": "themes/FunForrest.conf",
+        "is_dark": true,
+        "name": "Fun Forrest"
+    },
+    {
+        "file": "themes/Galaxy.conf",
+        "is_dark": true,
+        "name": "Galaxy"
+    },
+    {
+        "file": "themes/Github.conf",
+        "name": "Github"
+    },
+    {
+        "file": "themes/Glacier.conf",
+        "is_dark": true,
+        "name": "Glacier"
+    },
+    {
+        "file": "themes/GoaBase.conf",
+        "is_dark": true,
+        "name": "Goa Base"
+    },
+    {
+        "file": "themes/Grape.conf",
+        "is_dark": true,
+        "name": "Grape"
+    },
+    {
+        "file": "themes/Grass.conf",
+        "name": "Grass"
+    },
+    {
+        "file": "themes/gruvbox_dark.conf",
+        "is_dark": true,
+        "name": "Gruvbox Dark"
+    },
+    {
+        "file": "themes/gruvbox_light.conf",
+        "name": "Gruvbox Light"
+    },
+    {
+        "file": "themes/GruvboxMaterialDarkHard.conf",
+        "is_dark": true,
+        "name": "Gruvbox Material Dark Hard"
+    },
+    {
+        "file": "themes/GruvboxMaterialDarkMedium.conf",
+        "is_dark": true,
+        "name": "Gruvbox Material Dark Medium"
+    },
+    {
+        "file": "themes/GruvboxMaterialDarkSoft.conf",
+        "is_dark": true,
+        "name": "Gruvbox Material Dark Soft"
+    },
+    {
+        "file": "themes/GruvboxMaterialLightHard.conf",
+        "name": "Gruvbox Material Light Hard"
+    },
+    {
+        "file": "themes/GruvboxMaterialLightMedium.conf",
+        "name": "Gruvbox Material Light Medium"
+    },
+    {
+        "file": "themes/GruvboxMaterialLightSoft.conf",
+        "name": "Gruvbox Material Light Soft"
+    },
+    {
+        "file": "themes/Hardcore.conf",
+        "is_dark": true,
+        "name": "Hardcore"
+    },
+    {
+        "file": "themes/Harper.conf",
+        "is_dark": true,
+        "name": "Harper"
+    },
+    {
+        "file": "themes/Highway.conf",
+        "is_dark": true,
+        "name": "Highway"
+    },
+    {
+        "file": "themes/Hipster_Green.conf",
+        "is_dark": true,
+        "name": "Hipster Green"
+    },
+    {
+        "file": "themes/Homebrew.conf",
+        "is_dark": true,
+        "name": "Homebrew"
+    },
+    {
+        "file": "themes/Hurtado.conf",
+        "is_dark": true,
+        "name": "Hurtado"
+    },
+    {
+        "file": "themes/Hybrid.conf",
+        "is_dark": true,
+        "name": "Hybrid"
+    },
+    {
+        "file": "themes/IC_Green_PPL.conf",
+        "is_dark": true,
+        "name": "Ic Green Ppl"
+    },
+    {
+        "file": "themes/IC_Orange_PPL.conf",
+        "is_dark": true,
+        "name": "Ic Orange Ppl"
+    },
+    {
+        "file": "themes/idleToes.conf",
+        "is_dark": true,
+        "name": "Idle Toes"
+    },
+    {
+        "file": "themes/IR_Black.conf",
+        "is_dark": true,
+        "name": "Ir Black"
+    },
+    {
+        "file": "themes/Jackie_Brown.conf",
+        "is_dark": true,
+        "name": "Jackie Brown"
+    },
+    {
+        "file": "themes/Japanesque.conf",
+        "is_dark": true,
+        "name": "Japanesque"
+    },
+    {
+        "file": "themes/Jellybeans.conf",
+        "is_dark": true,
+        "name": "Jellybeans"
+    },
+    {
+        "file": "themes/JetBrains_Darcula.conf",
+        "is_dark": true,
+        "name": "Jet Brains Darcula"
+    },
+    {
+        "file": "themes/Kibble.conf",
+        "is_dark": true,
+        "name": "Kibble"
+    },
+    {
+        "file": "themes/Later_This_Evening.conf",
+        "is_dark": true,
+        "name": "Later This Evening"
+    },
+    {
+        "file": "themes/Lavandula.conf",
+        "is_dark": true,
+        "name": "Lavandula"
+    },
+    {
+        "file": "themes/LiquidCarbon.conf",
+        "is_dark": true,
+        "name": "Liquid Carbon"
+    },
+    {
+        "file": "themes/LiquidCarbonTransparent.conf",
+        "is_dark": true,
+        "name": "Liquid Carbon Transparent"
+    },
+    {
+        "file": "themes/LiquidCarbonTransparentInverse.conf",
+        "is_dark": true,
+        "name": "Liquid Carbon Transparent Inverse"
+    },
+    {
+        "file": "themes/Man_Page.conf",
+        "name": "Man Page"
+    },
+    {
+        "file": "themes/Material.conf",
+        "name": "Material"
+    },
+    {
+        "file": "themes/MaterialDark.conf",
+        "is_dark": true,
+        "name": "Material Dark"
+    },
+    {
+        "file": "themes/Mathias.conf",
+        "is_dark": true,
+        "name": "Mathias"
+    },
+    {
+        "file": "themes/Medallion.conf",
+        "is_dark": true,
+        "name": "Medallion"
+    },
+    {
+        "file": "themes/Misterioso.conf",
+        "is_dark": true,
+        "name": "Misterioso"
+    },
+    {
+        "file": "themes/Molokai.conf",
+        "is_dark": true,
+        "name": "Molokai"
+    },
+    {
+        "file": "themes/MonaLisa.conf",
+        "is_dark": true,
+        "name": "Mona Lisa"
+    },
+    {
+        "file": "themes/Monokai.conf",
+        "is_dark": true,
+        "name": "Monokai"
+    },
+    {
+        "file": "themes/Monokai_Classic.conf",
+        "is_dark": true,
+        "name": "Monokai Classic"
+    },
+    {
+        "file": "themes/Monokai_Pro.conf",
+        "is_dark": true,
+        "name": "Monokai Pro"
+    },
+    {
+        "file": "themes/Monokai_Pro_(Filter_Machine).conf",
+        "is_dark": true,
+        "name": "Monokai Pro (filter Machine)"
+    },
+    {
+        "file": "themes/Monokai_Pro_(Filter_Octagon).conf",
+        "is_dark": true,
+        "name": "Monokai Pro (filter Octagon)"
+    },
+    {
+        "file": "themes/Monokai_Pro_(Filter_Ristretto).conf",
+        "is_dark": true,
+        "name": "Monokai Pro (filter Ristretto)"
+    },
+    {
+        "file": "themes/Monokai_Pro_(Filter_Spectrum).conf",
+        "is_dark": true,
+        "name": "Monokai Pro (filter Spectrum)"
+    },
+    {
+        "file": "themes/Monokai_Soda.conf",
+        "is_dark": true,
+        "name": "Monokai Soda"
+    },
+    {
+        "file": "themes/N0tch2k.conf",
+        "is_dark": true,
+        "name": "N0tch2k"
+    },
+    {
+        "file": "themes/Neopolitan.conf",
+        "is_dark": true,
+        "name": "Neopolitan"
+    },
+    {
+        "file": "themes/Neutron.conf",
+        "is_dark": true,
+        "name": "Neutron"
+    },
+    {
+        "file": "themes/NightLion_v1.conf",
+        "is_dark": true,
+        "name": "Night Lion V1"
+    },
+    {
+        "file": "themes/NightLion_v2.conf",
+        "is_dark": true,
+        "name": "Night Lion V2"
+    },
+    {
+        "file": "themes/nightfly.conf",
+        "is_dark": true,
+        "name": "Nightfly"
+    },
+    {
+        "file": "themes/Nord.conf",
+        "is_dark": true,
+        "name": "Nord"
+    },
+    {
+        "file": "themes/Nova.conf",
+        "is_dark": true,
+        "name": "Nova"
+    },
+    {
+        "file": "themes/Novel.conf",
+        "name": "Novel"
+    },
+    {
+        "file": "themes/Obsidian.conf",
+        "is_dark": true,
+        "name": "Obsidian"
+    },
+    {
+        "file": "themes/Ocean.conf",
+        "name": "Ocean"
+    },
+    {
+        "file": "themes/OceanicMaterial.conf",
+        "is_dark": true,
+        "name": "Oceanic Material"
+    },
+    {
+        "file": "themes/Ollie.conf",
+        "is_dark": true,
+        "name": "Ollie"
+    },
+    {
+        "file": "themes/OneDark.conf",
+        "is_dark": true,
+        "name": "One Dark"
+    },
+    {
+        "file": "themes/OneHalf.conf",
+        "is_dark": true,
+        "name": "One Half"
+    },
+    {
+        "file": "themes/OneHalfLight.conf",
+        "name": "One Half Light"
+    },
+    {
+        "file": "themes/Parasio_Dark.conf",
+        "is_dark": true,
+        "name": "Parasio Dark"
+    },
+    {
+        "file": "themes/PaulMillr.conf",
+        "is_dark": true,
+        "name": "Paul Millr"
+    },
+    {
+        "file": "themes/PencilDark.conf",
+        "is_dark": true,
+        "name": "Pencil Dark"
+    },
+    {
+        "file": "themes/PencilLight.conf",
+        "name": "Pencil Light"
+    },
+    {
+        "file": "themes/Piatto_Light.conf",
+        "name": "Piatto Light"
+    },
+    {
+        "file": "themes/Pnevma.conf",
+        "is_dark": true,
+        "name": "Pnevma"
+    },
+    {
+        "file": "themes/Pro.conf",
+        "is_dark": true,
+        "name": "Pro"
+    },
+    {
+        "file": "themes/Red_Alert.conf",
+        "name": "Red Alert"
+    },
+    {
+        "file": "themes/Red_Sands.conf",
+        "name": "Red Sands"
+    },
+    {
+        "file": "themes/Relaxed_Afterglow.conf",
+        "is_dark": true,
+        "name": "Relaxed Afterglow"
+    },
+    {
+        "file": "themes/Renault_Style.conf",
+        "is_dark": true,
+        "name": "Renault Style"
+    },
+    {
+        "file": "themes/Renault_Style_Light.conf",
+        "is_dark": true,
+        "name": "Renault Style Light"
+    },
+    {
+        "file": "themes/Rippedcasts.conf",
+        "is_dark": true,
+        "name": "Rippedcasts"
+    },
+    {
+        "file": "themes/Royal.conf",
+        "is_dark": true,
+        "name": "Royal"
+    },
+    {
+        "file": "themes/SeaShells.conf",
+        "is_dark": true,
+        "name": "Sea Shells"
+    },
+    {
+        "file": "themes/Seafoam_Pastel.conf",
+        "is_dark": true,
+        "name": "Seafoam Pastel"
+    },
+    {
+        "file": "themes/Seti.conf",
+        "is_dark": true,
+        "name": "Seti"
+    },
+    {
+        "file": "themes/Shaman.conf",
+        "is_dark": true,
+        "name": "Shaman"
+    },
+    {
+        "file": "themes/Sierra.conf",
+        "is_dark": true,
+        "name": "Sierra"
+    },
+    {
+        "file": "themes/Slate.conf",
+        "is_dark": true,
+        "name": "Slate"
+    },
+    {
+        "file": "themes/Smyck.conf",
+        "is_dark": true,
+        "name": "Smyck"
+    },
+    {
+        "file": "themes/snazzy.conf",
+        "is_dark": true,
+        "name": "Snazzy"
+    },
+    {
+        "file": "themes/SnowDark.conf",
+        "is_dark": true,
+        "name": "Snow Dark"
+    },
+    {
+        "file": "themes/SnowLight.conf",
+        "name": "Snow Light"
+    },
+    {
+        "file": "themes/SoftServer.conf",
+        "is_dark": true,
+        "name": "Soft Server"
+    },
+    {
+        "file": "themes/Solarized_Darcula.conf",
+        "is_dark": true,
+        "name": "Solarized Darcula"
+    },
+    {
+        "file": "themes/Solarized_Dark.conf",
+        "is_dark": true,
+        "name": "Solarized Dark"
+    },
+    {
+        "file": "themes/Solarized_Dark_-_Patched.conf",
+        "is_dark": true,
+        "name": "Solarized Dark - Patched"
+    },
+    {
+        "file": "themes/Solarized_Dark_Higher_Contrast.conf",
+        "is_dark": true,
+        "name": "Solarized Dark Higher Contrast"
+    },
+    {
+        "file": "themes/Solarized_Light.conf",
+        "name": "Solarized Light"
+    },
+    {
+        "file": "themes/Solarized8_Dark.conf",
+        "is_dark": true,
+        "name": "Solarized8 Dark"
+    },
+    {
+        "file": "themes/Source_Code_X.conf",
+        "is_dark": true,
+        "name": "Source Code X"
+    },
+    {
+        "file": "themes/Sourcerer.conf",
+        "is_dark": true,
+        "name": "Sourcerer"
+    },
+    {
+        "file": "themes/SpaceGray.conf",
+        "is_dark": true,
+        "name": "Space Gray"
+    },
+    {
+        "file": "themes/SpaceGray_Eighties.conf",
+        "is_dark": true,
+        "name": "Space Gray Eighties"
+    },
+    {
+        "file": "themes/SpaceGray_Eighties_Dull.conf",
+        "is_dark": true,
+        "name": "Space Gray Eighties Dull"
+    },
+    {
+        "file": "themes/Spacedust.conf",
+        "is_dark": true,
+        "name": "Spacedust"
+    },
+    {
+        "file": "themes/Spacemacs.conf",
+        "is_dark": true,
+        "name": "Spacemacs"
+    },
+    {
+        "file": "themes/Spiderman.conf",
+        "is_dark": true,
+        "name": "Spiderman"
+    },
+    {
+        "file": "themes/Spring.conf",
+        "name": "Spring"
+    },
+    {
+        "file": "themes/Square.conf",
+        "is_dark": true,
+        "name": "Square"
+    },
+    {
+        "file": "themes/Srcery.conf",
+        "is_dark": true,
+        "name": "Srcery"
+    },
+    {
+        "file": "themes/Substrata.conf",
+        "is_dark": true,
+        "name": "Substrata"
+    },
+    {
+        "file": "themes/Sundried.conf",
+        "is_dark": true,
+        "name": "Sundried"
+    },
+    {
+        "file": "themes/Symfonic.conf",
+        "is_dark": true,
+        "name": "Symfonic"
+    },
+    {
+        "file": "themes/Tango_Dark.conf",
+        "is_dark": true,
+        "name": "Tango Dark"
+    },
+    {
+        "file": "themes/Tango_Light.conf",
+        "name": "Tango Light"
+    },
+    {
+        "file": "themes/Teerb.conf",
+        "is_dark": true,
+        "name": "Teerb"
+    },
+    {
+        "file": "themes/Thayer_Bright.conf",
+        "is_dark": true,
+        "name": "Thayer Bright"
+    },
+    {
+        "file": "themes/The_Hulk.conf",
+        "is_dark": true,
+        "name": "The Hulk"
+    },
+    {
+        "file": "themes/Tomorrow.conf",
+        "name": "Tomorrow"
+    },
+    {
+        "file": "themes/Tomorrow_Night.conf",
+        "is_dark": true,
+        "name": "Tomorrow Night"
+    },
+    {
+        "file": "themes/Tomorrow_Night_Blue.conf",
+        "is_dark": true,
+        "name": "Tomorrow Night Blue"
+    },
+    {
+        "file": "themes/Tomorrow_Night_Bright.conf",
+        "is_dark": true,
+        "name": "Tomorrow Night Bright"
+    },
+    {
+        "file": "themes/Tomorrow_Night_Eighties.conf",
+        "is_dark": true,
+        "name": "Tomorrow Night Eighties"
+    },
+    {
+        "file": "themes/ToyChest.conf",
+        "is_dark": true,
+        "name": "Toy Chest"
+    },
+    {
+        "file": "themes/Treehouse.conf",
+        "is_dark": true,
+        "name": "Treehouse"
+    },
+    {
+        "file": "themes/Twilight.conf",
+        "is_dark": true,
+        "name": "Twilight"
+    },
+    {
+        "file": "themes/Ubuntu.conf",
+        "is_dark": true,
+        "name": "Ubuntu"
+    },
+    {
+        "file": "themes/Urple.conf",
+        "is_dark": true,
+        "name": "Urple"
+    },
+    {
+        "file": "themes/Vaughn.conf",
+        "is_dark": true,
+        "name": "Vaughn"
+    },
+    {
+        "file": "themes/VibrantInk.conf",
+        "is_dark": true,
+        "name": "Vibrant Ink"
+    },
+    {
+        "file": "themes/WarmNeon.conf",
+        "is_dark": true,
+        "name": "Warm Neon"
+    },
+    {
+        "file": "themes/Wez.conf",
+        "is_dark": true,
+        "name": "Wez"
+    },
+    {
+        "file": "themes/WildCherry.conf",
+        "is_dark": true,
+        "name": "Wild Cherry"
+    },
+    {
+        "file": "themes/Wombat.conf",
+        "is_dark": true,
+        "name": "Wombat"
+    },
+    {
+        "file": "themes/Wryan.conf",
+        "is_dark": true,
+        "name": "Wryan"
+    },
+    {
+        "file": "themes/xcodedark.conf",
+        "is_dark": true,
+        "name": "Xcodedark"
+    },
+    {
+        "file": "themes/Zenburn.conf",
+        "is_dark": true,
+        "name": "Zenburn"
+    }
+]
