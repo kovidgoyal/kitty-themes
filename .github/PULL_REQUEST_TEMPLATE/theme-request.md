@@ -6,4 +6,7 @@ labels: theme request
 assignees: kovidgoyal
 
 ---
+
 Please, include **theme** in the collection.
+
+Below is a screenshot of the theme in kitty.
