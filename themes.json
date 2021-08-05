@@ -232,6 +232,15 @@
         "num_settings": 21
     },
     {
+        "author": "Kovid Goyal",
+        "blurb": "This theme uses all default settings from kitty.  Use it to easily restore defaults.",
+        "file": "themes/default.conf",
+        "is_dark": true,
+        "license": "GPLv3",
+        "name": "Default",
+        "num_settings": 0
+    },
+    {
         "file": "themes/Desert.conf",
         "is_dark": true,
         "name": "Desert",
