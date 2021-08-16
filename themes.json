@@ -265,10 +265,13 @@
         "num_settings": 21
     },
     {
+        "author": "Keegan Carruthers-Smith",
         "file": "themes/Dracula.conf",
         "is_dark": true,
+        "license": "MIT",
         "name": "Dracula",
-        "num_settings": 21
+        "num_settings": 29,
+        "upstream": "https://raw.githubusercontent.com/dracula/kitty/master/dracula.conf"
     },
     {
         "file": "themes/Dumbledore.conf",
