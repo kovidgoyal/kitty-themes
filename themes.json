@@ -1196,5 +1196,15 @@
         "is_dark": true,
         "name": "Zenburn",
         "num_settings": 21
+    },
+    {
+        "author": "\u98df\u7121\u9b5a <liuyinz@gmail.com>",
+        "blurb": "Theme for Kitty inspired by https://citylights.xyz/",
+        "file": "themes/citylights.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "citylights",
+        "num_settings": 29,
+        "upstream": "https://raw.githubusercontent.com/liuyinz/dotfile/master/common/kitty/citylights.conf"
     }
 ]
