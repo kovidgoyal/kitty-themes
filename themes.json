@@ -710,10 +710,14 @@
         "num_settings": 20
     },
     {
+        "author": "Connor Holyday",
+        "blurb": "An arctic, north-bluish clean and elegant Kitty theme.",
         "file": "themes/Nord.conf",
         "is_dark": true,
+        "license": "MIT",
         "name": "Nord",
-        "num_settings": 27
+        "num_settings": 22,
+        "upstream": "https://raw.githubusercontent.com/connorholyday/nord-kitty/master/nord.conf"
     },
     {
         "file": "themes/Nova.conf",
@@ -1204,7 +1208,7 @@
         "is_dark": true,
         "license": "MIT",
         "name": "citylights",
-        "num_settings": 29,
+        "num_settings": 37,
         "upstream": "https://raw.githubusercontent.com/liuyinz/dotfile/master/common/kitty/citylights.conf"
     }
 ]
