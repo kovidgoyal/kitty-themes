@@ -167,6 +167,14 @@
         "num_settings": 21
     },
     {
+        "author": "Microsoft",
+        "blurb": "The default theme of Microsoft's terminals, including Windows Terminal and cmd.",
+        "file": "themes/Campbell.conf",
+        "is_dark": true,
+        "name": "Campbell",
+        "num_settings": 20
+    },
+    {
         "file": "themes/Chalk.conf",
         "is_dark": true,
         "name": "Chalk",
