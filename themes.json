@@ -714,8 +714,10 @@
     {
         "file": "themes/nightfly.conf",
         "is_dark": true,
+        "license": "MIT",
         "name": "Nightfly",
-        "num_settings": 20
+        "num_settings": 21,
+        "upstream": "https://github.com/bluz71/vim-nightfly-guicolors/blob/master/terminal_themes/kitty-theme.conf"
     },
     {
         "author": "Connor Holyday",
