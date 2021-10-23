@@ -781,6 +781,23 @@
         "num_settings": 22
     },
     {
+        "author": "Nikyle Nguyen",
+        "blurb": "Dark color scheme inspired by Google's Material Design",
+        "file": "themes/PaperColor_dark.conf",
+        "is_dark": true,
+        "license": "[MIT License](https://opensource.org/licenses/MIT)",
+        "name": "PaperColor Dark",
+        "num_settings": 20
+    },
+    {
+        "author": "Nikyle Nguyen",
+        "blurb": "Light color scheme inspired by Google's Material Design",
+        "file": "themes/PaperColor_light.conf",
+        "license": "[MIT License](https://opensource.org/licenses/MIT)",
+        "name": "PaperColor Light",
+        "num_settings": 20
+    },
+    {
         "file": "themes/Parasio_Dark.conf",
         "is_dark": true,
         "name": "Parasio Dark",
