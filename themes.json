@@ -1223,6 +1223,15 @@
         "num_settings": 21
     },
     {
+        "author": "Ya-suke",
+        "blurb": "A dracula inspired colorscheme for kitty.",
+        "file": "themes/YsDark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "YsDark",
+        "num_settings": 29
+    },
+    {
         "file": "themes/Zenburn.conf",
         "is_dark": true,
         "name": "Zenburn",
