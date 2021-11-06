@@ -52,6 +52,18 @@
         "num_settings": 21
     },
     {
+        "file": "themes/Aquarium_Dark.conf",
+        "is_dark": true,
+        "name": "Aquarium Dark",
+        "num_settings": 22
+    },
+    {
+        "file": "themes/Aquarium_Light.conf",
+        "is_dark": false,
+        "name": "Aquarium Light",
+        "num_settings": 22
+    },
+    {
         "file": "themes/Apprentice.conf",
         "is_dark": true,
         "name": "Apprentice",
