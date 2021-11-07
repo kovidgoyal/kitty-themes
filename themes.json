@@ -52,22 +52,29 @@
         "num_settings": 21
     },
     {
-        "file": "themes/Aquarium_Dark.conf",
-        "is_dark": true,
-        "name": "Aquarium Dark",
-        "num_settings": 22
-    },
-    {
-        "file": "themes/Aquarium_Light.conf",
-        "is_dark": false,
-        "name": "Aquarium Light",
-        "num_settings": 22
-    },
-    {
         "file": "themes/Apprentice.conf",
         "is_dark": true,
         "name": "Apprentice",
         "num_settings": 22
+    },
+    {
+        "author": "Detective Pikachu",
+        "blurb": "A simple vibrant dark theme Kitty terminal.",
+        "file": "themes/Aquarium_Dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Aquarium Dark",
+        "num_settings": 22,
+        "upstream": "https://github.com/FrenzyExists/aquarium-vim/raw/develop/extras/kitty_aquarium_dark.conf"
+    },
+    {
+        "author": "ragdoll2iguess",
+        "blurb": "A simple vibrant dark theme Kitty terminal. Old BG -> #E6E6F1  #E1E3F2",
+        "file": "themes/Aquarium_Light.conf",
+        "license": "MIT",
+        "name": "Aquarium Light",
+        "num_settings": 21,
+        "upstream": "https://github.com/FrenzyExists/aquarium-vim/raw/develop/extras/kitty_aquarium_light.conf"
     },
     {
         "file": "themes/Argonaut.conf",
