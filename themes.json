@@ -1224,6 +1224,18 @@
         "num_settings": 21
     },
     {
+        "file": "themes/wizzy-bright.conf",
+        "is_dark": true,
+        "name": "Wizzy Bright",
+        "num_settings": 26
+    },
+    {
+        "file": "themes/wizzy-muted.conf",
+        "is_dark": true,
+        "name": "Wizzy Muted",
+        "num_settings": 26
+    },
+    {
         "file": "themes/Wombat.conf",
         "is_dark": true,
         "name": "Wombat",
