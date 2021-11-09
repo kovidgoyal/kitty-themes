@@ -1224,16 +1224,24 @@
         "num_settings": 21
     },
     {
+        "author": "erin",
+        "blurb": "A variant of Wryan for a certain special Lain",
         "file": "themes/wizzy-bright.conf",
         "is_dark": true,
+        "license": "MIT",
         "name": "Wizzy Bright",
-        "num_settings": 26
+        "num_settings": 26,
+        "upstream": "https://github.com/erincerys/kitty-themes/blob/master/themes/wizzy-bright.conf"
     },
     {
+        "author": "erin",
+        "blurb": "A variant of Wryan for a certain special Lain",
         "file": "themes/wizzy-muted.conf",
         "is_dark": true,
+        "license": "MIT",
         "name": "Wizzy Muted",
-        "num_settings": 26
+        "num_settings": 26,
+        "upstream": "https://github.com/erincerys/kitty-themes/blob/master/themes/wizzy-muted.conf"
     },
     {
         "file": "themes/Wombat.conf",
