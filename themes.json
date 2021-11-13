@@ -1285,5 +1285,22 @@
         "name": "citylights",
         "num_settings": 37,
         "upstream": "https://raw.githubusercontent.com/liuyinz/dotfile/master/common/kitty/citylights.conf"
+    },
+    {
+        "author": "Protesilaos Stavrou",
+        "blurb": "Highly accessible themes made for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA)",
+        "file": "themes/modus-operandi.conf",
+        "license": "GNU GPLv3",
+        "name": "modus-operandi",
+        "num_settings": 22
+    },
+    {
+        "author": "Protesilaos Stavrou",
+        "blurb": "Highly accessible themes made for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA)",
+        "file": "themes/modus-vivendi.conf",
+        "is_dark": true,
+        "license": "GNU GPLv3",
+        "name": "modus-vivendi",
+        "num_settings": 22
     }
 ]
