@@ -4,6 +4,8 @@ Themes for the kitty terminal
 This is a collection of themes for the `kitty terminal emulator
 <https://sw.kovidgoyal.net/kitty>`_.
 
+.. image:: screenshot.png
+
 The themes were initially imported from `dexpota/kitty-themes
 <https://github.com/dexpota/kitty-themes>`_.
 
