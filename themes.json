@@ -891,6 +891,24 @@
         "num_settings": 21
     },
     {
+        "file": "themes/rose-pine.conf",
+        "is_dark": true,
+        "name": "Rosé Pine",
+        "num_settings": 27
+    },
+    {
+        "file": "themes/rose-pine-dawn.conf",
+        "is_dark": false,
+        "name": "Rosé Pine Dawn",
+        "num_settings": 27
+    },
+    {
+        "file": "themes/rose-pine-moon.conf",
+        "is_dark": true,
+        "name": "Rosé Pine Moon",
+        "num_settings": 27
+    },
+    {
         "file": "themes/Royal.conf",
         "is_dark": true,
         "name": "Royal",
