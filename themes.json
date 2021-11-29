@@ -891,22 +891,33 @@
         "num_settings": 21
     },
     {
+        "author": "mvllow",
+        "blurb": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist",
         "file": "themes/rose-pine.conf",
         "is_dark": true,
-        "name": "Rosé Pine",
-        "num_settings": 27
+        "license": "MIT",
+        "name": "Ros\u00e9 Pine",
+        "num_settings": 27,
+        "upstream": "https://github.com/rose-pine/kitty/blob/main/rose-pine.conf"
     },
     {
+        "author": "mvllow",
+        "blurb": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist",
         "file": "themes/rose-pine-dawn.conf",
-        "is_dark": false,
-        "name": "Rosé Pine Dawn",
-        "num_settings": 27
+        "license": "MIT",
+        "name": "Ros\u00e9 Pine Dawn",
+        "num_settings": 27,
+        "upstream": "https://github.com/rose-pine/kitty/blob/main/rose-pine-dawn.conf"
     },
     {
+        "author": "mvllow",
+        "blurb": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist",
         "file": "themes/rose-pine-moon.conf",
         "is_dark": true,
-        "name": "Rosé Pine Moon",
-        "num_settings": 27
+        "license": "MIT",
+        "name": "Ros\u00e9 Pine Moon",
+        "num_settings": 27,
+        "upstream": "https://github.com/rose-pine/kitty/blob/main/rose-pine-moon.conf"
     },
     {
         "file": "themes/Royal.conf",
