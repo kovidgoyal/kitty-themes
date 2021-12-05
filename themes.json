@@ -571,6 +571,32 @@
         "num_settings": 21
     },
     {
+        "author": "Ogden Webb",
+        "blurb": "Kaolin meets polar lights.",
+        "file": "themes/Kaolin_Aurora.conf",
+        "is_dark": true,
+        "license": "GNU GPLv3",
+        "name": "Kaolin Aurora",
+        "num_settings": 28
+    },
+    {
+        "author": "Ogden Webb",
+        "blurb": "Dark jade theme inspired by Sierra.vim.",
+        "file": "themes/Kaolin_Dark.conf",
+        "is_dark": true,
+        "license": "GNU GPLv3",
+        "name": "Kaolin Dark",
+        "num_settings": 28
+    },
+    {
+        "author": "Ogden Webb",
+        "blurb": "Light variant of the original Kaolin Dark theme.",
+        "file": "themes/Kaolin_Light.conf",
+        "license": "GNU GPLv3",
+        "name": "Kaolin Light",
+        "num_settings": 28
+    },
+    {
         "file": "themes/Kibble.conf",
         "is_dark": true,
         "name": "Kibble",
