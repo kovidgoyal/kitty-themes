@@ -581,6 +581,14 @@
     },
     {
         "author": "Ogden Webb",
+        "blurb": "Light Kaolin theme with soft colors",
+        "file": "themes/Kaolin_Breeze.conf",
+        "license": "GNU GPLv3",
+        "name": "Kaolin Breeze",
+        "num_settings": 28
+    },
+    {
+        "author": "Ogden Webb",
         "blurb": "Dark jade theme inspired by Sierra.vim.",
         "file": "themes/Kaolin_Dark.conf",
         "is_dark": true,
@@ -603,6 +611,24 @@
         "file": "themes/Kaolin_Light.conf",
         "license": "GNU GPLv3",
         "name": "Kaolin Light",
+        "num_settings": 28
+    },
+    {
+        "author": "Ogden Webb",
+        "blurb": "Dark blue Kaolin theme",
+        "file": "themes/Kaolin_Ocean.conf",
+        "is_dark": true,
+        "license": "GNU GPLv3",
+        "name": "Kaolin Ocean",
+        "num_settings": 28
+    },
+    {
+        "author": "Ogden Webb",
+        "blurb": "Dark theme where terrestrial sphere imbues the spirit",
+        "file": "themes/Kaolin_Temple.conf",
+        "is_dark": true,
+        "license": "GNU GPLv3",
+        "name": "Kaolin Temple",
         "num_settings": 28
     },
     {
