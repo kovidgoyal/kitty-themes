@@ -1392,7 +1392,7 @@
         "file": "themes/modus-operandi.conf",
         "license": "GNU GPLv3",
         "name": "modus-operandi",
-        "num_settings": 22
+        "num_settings": 28
     },
     {
         "author": "Protesilaos Stavrou",
@@ -1401,6 +1401,6 @@
         "is_dark": true,
         "license": "GNU GPLv3",
         "name": "modus-vivendi",
-        "num_settings": 22
+        "num_settings": 28
     }
 ]
