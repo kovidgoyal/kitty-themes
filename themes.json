@@ -481,6 +481,13 @@
         "num_settings": 26
     },
     {
+        "author": "Mert18",
+        "file": "themes/HachikoRed.conf",
+        "is_dark": true,
+        "name": "Hachiko",
+        "num_settings": 33
+    },
+    {
         "file": "themes/Hardcore.conf",
         "is_dark": true,
         "name": "Hardcore",
