@@ -437,15 +437,55 @@
         "num_settings": 21
     },
     {
-        "file": "themes/gruvbox_dark.conf",
+        "author": "Pavel Pertsev",
+        "file": "themes/gruvbox-dark.conf",
         "is_dark": true,
+        "license": "MIT/X11",
         "name": "Gruvbox Dark",
-        "num_settings": 21
+        "num_settings": 23,
+        "upstream": "https://raw.githubusercontent.com/gruvbox-community/gruvbox-contrib/master/kitty/gruvbox-dark.conf"
     },
     {
-        "file": "themes/gruvbox_light.conf",
+        "author": "Pavel Pertsev",
+        "file": "themes/gruvbox-dark-hard.conf",
+        "is_dark": true,
+        "license": "MIT/X11",
+        "name": "Gruvbox Dark Hard",
+        "num_settings": 23,
+        "upstream": "https://raw.githubusercontent.com/gruvbox-community/gruvbox-contrib/master/kitty/gruvbox-dark-hard.conf"
+    },
+    {
+        "author": "Pavel Pertsev",
+        "file": "themes/gruvbox-dark-soft.conf",
+        "is_dark": true,
+        "license": "MIT/X11",
+        "name": "Gruvbox Dark Soft",
+        "num_settings": 23,
+        "upstream": "https://raw.githubusercontent.com/gruvbox-community/gruvbox-contrib/master/kitty/gruvbox-dark-soft.conf"
+    },
+    {
+        "author": "Pavel Pertsev",
+        "file": "themes/gruvbox-light.conf",
+        "license": "MIT/X11",
         "name": "Gruvbox Light",
-        "num_settings": 21
+        "num_settings": 23,
+        "upstream": "https://raw.githubusercontent.com/gruvbox-community/gruvbox-contrib/master/kitty/gruvbox-light.conf"
+    },
+    {
+        "author": "Pavel Pertsev",
+        "file": "themes/gruvbox-light-hard.conf",
+        "license": "MIT/X11",
+        "name": "Gruvbox Light Hard",
+        "num_settings": 23,
+        "upstream": "https://raw.githubusercontent.com/gruvbox-community/gruvbox-contrib/master/kitty/gruvbox-light-hard.conf"
+    },
+    {
+        "author": "Pavel Pertsev",
+        "file": "themes/gruvbox-light-soft.conf",
+        "license": "MIT/X11",
+        "name": "Gruvbox Light Soft",
+        "num_settings": 23,
+        "upstream": "https://raw.githubusercontent.com/gruvbox-community/gruvbox-contrib/master/kitty/gruvbox-light-soft.conf"
     },
     {
         "file": "themes/GruvboxMaterialDarkHard.conf",
