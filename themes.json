@@ -194,6 +194,16 @@
         "num_settings": 20
     },
     {
+        "author": "Pocco81 (https://github.com/Pocco81)",
+        "blurb": "Soothing pastel theme for the high-spirited!",
+        "file": "themes/catppuccin.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Catppuccin",
+        "num_settings": 39,
+        "upstream": "https://github.com/catppuccin/kitty/blob/main/catppuccin.conf"
+    },
+    {
         "file": "themes/Chalk.conf",
         "is_dark": true,
         "name": "Chalk",
@@ -1422,16 +1432,6 @@
         "is_dark": true,
         "name": "Zenburn",
         "num_settings": 21
-    },
-    {
-        "author": "Pocco81",
-        "blurb": "Warm mid-tone dark theme to show off your vibrant self!",
-        "file": "themes/catppuccin.conf",
-        "is_dark": true,
-        "license": "MIT",
-        "name": "catppuccin",
-        "num_settings": 29,
-        "upstream": "https://raw.githubusercontent.com/catppuccin/kitty/main/catppuccin.conf"
     },
     {
         "author": "\u98df\u7121\u9b5a <liuyinz@gmail.com>",
