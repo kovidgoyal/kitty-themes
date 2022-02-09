@@ -296,6 +296,32 @@
         "num_settings": 21
     },
     {
+        "author": "Henrik Lissner <https://github.com/hlissner>",
+        "blurb": "Inspired by Atom's One Dark color scheme.",
+        "file": "themes/Doom_One.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Doom One",
+        "num_settings": 28
+    },
+    {
+        "author": "Henrik Lissner <https://github.com/hlissner>",
+        "blurb": "Doom Emacs flagship theme based on atom One Light",
+        "file": "themes/Doom_One_Light.conf",
+        "license": "MIT",
+        "name": "Doom One Light",
+        "num_settings": 28
+    },
+    {
+        "author": "Henrik Lissner <https://github.com/hlissner>",
+        "blurb": "A version of Doom One Emacs theme that uses more vibrant colors.",
+        "file": "themes/Doom_Vibrant.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Doom Vibrant",
+        "num_settings": 28
+    },
+    {
         "file": "themes/DotGov.conf",
         "is_dark": true,
         "name": "Dot Gov",
