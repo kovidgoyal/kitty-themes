@@ -1466,18 +1466,18 @@
     {
         "author": "Protesilaos Stavrou",
         "blurb": "Highly accessible themes made for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA)",
-        "file": "themes/modus-operandi.conf",
+        "file": "themes/Modus_Operandi.conf",
         "license": "GNU GPLv3",
-        "name": "modus-operandi",
+        "name": "Modus Operandi",
         "num_settings": 28
     },
     {
         "author": "Protesilaos Stavrou",
         "blurb": "Highly accessible themes made for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA)",
-        "file": "themes/modus-vivendi.conf",
+        "file": "themes/Modus_Vivendi.conf",
         "is_dark": true,
         "license": "GNU GPLv3",
-        "name": "modus-vivendi",
+        "name": "Modus Vivendi",
         "num_settings": 28
     },
     {
