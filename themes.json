@@ -182,6 +182,16 @@
         "num_settings": 21
     },
     {
+        "author": "b3yc0d3 <b3yc0d3@dnmx.org>",
+        "blurb": "Breath2 Theme for Kitty Terminal",
+        "file": "themes/breath2.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Breath2",
+        "num_settings": 24,
+        "upstream": "https://raw.githubusercontent.com/b3yc0d3/my-kitty-themes/main/themes/breath2.conf"
+    },
+    {
         "file": "themes/Bright_Lights.conf",
         "is_dark": true,
         "name": "Bright Lights",
