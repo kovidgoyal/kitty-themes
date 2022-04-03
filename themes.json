@@ -1227,8 +1227,8 @@
         "author": "Ethan Schoonover",
         "blurb": "Precision colors for machines and people",
         "file": "themes/Solarized_Dark.conf",
-        "license": "MIT",
         "is_dark": true,
+        "license": "MIT",
         "name": "Solarized Dark",
         "num_settings": 21
     },
@@ -1250,7 +1250,7 @@
         "file": "themes/Solarized_Light.conf",
         "license": "MIT",
         "name": "Solarized Light",
-        "num_settings": 26
+        "num_settings": 28
     },
     {
         "file": "themes/Solarized8_Dark.conf",
