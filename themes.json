@@ -273,6 +273,15 @@
         "num_settings": 21
     },
     {
+        "author": "apathyrecharge",
+        "blurb": "Dark trans-pride colour inspired theme",
+        "file": "themes/dark_pride.conf",
+        "is_dark": true,
+        "license": "GPLv3",
+        "name": "Dark Pride",
+        "num_settings": 21
+    },
+    {
         "file": "themes/Darkside.conf",
         "is_dark": true,
         "name": "Darkside",
