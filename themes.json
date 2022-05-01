@@ -1115,7 +1115,7 @@
         "license": "MIT",
         "name": "Ros\u00e9 Pine",
         "num_settings": 27,
-        "upstream": "https://github.com/rose-pine/kitty/blob/main/rose-pine.conf"
+        "upstream": "https://github.com/rose-pine/kitty/blob/main/dist/rose-pine.conf"
     },
     {
         "author": "mvllow",
@@ -1124,7 +1124,7 @@
         "license": "MIT",
         "name": "Ros\u00e9 Pine Dawn",
         "num_settings": 27,
-        "upstream": "https://github.com/rose-pine/kitty/blob/main/rose-pine-dawn.conf"
+        "upstream": "https://github.com/rose-pine/kitty/blob/main/dist/rose-pine-dawn.conf"
     },
     {
         "author": "mvllow",
@@ -1134,7 +1134,7 @@
         "license": "MIT",
         "name": "Ros\u00e9 Pine Moon",
         "num_settings": 27,
-        "upstream": "https://github.com/rose-pine/kitty/blob/main/rose-pine-moon.conf"
+        "upstream": "https://github.com/rose-pine/kitty/blob/main/dist/rose-pine-moon.conf"
     },
     {
         "file": "themes/Royal.conf",
