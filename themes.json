@@ -267,6 +267,12 @@
         "num_settings": 21
     },
     {
+        "file": "themes/DarkOneNuanced.conf",
+        "is_dark": true,
+        "name": "Dark One Nuanced",
+        "num_settings": 26
+    },
+    {
         "file": "themes/Dark_Pastel.conf",
         "is_dark": true,
         "name": "Dark Pastel",
