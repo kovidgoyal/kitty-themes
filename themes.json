@@ -1149,6 +1149,15 @@
         "num_settings": 21
     },
     {
+        "author": "PandaCatPlayz",
+        "blurb": "A custom kitty dark theme loosely using the Endesga 32 palette",
+        "file": "themes/Sakura_Night.conf",
+        "license": "MIT",
+        "name": "Sakura Night",
+        "num_settings": 11,
+        "upstream": "https://pandacatplayz.github.io/kitty-themes/Sakura_Night.conf"
+    },
+    {
         "file": "themes/SeaShells.conf",
         "is_dark": true,
         "name": "Sea Shells",
