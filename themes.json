@@ -1067,7 +1067,7 @@
         "blurb": "Clean, vibrant and pleasing color scheme",
         "file": "themes/OneHalfDark.conf",
         "is_dark": true,
-        "license": "[MIT License](https://opensource.org/licenses/MIT)",
+        "license": "MIT",
         "name": "One Half Dark",
         "num_settings": 21,
         "upstream": "https://raw.githubusercontent.com/sonph/onehalf/master/kitty/onehalf-dark.conf"
@@ -1076,7 +1076,7 @@
         "author": "Son A. Pham",
         "blurb": "Clean, vibrant and pleasing color scheme",
         "file": "themes/OneHalfLight.conf",
-        "license": "[MIT License](https://opensource.org/licenses/MIT)",
+        "license": "MIT",
         "name": "One Half Light",
         "num_settings": 21,
         "upstream": "https://raw.githubusercontent.com/sonph/onehalf/master/kitty/onehalf-light.conf"
