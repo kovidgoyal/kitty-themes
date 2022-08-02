@@ -610,37 +610,61 @@
         "upstream": "https://raw.githubusercontent.com/gruvbox-community/gruvbox-contrib/master/kitty/gruvbox-light-soft.conf"
     },
     {
+        "author": "Sainnhe Park",
+        "blurb": "A modified version of Gruvbox with softer contrasts",
         "file": "themes/GruvboxMaterialDarkHard.conf",
         "is_dark": true,
+        "license": "MIT",
         "name": "Gruvbox Material Dark Hard",
-        "num_settings": 26
+        "num_settings": 22,
+        "upstream": "https://raw.githubusercontent.com/rsaihe/gruvbox-material-kitty/main/colors/gruvbox-material-dark-hard.conf"
     },
     {
+        "author": "Sainnhe Park",
+        "blurb": "A modified version of Gruvbox with softer contrasts",
         "file": "themes/GruvboxMaterialDarkMedium.conf",
         "is_dark": true,
+        "license": "MIT",
         "name": "Gruvbox Material Dark Medium",
-        "num_settings": 26
+        "num_settings": 22,
+        "upstream": "https://raw.githubusercontent.com/rsaihe/gruvbox-material-kitty/main/colors/gruvbox-material-dark-medium.conf"
     },
     {
+        "author": "Sainnhe Park",
+        "blurb": "A modified version of Gruvbox with softer contrasts",
         "file": "themes/GruvboxMaterialDarkSoft.conf",
         "is_dark": true,
+        "license": "MIT",
         "name": "Gruvbox Material Dark Soft",
-        "num_settings": 26
+        "num_settings": 22,
+        "upstream": "https://raw.githubusercontent.com/rsaihe/gruvbox-material-kitty/main/colors/gruvbox-material-dark-soft.conf"
     },
     {
+        "author": "Sainnhe Park",
+        "blurb": "A modified version of Gruvbox with softer contrasts",
         "file": "themes/GruvboxMaterialLightHard.conf",
+        "license": "MIT",
         "name": "Gruvbox Material Light Hard",
-        "num_settings": 26
+        "num_settings": 22,
+        "upstream": "https://raw.githubusercontent.com/rsaihe/gruvbox-material-kitty/main/colors/gruvbox-material-light-hard.conf"
     },
     {
+        "author": "Sainnhe Park",
+        "blurb": "A modified version of Gruvbox with softer contrasts",
         "file": "themes/GruvboxMaterialLightMedium.conf",
+        "license": "MIT",
         "name": "Gruvbox Material Light Medium",
-        "num_settings": 26
+        "num_settings": 22,
+        "upstream": "https://raw.githubusercontent.com/rsaihe/gruvbox-material-kitty/main/colors/gruvbox-material-light-medium.conf"
     },
     {
+        "author": "Sainnhe Park",
+        "blurb": "A modified version of Gruvbox with softer contrasts",
         "file": "themes/GruvboxMaterialLightSoft.conf",
+        "license": "MIT",
         "name": "Gruvbox Material Light Soft",
-        "num_settings": 26
+        "num_settings": 22,
+        "upstream": "https://raw.githubusercontent.com/rsaihe/gruvbox-material-kitty/main/colors/gruvbox-material-light-soft.conf"
     },
     {
         "author": "Mert18",
