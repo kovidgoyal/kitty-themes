@@ -404,7 +404,8 @@
         "num_settings": 21
     },
     {
-        "blurb": "Dark (hard) theme based on https://github.com/sainnhe/everforest for Vim.",
+        "author": "Sainnhe Park",
+        "blurb": "A green based color scheme designed to be warm and soft",
         "file": "themes/everforest_dark_hard.conf",
         "is_dark": true,
         "license": "MIT",
@@ -413,7 +414,8 @@
         "upstream": "https://github.com/ewal/kitty-everforest/blob/master/themes/everforest_dark_hard.conf"
     },
     {
-        "blurb": "Dark (medium) theme based on https://github.com/sainnhe/everforest for Vim.",
+        "author": "Sainnhe Park",
+        "blurb": "A green based color scheme designed to be warm and soft",
         "file": "themes/everforest_dark_medium.conf",
         "is_dark": true,
         "license": "MIT",
@@ -422,7 +424,8 @@
         "upstream": "https://github.com/ewal/kitty-everforest/blob/master/themes/everforest_dark_medium.conf"
     },
     {
-        "blurb": "Dark (soft) theme based on https://github.com/sainnhe/everforest for Vim.",
+        "author": "Sainnhe Park",
+        "blurb": "A green based color scheme designed to be warm and soft",
         "file": "themes/everforest_dark_soft.conf",
         "is_dark": true,
         "license": "MIT",
@@ -431,7 +434,8 @@
         "upstream": "https://github.com/ewal/kitty-everforest/blob/master/themes/everforest_dark_soft.conf"
     },
     {
-        "blurb": "Light (hard) theme based on https://github.com/sainnhe/everforest for Vim.",
+        "author": "Sainnhe Park",
+        "blurb": "A green based color scheme designed to be warm and soft",
         "file": "themes/everforest_light_hard.conf",
         "license": "MIT",
         "name": "Everforest Light Hard",
@@ -439,7 +443,8 @@
         "upstream": "https://github.com/ewal/kitty-everforest/blob/master/themes/everforest_light_hard.conf"
     },
     {
-        "blurb": "Light (medium) theme based on https://github.com/sainnhe/everforest for Vim.",
+        "author": "Sainnhe Park",
+        "blurb": "A green based color scheme designed to be warm and soft",
         "file": "themes/everforest_light_medium.conf",
         "license": "MIT",
         "name": "Everforest Light Medium",
@@ -447,7 +452,8 @@
         "upstream": "https://github.com/ewal/kitty-everforest/blob/master/themes/everforest_light_medium.conf"
     },
     {
-        "blurb": "Light (soft) theme based on https://github.com/sainnhe/everforest for Vim.",
+        "author": "Sainnhe Park",
+        "blurb": "A green based color scheme designed to be warm and soft",
         "file": "themes/everforest_light_soft.conf",
         "license": "MIT",
         "name": "Everforest Light Soft",
