@@ -315,16 +315,6 @@
         "num_settings": 19
     },
     {
-        "author": "Alan Welsh",
-        "blurb": "A theme for those with red-green colorblindness. Titlebar, tab, and bell colors are left at their defaults.",
-        "file": "themes/deuters_delight.conf",
-        "is_dark": true,
-        "license": "CC BY 4.0",
-        "name": "Deuters' Delight",
-        "num_settings": 31,
-        "upstream": "https://github.com/Pound-Hash/colorblind_themes.git"
-    },
-    {
         "file": "themes/DimmedMonokai.conf",
         "is_dark": true,
         "name": "Dimmed Monokai",
