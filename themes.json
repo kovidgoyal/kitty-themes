@@ -211,17 +211,16 @@
         "license": "MIT",
         "name": "Catppuccin-Frappe",
         "num_settings": 39,
-        "upstream": "https://raw.githubusercontent.com/catppuccin/kitty/main/frappe.conf"
+        "upstream": "https://github.com/catppuccin/kitty/blob/main/frappe.conf"
     },
     {
         "author": "Pocco81 (https://github.com/Pocco81)",
         "blurb": "Soothing pastel theme for the high-spirited!",
         "file": "themes/Catppuccin-Latte.conf",
-        "is_dark": true,
         "license": "MIT",
         "name": "Catppuccin-Latte",
         "num_settings": 39,
-        "upstream": "https://raw.githubusercontent.com/catppuccin/kitty/main/latte.conf"
+        "upstream": "https://github.com/catppuccin/kitty/blob/main/latte.conf"
     },
     {
         "author": "Pocco81 (https://github.com/Pocco81)",
@@ -231,16 +230,17 @@
         "license": "MIT",
         "name": "Catppuccin-Macchiato",
         "num_settings": 39,
-        "upstream": "https://raw.githubusercontent.com/catppuccin/kitty/main/macchiato.conf"
+        "upstream": "https://github.com/catppuccin/kitty/blob/main/macchiato.conf"
     },
     {
         "author": "Pocco81 (https://github.com/Pocco81)",
         "blurb": "Soothing pastel theme for the high-spirited!",
         "file": "themes/Catppuccin-Mocha.conf",
+        "is_dark": true,
         "license": "MIT",
         "name": "Catppuccin-Mocha",
         "num_settings": 39,
-        "upstream": "https://raw.githubusercontent.com/catppuccin/kitty/main/mocha.conf"
+        "upstream": "https://github.com/catppuccin/kitty/blob/main/mocha.conf"
     },
     {
         "file": "themes/Chalk.conf",
