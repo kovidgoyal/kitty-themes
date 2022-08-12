@@ -527,6 +527,59 @@
         "num_settings": 21
     },
     {
+        "author": "GitHub",
+        "file": "themes/GitHub_Dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "GitHub Dark",
+        "num_settings": 26
+    },
+    {
+        "author": "GitHub",
+        "file": "themes/GitHub_Dark_Colorblind.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "GitHub Dark Colorblind",
+        "num_settings": 26
+    },
+    {
+        "author": "GitHub",
+        "file": "themes/GitHub_Dark_Dimmed.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "GitHub Dark Dimmed",
+        "num_settings": 26
+    },
+    {
+        "author": "GitHub",
+        "file": "themes/GitHub_Dark_High_Contrast.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "GitHub Dark High Contrast",
+        "num_settings": 26
+    },
+    {
+        "author": "GitHub",
+        "file": "themes/GitHub_Light.conf",
+        "license": "MIT",
+        "name": "GitHub Light",
+        "num_settings": 26
+    },
+    {
+        "author": "GitHub",
+        "file": "themes/GitHub_Light_Colorblind.conf",
+        "license": "MIT",
+        "name": "GitHub Light Colorblind",
+        "num_settings": 26
+    },
+    {
+        "author": "GitHub",
+        "file": "themes/GitHub_Light_High_Contrast.conf",
+        "license": "MIT",
+        "name": "GitHub Light High Contrast",
+        "num_settings": 26
+    },
+    {
         "file": "themes/Github.conf",
         "name": "Github",
         "num_settings": 21
