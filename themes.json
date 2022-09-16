@@ -40,6 +40,25 @@
         "num_settings": 21
     },
     {
+        "author": "Nikita Prokopov",
+        "blurb": "A light color scheme adapted from Alabaster for the kitty terminal.",
+        "file": "themes/Alabaster.conf",
+        "license": "MIT",
+        "name": "Alabaster",
+        "num_settings": 30,
+        "upstream": "https://raw.githubusercontent.com/anmolmathias/kitty-alabaster/master/alabaster.conf"
+    },
+    {
+        "author": "Nikita Prokopov",
+        "blurb": "A dark color scheme adapted from Alabaster for the kitty terminal.",
+        "file": "themes/Alabaster_Dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Alabaster Dark",
+        "num_settings": 30,
+        "upstream": "https://raw.githubusercontent.com/anmolmathias/kitty-alabaster/master/alabaster-dark.conf"
+    },
+    {
         "file": "themes/AlienBlood.conf",
         "is_dark": true,
         "name": "Alien Blood",
