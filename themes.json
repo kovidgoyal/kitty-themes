@@ -315,6 +315,15 @@
         "num_settings": 21
     },
     {
+        "blurb": "A cyberpunk theme based on the Cyberpunk VIM Colorscheme by thedenisnikulin.",
+        "file": "themes/cyberpunk.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Cyberpunk",
+        "num_settings": 33,
+        "upstream": "https://raw.githubusercontent.com/jandre953/kitty-cyberpunk/master/cyberpunk.conf"
+    },
+    {
         "file": "themes/DarkOneNuanced.conf",
         "is_dark": true,
         "name": "Dark One Nuanced",
