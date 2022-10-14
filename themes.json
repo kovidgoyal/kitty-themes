@@ -297,10 +297,14 @@
         "num_settings": 21
     },
     {
+        "author": "Lalit Kumar(@laltimee)",
+        "blurb": "Don't stress your eyes now",
         "file": "themes/Cobalt2.conf",
         "is_dark": true,
+        "license": "MIT",
         "name": "Cobalt2",
-        "num_settings": 21
+        "num_settings": 39,
+        "upstream": "https://github.com/lalitmee/kitty-cobalt2/blob/master/cobalt2.conf"
     },
     {
         "file": "themes/Corvine.conf",
