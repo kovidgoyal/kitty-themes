@@ -303,6 +303,12 @@
         "num_settings": 21
     },
     {
+        "file": "themes/cobalt2.conf",
+        "is_dark": true,
+        "name": "cobalt2",
+        "num_settings": 21
+    },
+    {
         "file": "themes/Corvine.conf",
         "is_dark": true,
         "name": "Corvine",
