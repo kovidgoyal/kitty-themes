@@ -1139,6 +1139,15 @@
         "num_settings": 21
     },
     {
+        "author": "Luke Glazebrook <lukeglazebrook@hey.com>",
+        "file": "themes/night_owl.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Night Owl",
+        "num_settings": 22,
+        "upstream": "https://github.com/Glazy/night-owl-kitty-theme/blob/main/night-owl.conf"
+    },
+    {
         "file": "themes/nightfly.conf",
         "is_dark": true,
         "license": "MIT",
