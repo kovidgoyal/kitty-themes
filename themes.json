@@ -953,6 +953,23 @@
         "num_settings": 21
     },
     {
+        "author": "qewer33, brought to kitty by KodiakWeb",
+        "blurb": "a green accent, forest colored dark theme, adapted from leaf kde",
+        "file": "themes/leaf_dark.conf",
+        "is_dark": true,
+        "license": "gplv3",
+        "name": "Leaf Dark",
+        "num_settings": 23
+    },
+    {
+        "author": "qewer33, brought to kitty by KodiakWeb",
+        "blurb": "A green accent, forest colored light theme, adapted from leaf kde",
+        "file": "themes/leaf_light.conf",
+        "license": "gplv3",
+        "name": "Leaf Light",
+        "num_settings": 22
+    },
+    {
         "file": "themes/LiquidCarbon.conf",
         "is_dark": true,
         "name": "Liquid Carbon",
