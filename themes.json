@@ -1042,9 +1042,9 @@
     {
         "author": "Protesilaos Stavrou",
         "blurb": "Highly accessible themes made for GNU Emacs, version with less contrast",
-        "file": "themes/Modus_Operandi_Faint.conf",
+        "file": "themes/Modus_Operandi_Tinted.conf",
         "license": "GNU GPLv3",
-        "name": "Modus Operandi Faint",
+        "name": "Modus Operandi Tinted",
         "num_settings": 28
     },
     {
@@ -1059,10 +1059,10 @@
     {
         "author": "Protesilaos Stavrou",
         "blurb": "Highly accessible themes made for GNU Emacs, version with less contrast",
-        "file": "themes/Modus_Vivendi_Faint.conf",
+        "file": "themes/Modus_Vivendi_Tinted.conf",
         "is_dark": true,
         "license": "GNU GPLv3",
-        "name": "Modus Vivendi Faint",
+        "name": "Modus Vivendi Tinted",
         "num_settings": 28
     },
     {
