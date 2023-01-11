@@ -1041,7 +1041,7 @@
     },
     {
         "author": "Protesilaos Stavrou",
-        "blurb": "Highly accessible themes made for GNU Emacs, version with less contrast",
+        "blurb": "Highly accessible themes made for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA)",
         "file": "themes/Modus_Operandi_Tinted.conf",
         "license": "GNU GPLv3",
         "name": "Modus Operandi Tinted",
@@ -1058,7 +1058,7 @@
     },
     {
         "author": "Protesilaos Stavrou",
-        "blurb": "Highly accessible themes made for GNU Emacs, version with less contrast",
+        "blurb": "Highly accessible themes made for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA)",
         "file": "themes/Modus_Vivendi_Tinted.conf",
         "is_dark": true,
         "license": "GNU GPLv3",
