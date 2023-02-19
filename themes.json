@@ -177,6 +177,25 @@
         "num_settings": 21
     },
     {
+        "author": "Umut Topuzo\u011flu",
+        "blurb": "A fancy and sophisticated dark designer color theme",
+        "file": "themes/BlulocoDark.conf",
+        "is_dark": true,
+        "license": "LGPL-3.0",
+        "name": "Bluloco Dark",
+        "num_settings": 31,
+        "upstream": "https://github.com/uloco/bluloco.nvim/blob/main/terminal-themes/kitty/BlulocoDark.conf"
+    },
+    {
+        "author": "Umut Topuzo\u011flu",
+        "blurb": "A fancy and sophisticated light designer color theme",
+        "file": "themes/BlulocoLight.conf",
+        "license": "LGPL-3.0",
+        "name": "Bluloco Light",
+        "num_settings": 31,
+        "upstream": "https://github.com/uloco/bluloco.nvim/blob/main/terminal-themes/kitty/BlulocoLight.conf"
+    },
+    {
         "file": "themes/Borland.conf",
         "name": "Borland",
         "num_settings": 21
