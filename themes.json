@@ -1642,6 +1642,15 @@
     },
     {
         "author": "Folke Lemaitre",
+        "file": "themes/tokyo_night_moon.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Tokyo Night Moon",
+        "num_settings": 31,
+        "upstream": "https://github.com/folke/tokyonight.nvim/raw/main/extras/kitty/tokyonight_moon.conf"
+    },
+    {
+        "author": "Folke Lemaitre",
         "file": "themes/tokyo_night_storm.conf",
         "is_dark": true,
         "license": "MIT",
