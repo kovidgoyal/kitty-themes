@@ -4,25 +4,32 @@
 
 import glob
 import json
-import os
+import subprocess
+import sys
 from operator import itemgetter
 
-from kittens.themes.collection import parse_theme
+
+def parse_themes(paths):
+    cp = subprocess.run(['kitten', '__parse_theme_metadata__'],
+                        input='\n'.join(paths).encode('utf-8'), capture_output=True)
+    if cp.returncode != 0:
+        print(cp.stderr.decode('utf-8'), file=sys.stderr)
+        raise SystemExit(cp.returncode)
+    return json.loads(cp.stdout)
 
 
 def main():
     themes = []
     seen = {}
-    for theme in glob.glob('themes/*.conf'):
-        name = os.path.basename(theme)
-        with open(theme) as f:
-            text = f.read()
-        td = parse_theme(name, text)
+    files = glob.glob('themes/*.conf')
+    parsed = parse_themes(files)
+    for theme, td in zip(files, parsed):
         td['file'] = theme
         if td['name'] in seen:
             raise SystemExit(
-                f'The theme {td["name"]} is defined multiple times')
+                f'The theme {td["name"]!r} is defined multiple times')
         seen[td['name']] = theme
+        td = {k: v for k, v in td.items() if v}
         themes.append(td)
 
     themes.sort(key=itemgetter('name'))

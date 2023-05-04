@@ -197,6 +197,7 @@
     },
     {
         "file": "themes/Borland.conf",
+        "is_dark": true,
         "name": "Borland",
         "num_settings": 21
     },
@@ -230,7 +231,13 @@
     },
     {
         "file": "themes/C64.conf",
+        "is_dark": true,
         "name": "C64",
+        "num_settings": 21
+    },
+    {
+        "file": "themes/CLRS.conf",
+        "name": "CLRS",
         "num_settings": 21
     },
     {
@@ -305,11 +312,6 @@
         "num_settings": 21
     },
     {
-        "file": "themes/CLRS.conf",
-        "name": "Clrs",
-        "num_settings": 21
-    },
-    {
         "file": "themes/Cobalt_Neon.conf",
         "is_dark": true,
         "name": "Cobalt Neon",
@@ -377,10 +379,8 @@
         "author": "Kovid Goyal",
         "blurb": "This theme uses all default settings from kitty.  Use it to easily restore defaults.",
         "file": "themes/default.conf",
-        "is_dark": true,
         "license": "GPLv3",
-        "name": "Default",
-        "num_settings": 0
+        "name": "Default"
     },
     {
         "file": "themes/Desert.conf",
@@ -454,6 +454,12 @@
         "num_settings": 21
     },
     {
+        "file": "themes/ENCOM.conf",
+        "is_dark": true,
+        "name": "ENCOM",
+        "num_settings": 21
+    },
+    {
         "file": "themes/Earthsong.conf",
         "is_dark": true,
         "name": "Earthsong",
@@ -463,12 +469,6 @@
         "file": "themes/Elemental.conf",
         "is_dark": true,
         "name": "Elemental",
-        "num_settings": 21
-    },
-    {
-        "file": "themes/ENCOM.conf",
-        "is_dark": true,
-        "name": "Encom",
         "num_settings": 21
     },
     {
@@ -798,7 +798,6 @@
     {
         "author": "Mert18",
         "file": "themes/HachikoRed.conf",
-        "is_dark": true,
         "name": "Hachiko",
         "num_settings": 33
     },
@@ -847,25 +846,25 @@
     {
         "file": "themes/IC_Green_PPL.conf",
         "is_dark": true,
-        "name": "Ic Green Ppl",
+        "name": "IC Green PPL",
         "num_settings": 21
     },
     {
         "file": "themes/IC_Orange_PPL.conf",
         "is_dark": true,
-        "name": "Ic Orange Ppl",
+        "name": "IC Orange PPL",
+        "num_settings": 21
+    },
+    {
+        "file": "themes/IR_Black.conf",
+        "is_dark": true,
+        "name": "IR Black",
         "num_settings": 21
     },
     {
         "file": "themes/idleToes.conf",
         "is_dark": true,
         "name": "Idle Toes",
-        "num_settings": 21
-    },
-    {
-        "file": "themes/IR_Black.conf",
-        "is_dark": true,
-        "name": "Ir Black",
         "num_settings": 21
     },
     {
@@ -1030,7 +1029,7 @@
     },
     {
         "author": "Gulajava Ministudio",
-        "blurb": "Mayukai Theme is dark and yellow bluish mirage theme with bright colors for easy readibility syntax. This theme is inspired from mixed color swatch in Ayu Theme, Material Theme, Monokai, Andromeda, and Gruvbox Darktooth Original Colors.",
+        "blurb": "Mayukai Theme is dark and yellow bluish mirage theme with bright colors for easy readibility syntax.  This theme is inspired from mixed color swatch in Ayu Theme, Material Theme, Monokai, Andromeda, and Gruvbox Darktooth Original Colors. ",
         "file": "themes/mayukai.conf",
         "is_dark": true,
         "license": "MIT",
@@ -1097,6 +1096,14 @@
         "num_settings": 21
     },
     {
+        "blurb": "A port of the Monoindustrial theme from TextMate",
+        "file": "themes/Monoindustrial.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Monoindustrial",
+        "num_settings": 29
+    },
+    {
         "file": "themes/Monokai.conf",
         "is_dark": true,
         "name": "Monokai",
@@ -1117,25 +1124,25 @@
     {
         "file": "themes/Monokai_Pro_(Filter_Machine).conf",
         "is_dark": true,
-        "name": "Monokai Pro (filter Machine)",
+        "name": "Monokai Pro (Filter Machine)",
         "num_settings": 22
     },
     {
         "file": "themes/Monokai_Pro_(Filter_Octagon).conf",
         "is_dark": true,
-        "name": "Monokai Pro (filter Octagon)",
+        "name": "Monokai Pro (Filter Octagon)",
         "num_settings": 22
     },
     {
         "file": "themes/Monokai_Pro_(Filter_Ristretto).conf",
         "is_dark": true,
-        "name": "Monokai Pro (filter Ristretto)",
+        "name": "Monokai Pro (Filter Ristretto)",
         "num_settings": 22
     },
     {
         "file": "themes/Monokai_Pro_(Filter_Spectrum).conf",
         "is_dark": true,
-        "name": "Monokai Pro (filter Spectrum)",
+        "name": "Monokai Pro (Filter Spectrum)",
         "num_settings": 22
     },
     {
@@ -1229,6 +1236,7 @@
     },
     {
         "file": "themes/Ocean.conf",
+        "is_dark": true,
         "name": "Ocean",
         "num_settings": 21
     },
@@ -1273,7 +1281,6 @@
         "author": "Nikyle Nguyen",
         "blurb": "Dark color scheme inspired by Google's Material Design",
         "file": "themes/PaperColor_dark.conf",
-        "is_dark": true,
         "license": "MIT",
         "name": "PaperColor Dark",
         "num_settings": 20
@@ -1507,7 +1514,6 @@
     },
     {
         "file": "themes/Solarized8_Dark.conf",
-        "is_dark": true,
         "name": "Solarized8 Dark",
         "num_settings": 21
     },
@@ -1833,6 +1839,7 @@
         "author": "Snuggle \u00b7 https://github.com/Snuggle",
         "blurb": "A theme inspired by the popular fairyfloss colour theme",
         "file": "themes/fairyfloss.conf",
+        "is_dark": true,
         "license": "MIT",
         "name": "fairyfloss",
         "num_settings": 22,
