@@ -796,6 +796,14 @@
         "upstream": "https://raw.githubusercontent.com/rsaihe/gruvbox-material-kitty/main/colors/gruvbox-material-light-soft.conf"
     },
     {
+        "author": "Jacob Chapman",
+        "file": "themes/h_pux.conf",
+        "license": "CC0 Public Domain",
+        "name": "H-PUX",
+        "num_settings": 21,
+        "upstream": "https://github.com/chapmanjacobd/computer/blob/main/.config/kitty/theme.conf"
+    },
+    {
         "author": "Mert18",
         "file": "themes/HachikoRed.conf",
         "name": "Hachiko",
