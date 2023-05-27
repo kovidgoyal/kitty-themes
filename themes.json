@@ -1052,6 +1052,13 @@
         "num_settings": 21
     },
     {
+        "author": "abrielleing",
+        "file": "themes/midsummer-night.conf",
+        "is_dark": true,
+        "name": "Midsummer Night",
+        "num_settings": 27
+    },
+    {
         "file": "themes/Misterioso.conf",
         "is_dark": true,
         "name": "Misterioso",
