@@ -25,6 +25,14 @@ a base and modify it for your theme. Submit a `pull request
 <https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request>`_
 with your new theme.
 
+
+Problems with themes
+-----------------------
+
+If there are any issues with a theme please report them upstream to the theme
+creator, as this repository is simply a centralised place to host all themes.
+
+
 License
 -------------
 The overall license of this repository is the GPLv3, however, individual theme
