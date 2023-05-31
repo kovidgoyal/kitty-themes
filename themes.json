@@ -967,6 +967,15 @@
         "num_settings": 21
     },
     {
+        "author": "Kevin M (github.com/kevinm6)",
+        "file": "themes/kurayami.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Kurayami",
+        "num_settings": 36,
+        "upstream": "https://github.com/kevinm6/kitty-themes/blob/master/themes/kurayami.conf"
+    },
+    {
         "file": "themes/Later_This_Evening.conf",
         "is_dark": true,
         "name": "Later This Evening",
