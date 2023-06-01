@@ -1909,6 +1909,13 @@
         "upstream": "https://github.com/mcchrish/zenbones.nvim/raw/main/extras/kitty/neobones_light.conf"
     },
     {
+        "author": "Dimitar Dimitrov (https://github.com/n1ghtmare)",
+        "file": "themes/noirblaze.conf",
+        "is_dark": true,
+        "name": "noirblaze",
+        "num_settings": 33
+    },
+    {
         "author": "Ehan Ahamed and contributors",
         "blurb": "A purple-ish-dark theme for kitty & more",
         "file": "themes/purpurite.conf",
