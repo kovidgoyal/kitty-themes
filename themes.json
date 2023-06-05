@@ -306,6 +306,24 @@
         "num_settings": 25
     },
     {
+        "author": "nullxception",
+        "file": "themes/cherry.conf",
+        "is_dark": true,
+        "license": "GPLv3",
+        "name": "Cherry",
+        "num_settings": 28,
+        "upstream": "https://github.com/nullxception/cherry-kde/raw/main/kitty/cherry.conf"
+    },
+    {
+        "author": "nullxception",
+        "file": "themes/cherry-midnight.conf",
+        "is_dark": true,
+        "license": "GPLv3",
+        "name": "Cherry Midnight",
+        "num_settings": 28,
+        "upstream": "https://github.com/nullxception/cherry-kde/raw/main/kitty/cherry-midnight.conf"
+    },
+    {
         "file": "themes/Ciapre.conf",
         "is_dark": true,
         "name": "Ciapre",
@@ -1913,7 +1931,7 @@
         "file": "themes/noirblaze.conf",
         "is_dark": true,
         "name": "noirblaze",
-        "num_settings": 33
+        "num_settings": 36
     },
     {
         "author": "Ehan Ahamed and contributors",
