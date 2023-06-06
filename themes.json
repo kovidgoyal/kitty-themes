@@ -1619,12 +1619,6 @@
         "num_settings": 21
     },
     {
-        "file": "themes/Srcery.conf",
-        "is_dark": true,
-        "name": "Srcery",
-        "num_settings": 21
-    },
-    {
         "file": "themes/Substrata.conf",
         "is_dark": true,
         "name": "Substrata",
@@ -1969,6 +1963,16 @@
         "is_dark": true,
         "name": "shadotheme",
         "num_settings": 27
+    },
+    {
+        "author": "Daniel Berg",
+        "blurb": "Srcery is a color scheme with clearly defined contrasting colors and a slightly earthy tone.",
+        "file": "themes/Srcery.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "srcery",
+        "num_settings": 22,
+        "upstream": "https://github.com/srcery-colors/srcery-terminal/blob/master/kitty/srcery_kitty.conf"
     },
     {
         "author": "Michael Chris Lopez",
