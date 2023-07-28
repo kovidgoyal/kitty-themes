@@ -34,6 +34,35 @@
         "num_settings": 21
     },
     {
+        "author": "Emil L\u00f6fquist (https://github.com/ewal)",
+        "blurb": "Adwaita dark - based on https://github.com/Mofiqul/adwaita.nvim",
+        "file": "themes/adwaita_dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Adwaita dark",
+        "num_settings": 35,
+        "upstream": "https://github.com/ewal/kitty-adwaita/blob/main/adwaita_dark.conf"
+    },
+    {
+        "author": "Emil L\u00f6fquist (https://github.com/ewal)",
+        "blurb": "Adwaita darker - based on https://github.com/Mofiqul/adwaita.nvim",
+        "file": "themes/adwaita_darker.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Adwaita darker",
+        "num_settings": 35,
+        "upstream": "https://github.com/ewal/kitty-adwaita/blob/main/adwaita_darker.conf"
+    },
+    {
+        "author": "Emil L\u00f6fquist (https://github.com/ewal)",
+        "blurb": "Adwaita light - based on https://github.com/Mofiqul/adwaita.nvim",
+        "file": "themes/adwaita_light.conf",
+        "license": "MIT",
+        "name": "Adwaita light",
+        "num_settings": 35,
+        "upstream": "https://github.com/ewal/kitty-adwaita/blob/main/adwaita_light.conf"
+    },
+    {
         "file": "themes/Afterglow.conf",
         "is_dark": true,
         "name": "Afterglow",
