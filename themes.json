@@ -1235,6 +1235,15 @@
         "num_settings": 21
     },
     {
+        "author": "Everett Howard (neveretth)",
+        "blurb": "A very vibrant and very neon colorscheme.",
+        "file": "themes/Neowave.conf",
+        "is_dark": true,
+        "license": "MIT license - https://www.mit.edu/~amini/LICENSE.md",
+        "name": "Neowave",
+        "num_settings": 39
+    },
+    {
         "file": "themes/Neutron.conf",
         "is_dark": true,
         "name": "Neutron",
