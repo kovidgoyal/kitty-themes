@@ -231,6 +231,15 @@
         "num_settings": 21
     },
     {
+        "author": "D3vil0p3r",
+        "blurb": "Hack The Box inspired colorscheme.",
+        "file": "themes/Box.conf",
+        "is_dark": true,
+        "license": "GPLv3",
+        "name": "Box",
+        "num_settings": 41
+    },
+    {
         "author": "b3yc0d3 <b3yc0d3@dnmx.org>",
         "blurb": "Breath2 Theme for Kitty Terminal",
         "file": "themes/breath2.conf",
