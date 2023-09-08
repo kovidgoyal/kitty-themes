@@ -2077,5 +2077,17 @@
         "name": "zenwritten_light",
         "num_settings": 26,
         "upstream": "https://github.com/mcchrish/zenbones.nvim/raw/main/extras/kitty/zenwritten_light.conf"
+    },
+    {
+        "file": "themes/iceberg_dark.conf",
+        "is_dark": true,
+        "name": "iceberg_dark",
+        "num_settings": 21
+    },
+    {
+        "file": "themes/iceberg_light.conf",
+        "is_dark": false,
+        "name": "iceberg_light",
+        "num_settings": 21
     }
 ]
