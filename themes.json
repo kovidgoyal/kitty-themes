@@ -1124,6 +1124,16 @@
         "num_settings": 27
     },
     {
+        "author": "Anupam Srivastava",
+        "blurb": "A mixtures of different themes that work well with powerlevel10k",
+        "file": "themes/mishran.conf",
+        "is_dark": true,
+        "license": "GPL-3",
+        "name": "Mishran",
+        "num_settings": 20,
+        "upstream": "https://github.com/kovidgoyal/kitty-themes"
+    },
+    {
         "file": "themes/Misterioso.conf",
         "is_dark": true,
         "name": "Misterioso",
