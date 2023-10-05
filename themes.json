@@ -226,7 +226,6 @@
     },
     {
         "file": "themes/Borland.conf",
-        "is_dark": true,
         "name": "Borland",
         "num_settings": 21
     },
@@ -269,7 +268,6 @@
     },
     {
         "file": "themes/C64.conf",
-        "is_dark": true,
         "name": "C64",
         "num_settings": 21
     },
@@ -435,6 +433,7 @@
         "author": "Kovid Goyal",
         "blurb": "This theme uses all default settings from kitty.  Use it to easily restore defaults.",
         "file": "themes/default.conf",
+        "is_dark": true,
         "license": "GPLv3",
         "name": "Default"
     },
@@ -862,6 +861,7 @@
     {
         "author": "Mert18",
         "file": "themes/HachikoRed.conf",
+        "is_dark": true,
         "name": "Hachiko",
         "num_settings": 33
     },
@@ -1335,7 +1335,6 @@
     },
     {
         "file": "themes/Ocean.conf",
-        "is_dark": true,
         "name": "Ocean",
         "num_settings": 21
     },
@@ -1380,6 +1379,7 @@
         "author": "Nikyle Nguyen",
         "blurb": "Dark color scheme inspired by Google's Material Design",
         "file": "themes/PaperColor_dark.conf",
+        "is_dark": true,
         "license": "MIT",
         "name": "PaperColor Dark",
         "num_settings": 20
@@ -1388,6 +1388,7 @@
         "author": "Nikyle Nguyen",
         "blurb": "Light color scheme inspired by Google's Material Design",
         "file": "themes/PaperColor_light.conf",
+        "is_dark": true,
         "license": "MIT",
         "name": "PaperColor Light",
         "num_settings": 20
@@ -1613,6 +1614,7 @@
     },
     {
         "file": "themes/Solarized8_Dark.conf",
+        "is_dark": true,
         "name": "Solarized8 Dark",
         "num_settings": 21
     },
@@ -1932,7 +1934,6 @@
         "author": "Snuggle \u00b7 https://github.com/Snuggle",
         "blurb": "A theme inspired by the popular fairyfloss colour theme",
         "file": "themes/fairyfloss.conf",
-        "is_dark": true,
         "license": "MIT",
         "name": "fairyfloss",
         "num_settings": 22,
