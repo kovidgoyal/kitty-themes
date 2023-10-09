@@ -632,6 +632,25 @@
         "num_settings": 21
     },
     {
+        "author": "Kepano",
+        "blurb": "An inky color scheme for prose and code",
+        "file": "themes/flexoki_dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Flexoki (Dark)",
+        "num_settings": 28,
+        "upstream": "https://raw.githubusercontent.com/kepano/flexoki/main/kitty/flexoki_dark.conf"
+    },
+    {
+        "author": "Kepano",
+        "blurb": "An inky color scheme for prose and code",
+        "file": "themes/flexoki_light.conf",
+        "license": "MIT",
+        "name": "Flexoki (Light)",
+        "num_settings": 28,
+        "upstream": "https://raw.githubusercontent.com/kepano/flexoki/main/kitty/flexoki_light.conf"
+    },
+    {
         "file": "themes/Floraverse.conf",
         "is_dark": true,
         "name": "Floraverse",
