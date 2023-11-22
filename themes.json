@@ -1417,7 +1417,6 @@
         "author": "Nikyle Nguyen",
         "blurb": "Light color scheme inspired by Google's Material Design",
         "file": "themes/PaperColor_light.conf",
-        "is_dark": true,
         "license": "MIT",
         "name": "PaperColor Light",
         "num_settings": 20
