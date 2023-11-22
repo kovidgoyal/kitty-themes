@@ -22,7 +22,7 @@ Contributing new themes
 
 To contribute a new theme, use `template.conf <template.conf>`_ as
 a base and modify it for your theme. Submit a `pull request
-<https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request>`_
+<https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request>`_
 with your new theme.
 
 
