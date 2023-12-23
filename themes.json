@@ -28,6 +28,13 @@
         "num_settings": 21
     },
     {
+        "blurb": "A description of this theme. This is the default theme for manjaro community eddition of i3.",
+        "file": "themes/Adapta_Nokto_Maia.conf",
+        "is_dark": true,
+        "name": "Adapta Nokto Maia",
+        "num_settings": 39
+    },
+    {
         "file": "themes/AdventureTime.conf",
         "is_dark": true,
         "name": "Adventure Time",
@@ -1417,7 +1424,6 @@
         "author": "Nikyle Nguyen",
         "blurb": "Light color scheme inspired by Google's Material Design",
         "file": "themes/PaperColor_light.conf",
-        "is_dark": true,
         "license": "MIT",
         "name": "PaperColor Light",
         "num_settings": 20
