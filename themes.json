@@ -1835,6 +1835,14 @@
         "num_settings": 21
     },
     {
+        "author": "Anoduck",
+        "file": "themes/outrun_electric.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Tropical Neon",
+        "num_settings": 23
+    },
+    {
         "file": "themes/Twilight.conf",
         "is_dark": true,
         "name": "Twilight",
