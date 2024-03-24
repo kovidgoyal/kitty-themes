@@ -420,6 +420,15 @@
         "upstream": "https://raw.githubusercontent.com/jandre953/kitty-cyberpunk/master/cyberpunk.conf"
     },
     {
+        "author": "Theo (theo-grivel)",
+        "file": "themes/Cyberpunk-Neon.conf",
+        "is_dark": true,
+        "license": "CC-BY-SA-4.0",
+        "name": "Cyberpunk Neon",
+        "num_settings": 21,
+        "upstream": "https://github.com/Roboron3042/Cyberpunk-Neon/blob/master/terminal/kitty/cyberpunk-neon.conf"
+    },
+    {
         "file": "themes/DarkOneNuanced.conf",
         "is_dark": true,
         "name": "Dark One Nuanced",
