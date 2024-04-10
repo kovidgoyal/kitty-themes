@@ -553,6 +553,12 @@
         "num_settings": 21
     },
     {
+        "file": "themes/Eldritch.conf",
+        "is_dark": true,
+        "name": "Eldritch",
+        "num_settings": 31
+    },
+    {
         "file": "themes/Espresso.conf",
         "is_dark": true,
         "name": "Espresso",
