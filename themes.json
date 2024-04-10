@@ -547,16 +547,20 @@
         "num_settings": 21
     },
     {
+        "author": "jacobrreed",
+        "blurb": "A theme for the Ancient Ones!",
+        "file": "themes/Eldritch.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Eldritch",
+        "num_settings": 31,
+        "upstream": "https://github.com/eldritch-theme/kitty"
+    },
+    {
         "file": "themes/Elemental.conf",
         "is_dark": true,
         "name": "Elemental",
         "num_settings": 21
-    },
-    {
-        "file": "themes/Eldritch.conf",
-        "is_dark": true,
-        "name": "Eldritch",
-        "num_settings": 31
     },
     {
         "file": "themes/Espresso.conf",
@@ -1779,16 +1783,16 @@
         "is_dark": true,
         "license": "MIT",
         "name": "Tokyo Night",
-        "num_settings": 28,
-        "upstream": "https://github.com/folke/tokyonight.nvim/raw/main/extras/kitty_tokyonight_night.conf"
+        "num_settings": 31,
+        "upstream": "https://github.com/folke/tokyonight.nvim/raw/main/extras/kitty/tokyonight_night.conf"
     },
     {
         "author": "Folke Lemaitre",
         "file": "themes/tokyo_night_day.conf",
         "license": "MIT",
         "name": "Tokyo Night Day",
-        "num_settings": 28,
-        "upstream": "https://github.com/folke/tokyonight.nvim/raw/main/extras/kitty_tokyonight_day.conf"
+        "num_settings": 31,
+        "upstream": "https://github.com/folke/tokyonight.nvim/raw/main/extras/kitty/tokyonight_day.conf"
     },
     {
         "author": "Folke Lemaitre",
@@ -1805,8 +1809,8 @@
         "is_dark": true,
         "license": "MIT",
         "name": "Tokyo Night Storm",
-        "num_settings": 28,
-        "upstream": "https://github.com/folke/tokyonight.nvim/raw/main/extras/kitty_tokyonight_storm.conf"
+        "num_settings": 31,
+        "upstream": "https://github.com/folke/tokyonight.nvim/raw/main/extras/kitty/tokyonight_storm.conf"
     },
     {
         "file": "themes/Tomorrow.conf",
