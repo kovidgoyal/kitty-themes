@@ -1011,6 +1011,35 @@
         "num_settings": 21
     },
     {
+        "author": "Tommaso Laurenzi",
+        "blurb": "NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.",
+        "file": "themes/kanagawa.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Kanagawa",
+        "num_settings": 28,
+        "upstream": "https://github.com/rebelot/kanagawa.nvim/"
+    },
+    {
+        "author": "Tommaso Laurenzi",
+        "blurb": "NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. Dragon version.",
+        "file": "themes/kanagawa_dragon.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Kanagawa_dragon",
+        "num_settings": 28,
+        "upstream": "https://github.com/rebelot/kanagawa.nvim/"
+    },
+    {
+        "author": "Tommaso Laurenzi",
+        "blurb": "NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. Light version.",
+        "file": "themes/kanagawa_light.conf",
+        "license": "MIT",
+        "name": "Kanagawa_light",
+        "num_settings": 29,
+        "upstream": "https://github.com/rebelot/kanagawa.nvim/"
+    },
+    {
         "author": "Ogden Webb",
         "blurb": "Kaolin meets polar lights.",
         "file": "themes/Kaolin_Aurora.conf",
