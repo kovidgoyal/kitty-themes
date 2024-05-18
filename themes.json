@@ -1459,6 +1459,16 @@
         "upstream": "https://raw.githubusercontent.com/sonph/onehalf/master/kitty/onehalf-light.conf"
     },
     {
+        "author": "VictorPL (https://github.com/VictorPLopes)",
+        "blurb": "Kitty theme inspired by Binaryify's One Dark Pro theme for Visual Studio Code.",
+        "file": "themes/OneDark-Pro.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "OneDark-Pro",
+        "num_settings": 27,
+        "upstream": "https://github.com/VictorPLopes/OneDark-Pro-Kitty-Terminal/blob/main/kitty-themes/OneDark-Pro.conf"
+    },
+    {
         "author": "Nikyle Nguyen",
         "blurb": "Dark color scheme inspired by Google's Material Design",
         "file": "themes/PaperColor_dark.conf",
