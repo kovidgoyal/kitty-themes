@@ -781,6 +781,15 @@
         "num_settings": 21
     },
     {
+        "author": "Ittner (https://www.ittner.com.br)",
+        "blurb": "A theme based on the colors of the classic Gnome Terminal",
+        "file": "themes/Gnome-ish_gray-on-black.conf",
+        "is_dark": true,
+        "license": "GPLv3+",
+        "name": "Gnome-ish gray-on-black",
+        "num_settings": 41
+    },
+    {
         "file": "themes/GoaBase.conf",
         "is_dark": true,
         "name": "Goa Base",
