@@ -1626,6 +1626,44 @@
         "num_settings": 21
     },
     {
+        "author": "Jan Warchol",
+        "blurb": "Selenized black color scheme for Kitty",
+        "file": "themes/selenized-black.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Selenized Black",
+        "num_settings": 28,
+        "upstream": "https://github.com/jan-warchol/selenized/raw/master/terminals/kitty/kitty-selenized-black.conf"
+    },
+    {
+        "author": "Jan Warchol",
+        "blurb": "Selenized dark color scheme for Kitty",
+        "file": "themes/selenized-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Selenized Dark",
+        "num_settings": 28,
+        "upstream": "https://github.com/jan-warchol/selenized/raw/master/terminals/kitty/kitty-selenized-dark.conf"
+    },
+    {
+        "author": "Jan Warchol",
+        "blurb": "Selenized light color scheme for Kitty",
+        "file": "themes/selenized-light.conf",
+        "license": "MIT",
+        "name": "Selenized Light",
+        "num_settings": 28,
+        "upstream": "https://github.com/jan-warchol/selenized/raw/master/terminals/kitty/kitty-selenized-light.conf"
+    },
+    {
+        "author": "Jan Warchol",
+        "blurb": "Selenized white color scheme for Kitty",
+        "file": "themes/selenized-white.conf",
+        "license": "MIT",
+        "name": "Selenized White",
+        "num_settings": 28,
+        "upstream": "https://github.com/jan-warchol/selenized/raw/master/terminals/kitty/kitty-selenized-white.conf"
+    },
+    {
         "file": "themes/Seti.conf",
         "is_dark": true,
         "name": "Seti",
