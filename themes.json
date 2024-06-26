@@ -2170,12 +2170,12 @@
         "num_settings": 27
     },
     {
-        "author": "Guillermo Rodriguez (https://github.com/pineapplegiant)",
+        "author": "Guillermo Rodriguez",
         "blurb": "An intergalactic space theme for Vim, Terminal & more!",
         "file": "themes/spaceduck.conf",
         "is_dark": true,
         "license": "MIT",
-        "name": "spaceduck (https://github.com/pineapplegiant/spaceduck)",
+        "name": "spaceduck",
         "num_settings": 21,
         "upstream": "https://github.com/foofrog/kitty-themes/blob/master/themes/spaceduck.conf"
     },
