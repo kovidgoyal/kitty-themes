@@ -272,6 +272,206 @@
         "num_settings": 21
     },
     {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Duotone theme | cool cave red - yellow ochre",
+        "file": "themes/base2tone-cave-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Cave Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-cave-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Duotone theme | brown umber - desert orange",
+        "file": "themes/base2tone-desert-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Desert Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-desert-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Duotone theme | bright blue - bright turquoise",
+        "file": "themes/base2tone-drawbridge-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Drawbridge Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-drawbridge-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Duotone theme | brown earth - brown ochre/khaki",
+        "file": "themes/base2tone-earth-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Earth Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-earth-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Default duotone theme | purple - orange",
+        "file": "themes/base2tone-evening-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Evening Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-evening-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | teal/turqoise - bright field green",
+        "file": "themes/base2tone-field-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Field Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-field-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | muted forest green - light yellow-green",
+        "file": "themes/base2tone-forest-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Forest Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-forest-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | lime garden green - muted orange",
+        "file": "themes/base2tone-garden-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Garden Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-garden-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | violet heath magenta - siena brown orange",
+        "file": "themes/base2tone-heath-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Heath Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-heath-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | lime lake green - muted orange",
+        "file": "themes/base2tone-lake-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Lake Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-lake-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | blue lavender violet - magenta",
+        "file": "themes/base2tone-lavender-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Lavender Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-lavender-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | blue violet - light sky blue",
+        "file": "themes/base2tone-mall-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Mall Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-mall-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | slate blue - light lime green",
+        "file": "themes/base2tone-meadow-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Meadow Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-meadow-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | warm blue - yellow brown ochre",
+        "file": "themes/base2tone-morning-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Morning Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-morning-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | rosy brown - coral salmon orange",
+        "file": "themes/base2tone-motel-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Motel Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-motel-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | violet - salmon orange",
+        "file": "themes/base2tone-pool-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Pool Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-pool-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | muted violet - light orange",
+        "file": "themes/base2tone-porch-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Porch Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-porch-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | slate sea blue - medium sea green",
+        "file": "themes/base2tone-sea-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Sea Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-sea-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | warm space blue - medium orange",
+        "file": "themes/base2tone-space-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Space Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-space-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | warm blue - bright pink",
+        "file": "themes/base2tone-suburb-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Suburb Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-suburb-dark.conf"
+    },
+    {
         "file": "themes/Batman.conf",
         "is_dark": true,
         "name": "Batman",
