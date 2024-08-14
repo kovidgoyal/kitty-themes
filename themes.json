@@ -144,10 +144,104 @@
         "num_settings": 21
     },
     {
-        "file": "themes/AtelierSulphurpool.conf",
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "A violet-ish palette; not for the claustrophobic.",
+        "file": "themes/atelier-cave-dark.conf",
         "is_dark": true,
-        "name": "Atelier Sulphurpool",
-        "num_settings": 21
+        "license": "MIT",
+        "name": "Atelier Cave Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-cave-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "A yellow-ish palette with warm brown greyed colors for the background. A welcoming, soothing friendly but also bright, colorscheme.",
+        "file": "themes/atelier-dune-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Atelier Dune Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-dune-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "A yellow-green-ish palette with desaturated colors and brown greyed colors for the background. A bit of a poisonous colorscheme, be aware of the crocodiles \u2026, they\u2019re hiding in there.",
+        "file": "themes/atelier-estuary-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Atelier Estuary Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-estuary-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Base color for Forest is orange, and the idea is to have brownish colors for the background, not unlike a colorscheme like \u201cBirds of Paradise\u201d, but a bit muddier on the browns, less red and more greyed out, like clay.",
+        "file": "themes/atelier-forest-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Atelier Forest Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-forest-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Base color for Heath is magenta, and here the background-colors have these cool-red colors for the background, but then obviously toned down quite a bit \u2026.",
+        "file": "themes/atelier-heath-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Atelier Heath Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-heath-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Cool colorscheme for the base color for Lakeside is blue, which means bluish colors for the background.",
+        "file": "themes/atelier-lakeside-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Atelier Lakeside Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-lakeside-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Base color for Plateau is red, and here the background-colors have these chocolate brown/grey colors for the background, while the \u201ccolor-wheel colors\u201d are quite desaturated. A warm palette; no real green in here.",
+        "file": "themes/atelier-plateau-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Atelier Plateau Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-plateau-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Base color for Savanna is green, it has greenish colors for the background. \u201cColor-wheel colors\u201d are desaturated considerably, giving this colorscheme a rather understated appeal and, dear I say it, a \u2018natural\u2019 look and feel.",
+        "file": "themes/atelier-savanna-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Atelier Savanna Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-savanna-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Base color for Seaside is green: greenish colors for the background. Very saturated color-palette; comes popping at you.",
+        "file": "themes/atelier-seaside-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Atelier Seaside Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-seaside-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Purple-ish otherworldly colorscheme",
+        "file": "themes/atelier-sulphurpool-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Atelier Sulphurpool Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-sulphurpool-dark.conf"
     },
     {
         "file": "themes/Atom.conf",
