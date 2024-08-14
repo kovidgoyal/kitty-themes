@@ -472,6 +472,76 @@
         "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-suburb-dark.conf"
     },
     {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "theme with limited color palette",
+        "file": "themes/base4tone-classic-d-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base4Tone_Classic_D Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base4Tone-kitty/blob/main/themes/base4tone-classic-d-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "theme with limited color palette",
+        "file": "themes/base4tone-classic-i-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base4Tone_Classic_I Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base4Tone-kitty/blob/main/themes/base4tone-classic-i-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "theme with limited color palette",
+        "file": "themes/base4tone-classic-p-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base4Tone_Classic_P Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base4Tone-kitty/blob/main/themes/base4tone-classic-p-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "theme with limited color palette",
+        "file": "themes/base4tone-classic-s-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base4Tone_Classic_S Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base4Tone-kitty/blob/main/themes/base4tone-classic-s-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "theme with limited color palette",
+        "file": "themes/base4tone-classic-w-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base4Tone_Classic_W Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base4Tone-kitty/blob/main/themes/base4tone-classic-w-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "theme with limited color palette",
+        "file": "themes/base4tone-modern-n-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base4Tone_Modern_N Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base4Tone-kitty/blob/main/themes/base4tone-modern-n-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "theme with limited color palette",
+        "file": "themes/base4tone-modern-w-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base4Tone_Modern_W Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base4Tone-kitty/blob/main/themes/base4tone-modern-w-dark.conf"
+    },
+    {
         "file": "themes/Batman.conf",
         "is_dark": true,
         "name": "Batman",
