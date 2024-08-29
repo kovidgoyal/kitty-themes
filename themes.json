@@ -2422,6 +2422,15 @@
         "num_settings": 21
     },
     {
+        "author": "dhay3",
+        "file": "themes/bl1nk.conf",
+        "is_dark": true,
+        "license": "CC0 1.0",
+        "name": "bl1nk",
+        "num_settings": 27,
+        "upstream": "https://github.com/dhay3/kitty-bl1nk/blob/main/bl1nk.conf"
+    },
+    {
         "author": "\u98df\u7121\u9b5a <liuyinz@gmail.com>",
         "blurb": "Theme for Kitty inspired by https://citylights.xyz/",
         "file": "themes/citylights.conf",
