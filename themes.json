@@ -2216,6 +2216,16 @@
         "num_settings": 21
     },
     {
+        "author": "CompEng0001",
+        "blurb": "A Kitty color scheme inspired by the tender_vim color scheme",
+        "file": "themes/tender.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Tender",
+        "num_settings": 18,
+        "upstream": "https://github.com/CompEng0001/tender-kitty/raw/main/theme.conf"
+    },
+    {
         "file": "themes/Thayer_Bright.conf",
         "is_dark": true,
         "name": "Thayer Bright",
