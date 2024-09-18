@@ -1882,6 +1882,16 @@
         "num_settings": 21
     },
     {
+        "author": "dbw (https://github.com/wolgamot)",
+        "blurb": "Purple and yellow color scheme based on my NixOS configuration",
+        "file": "themes/phanes.conf",
+        "is_dark": true,
+        "license": "GPLv3",
+        "name": "Phanes",
+        "num_settings": 41,
+        "upstream": "https://github.com/wolgamot/phanes_colors/blob/main/phanes.conf"
+    },
+    {
         "file": "themes/Piatto_Light.conf",
         "name": "Piatto Light",
         "num_settings": 21
