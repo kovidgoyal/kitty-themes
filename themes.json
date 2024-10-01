@@ -656,6 +656,16 @@
         "num_settings": 20
     },
     {
+        "author": "EdenEast",
+        "blurb": "Carbonfox theme from the neovim colorscheme nightfox.nvim.",
+        "file": "themes/Carbonfox.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Carbonfox",
+        "num_settings": 32,
+        "upstream": "https://github.com/EdenEast/nightfox.nvim/blob/main/extra/carbonfox/kitty.conf"
+    },
+    {
         "author": "Pocco81 (https://github.com/Pocco81)",
         "blurb": "Soothing pastel theme for the high-spirited!",
         "file": "themes/Catppuccin-Frappe.conf",
@@ -820,6 +830,24 @@
         "num_settings": 21
     },
     {
+        "author": "EdenEast",
+        "blurb": "Dawnfox theme from the neovim colorscheme nightfox.nvim.",
+        "file": "themes/Dawnfox.conf",
+        "license": "MIT",
+        "name": "Dawnfox",
+        "num_settings": 32,
+        "upstream": "https://github.com/EdenEast/nightfox.nvim/blob/main/extra/dawnfox/kitty.conf"
+    },
+    {
+        "author": "EdenEast",
+        "blurb": "Dayfox theme from the neovim colorscheme nightfox.nvim.",
+        "file": "themes/Dayfox.conf",
+        "license": "MIT",
+        "name": "Dayfox",
+        "num_settings": 32,
+        "upstream": "https://github.com/EdenEast/nightfox.nvim/blob/main/extra/dayfox/kitty.conf"
+    },
+    {
         "author": "Kovid Goyal",
         "blurb": "This theme uses all default settings from kitty.  Use it to easily restore defaults.",
         "file": "themes/default.conf",
@@ -897,6 +925,16 @@
         "is_dark": true,
         "name": "Duotone Dark",
         "num_settings": 21
+    },
+    {
+        "author": "EdenEast",
+        "blurb": "Duskfox theme from the neovim colorscheme nightfox.nvim.",
+        "file": "themes/Duskfox.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Duskfox",
+        "num_settings": 32,
+        "upstream": "https://github.com/EdenEast/nightfox.nvim/blob/main/extra/duskfox/kitty.conf"
     },
     {
         "file": "themes/ENCOM.conf",
@@ -1773,6 +1811,16 @@
         "upstream": "https://www.nordtheme.com/"
     },
     {
+        "author": "EdenEast",
+        "blurb": "Nordfox theme from the neovim colorscheme nightfox.nvim.",
+        "file": "themes/Nordfox.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Nordfox",
+        "num_settings": 32,
+        "upstream": "https://github.com/EdenEast/nightfox.nvim/blob/main/extra/nordfox/kitty.conf"
+    },
+    {
         "file": "themes/Nova.conf",
         "is_dark": true,
         "name": "Nova",
@@ -2234,6 +2282,16 @@
         "name": "Tender",
         "num_settings": 18,
         "upstream": "https://github.com/CompEng0001/tender-kitty/raw/main/theme.conf"
+    },
+    {
+        "author": "EdenEast",
+        "blurb": "Terafox theme from the neovim colorscheme nightfox.nvim.",
+        "file": "themes/Terafox.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Terafox",
+        "num_settings": 32,
+        "upstream": "https://github.com/EdenEast/nightfox.nvim/blob/main/extra/terafox/kitty.conf"
     },
     {
         "file": "themes/Thayer_Bright.conf",
