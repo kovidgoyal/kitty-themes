@@ -2584,6 +2584,15 @@
         "num_settings": 36
     },
     {
+        "author": "playerofceleste",
+        "blurb": "calm pink theme for dark mode",
+        "file": "themes/pink_lavender.conf",
+        "is_dark": true,
+        "license": "GPLv3",
+        "name": "pink lavender",
+        "upstream": "https://raw.githubusercontent.com/playerofceleste/pink-lavender/refs/heads/main/implementations/kitty/pink-lavender.conf"
+    },
+    {
         "author": "Ehan Ahamed and contributors",
         "blurb": "A purple-ish-dark theme for kitty & more",
         "file": "themes/purpurite.conf",
