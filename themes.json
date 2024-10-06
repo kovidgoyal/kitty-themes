@@ -2590,6 +2590,7 @@
         "is_dark": true,
         "license": "GPLv3",
         "name": "pink lavender",
+        "num_settings": 41,
         "upstream": "https://raw.githubusercontent.com/playerofceleste/pink-lavender/refs/heads/main/implementations/kitty/pink-lavender.conf"
     },
     {
