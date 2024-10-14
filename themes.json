@@ -2651,6 +2651,16 @@
         "upstream": "https://github.com/srcery-colors/srcery-terminal/blob/master/kitty/srcery_kitty.conf"
     },
     {
+        "author": "Diego",
+        "blurb": "Inspired in the theme for neovim vague.nvim by vague2k.",
+        "file": "themes/vague.conf",
+        "is_dark": true,
+        "license": "MIT/X11",
+        "name": "vague kitty",
+        "num_settings": 22,
+        "upstream": "A URL pointing to the location of this file upstream for auto-updates"
+    },
+    {
         "author": "Michael Chris Lopez",
         "blurb": "A zenbones variant inspired by vim.org.",
         "file": "themes/vimbones.conf",
