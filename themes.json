@@ -2584,6 +2584,15 @@
         "num_settings": 36
     },
     {
+        "author": "Dimitar Dimitrov (https://github.com/n1ghtmare)",
+        "blurb": "A dark minimal theme based on the neovim noirbuddy theme system with a touch of oxide",
+        "file": "themes/noirbuddy-oxide.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "noirbuddy-oxide",
+        "num_settings": 36
+    },
+    {
         "author": "playerofceleste",
         "blurb": "calm pink theme for dark mode",
         "file": "themes/pink_lavender.conf",
