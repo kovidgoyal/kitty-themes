@@ -28,6 +28,13 @@
         "num_settings": 21
     },
     {
+        "blurb": "A description of this theme. This is the default theme for manjaro community eddition of i3.",
+        "file": "themes/Adapta_Nokto_Maia.conf",
+        "is_dark": true,
+        "name": "Adapta Nokto Maia",
+        "num_settings": 39
+    },
+    {
         "file": "themes/AdventureTime.conf",
         "is_dark": true,
         "name": "Adventure Time",
@@ -137,10 +144,104 @@
         "num_settings": 21
     },
     {
-        "file": "themes/AtelierSulphurpool.conf",
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "A violet-ish palette; not for the claustrophobic.",
+        "file": "themes/atelier-cave-dark.conf",
         "is_dark": true,
-        "name": "Atelier Sulphurpool",
-        "num_settings": 21
+        "license": "MIT",
+        "name": "Atelier Cave Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-cave-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "A yellow-ish palette with warm brown greyed colors for the background. A welcoming, soothing friendly but also bright, colorscheme.",
+        "file": "themes/atelier-dune-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Atelier Dune Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-dune-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "A yellow-green-ish palette with desaturated colors and brown greyed colors for the background. A bit of a poisonous colorscheme, be aware of the crocodiles \u2026, they\u2019re hiding in there.",
+        "file": "themes/atelier-estuary-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Atelier Estuary Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-estuary-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Base color for Forest is orange, and the idea is to have brownish colors for the background, not unlike a colorscheme like \u201cBirds of Paradise\u201d, but a bit muddier on the browns, less red and more greyed out, like clay.",
+        "file": "themes/atelier-forest-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Atelier Forest Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-forest-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Base color for Heath is magenta, and here the background-colors have these cool-red colors for the background, but then obviously toned down quite a bit \u2026.",
+        "file": "themes/atelier-heath-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Atelier Heath Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-heath-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Cool colorscheme for the base color for Lakeside is blue, which means bluish colors for the background.",
+        "file": "themes/atelier-lakeside-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Atelier Lakeside Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-lakeside-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Base color for Plateau is red, and here the background-colors have these chocolate brown/grey colors for the background, while the \u201ccolor-wheel colors\u201d are quite desaturated. A warm palette; no real green in here.",
+        "file": "themes/atelier-plateau-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Atelier Plateau Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-plateau-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Base color for Savanna is green, it has greenish colors for the background. \u201cColor-wheel colors\u201d are desaturated considerably, giving this colorscheme a rather understated appeal and, dear I say it, a \u2018natural\u2019 look and feel.",
+        "file": "themes/atelier-savanna-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Atelier Savanna Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-savanna-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Base color for Seaside is green: greenish colors for the background. Very saturated color-palette; comes popping at you.",
+        "file": "themes/atelier-seaside-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Atelier Seaside Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-seaside-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Purple-ish otherworldly colorscheme",
+        "file": "themes/atelier-sulphurpool-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Atelier Sulphurpool Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-sulphurpool-dark.conf"
     },
     {
         "file": "themes/Atom.conf",
@@ -169,6 +270,276 @@
         "is_dark": true,
         "name": "Ayu Mirage",
         "num_settings": 21
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Duotone theme | cool cave red - yellow ochre",
+        "file": "themes/base2tone-cave-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Cave Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-cave-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Duotone theme | brown umber - desert orange",
+        "file": "themes/base2tone-desert-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Desert Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-desert-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Duotone theme | bright blue - bright turquoise",
+        "file": "themes/base2tone-drawbridge-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Drawbridge Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-drawbridge-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Duotone theme | brown earth - brown ochre/khaki",
+        "file": "themes/base2tone-earth-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Earth Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-earth-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "Default duotone theme | purple - orange",
+        "file": "themes/base2tone-evening-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Evening Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-evening-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | teal/turqoise - bright field green",
+        "file": "themes/base2tone-field-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Field Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-field-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | muted forest green - light yellow-green",
+        "file": "themes/base2tone-forest-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Forest Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-forest-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | lime garden green - muted orange",
+        "file": "themes/base2tone-garden-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Garden Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-garden-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | violet heath magenta - siena brown orange",
+        "file": "themes/base2tone-heath-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Heath Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-heath-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | lime lake green - muted orange",
+        "file": "themes/base2tone-lake-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Lake Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-lake-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | blue lavender violet - magenta",
+        "file": "themes/base2tone-lavender-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Lavender Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-lavender-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | blue violet - light sky blue",
+        "file": "themes/base2tone-mall-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Mall Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-mall-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | slate blue - light lime green",
+        "file": "themes/base2tone-meadow-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Meadow Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-meadow-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | warm blue - yellow brown ochre",
+        "file": "themes/base2tone-morning-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Morning Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-morning-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | rosy brown - coral salmon orange",
+        "file": "themes/base2tone-motel-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Motel Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-motel-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | violet - salmon orange",
+        "file": "themes/base2tone-pool-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Pool Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-pool-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | muted violet - light orange",
+        "file": "themes/base2tone-porch-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Porch Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-porch-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | slate sea blue - medium sea green",
+        "file": "themes/base2tone-sea-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Sea Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-sea-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | warm space blue - medium orange",
+        "file": "themes/base2tone-space-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Space Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-space-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "duotone theme | warm blue - bright pink",
+        "file": "themes/base2tone-suburb-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base2Tone Suburb Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base2Tone-kitty/blob/main/themes/base2tone-suburb-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "theme with limited color palette",
+        "file": "themes/base4tone-classic-d-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base4Tone_Classic_D Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base4Tone-kitty/blob/main/themes/base4tone-classic-d-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "theme with limited color palette",
+        "file": "themes/base4tone-classic-i-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base4Tone_Classic_I Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base4Tone-kitty/blob/main/themes/base4tone-classic-i-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "theme with limited color palette",
+        "file": "themes/base4tone-classic-p-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base4Tone_Classic_P Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base4Tone-kitty/blob/main/themes/base4tone-classic-p-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "theme with limited color palette",
+        "file": "themes/base4tone-classic-s-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base4Tone_Classic_S Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base4Tone-kitty/blob/main/themes/base4tone-classic-s-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "theme with limited color palette",
+        "file": "themes/base4tone-classic-w-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base4Tone_Classic_W Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base4Tone-kitty/blob/main/themes/base4tone-classic-w-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "theme with limited color palette",
+        "file": "themes/base4tone-modern-n-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base4Tone_Modern_N Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base4Tone-kitty/blob/main/themes/base4tone-modern-n-dark.conf"
+    },
+    {
+        "author": "Bram de Haan (https://github.com/atelierbram)",
+        "blurb": "theme with limited color palette",
+        "file": "themes/base4tone-modern-w-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Base4Tone_Modern_W Dark",
+        "num_settings": 41,
+        "upstream": "https://github.com/atelierbram/Base4Tone-kitty/blob/main/themes/base4tone-modern-w-dark.conf"
     },
     {
         "file": "themes/Batman.conf",
@@ -283,6 +654,16 @@
         "is_dark": true,
         "name": "Campbell",
         "num_settings": 20
+    },
+    {
+        "author": "EdenEast",
+        "blurb": "Carbonfox theme from the neovim colorscheme nightfox.nvim.",
+        "file": "themes/Carbonfox.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Carbonfox",
+        "num_settings": 32,
+        "upstream": "https://github.com/EdenEast/nightfox.nvim/blob/main/extra/carbonfox/kitty.conf"
     },
     {
         "author": "Pocco81 (https://github.com/Pocco81)",
@@ -413,6 +794,15 @@
         "upstream": "https://raw.githubusercontent.com/jandre953/kitty-cyberpunk/master/cyberpunk.conf"
     },
     {
+        "author": "Theo (theo-grivel)",
+        "file": "themes/Cyberpunk-Neon.conf",
+        "is_dark": true,
+        "license": "CC-BY-SA-4.0",
+        "name": "Cyberpunk Neon",
+        "num_settings": 21,
+        "upstream": "https://github.com/Roboron3042/Cyberpunk-Neon/blob/master/terminal/kitty/cyberpunk-neon.conf"
+    },
+    {
         "file": "themes/DarkOneNuanced.conf",
         "is_dark": true,
         "name": "Dark One Nuanced",
@@ -438,6 +828,24 @@
         "is_dark": true,
         "name": "Darkside",
         "num_settings": 21
+    },
+    {
+        "author": "EdenEast",
+        "blurb": "Dawnfox theme from the neovim colorscheme nightfox.nvim.",
+        "file": "themes/Dawnfox.conf",
+        "license": "MIT",
+        "name": "Dawnfox",
+        "num_settings": 32,
+        "upstream": "https://github.com/EdenEast/nightfox.nvim/blob/main/extra/dawnfox/kitty.conf"
+    },
+    {
+        "author": "EdenEast",
+        "blurb": "Dayfox theme from the neovim colorscheme nightfox.nvim.",
+        "file": "themes/Dayfox.conf",
+        "license": "MIT",
+        "name": "Dayfox",
+        "num_settings": 32,
+        "upstream": "https://github.com/EdenEast/nightfox.nvim/blob/main/extra/dayfox/kitty.conf"
     },
     {
         "author": "Kovid Goyal",
@@ -519,6 +927,16 @@
         "num_settings": 21
     },
     {
+        "author": "EdenEast",
+        "blurb": "Duskfox theme from the neovim colorscheme nightfox.nvim.",
+        "file": "themes/Duskfox.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Duskfox",
+        "num_settings": 32,
+        "upstream": "https://github.com/EdenEast/nightfox.nvim/blob/main/extra/duskfox/kitty.conf"
+    },
+    {
         "file": "themes/ENCOM.conf",
         "is_dark": true,
         "name": "ENCOM",
@@ -529,6 +947,16 @@
         "is_dark": true,
         "name": "Earthsong",
         "num_settings": 21
+    },
+    {
+        "author": "jacobrreed",
+        "blurb": "A theme for the Ancient Ones!",
+        "file": "themes/Eldritch.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Eldritch",
+        "num_settings": 31,
+        "upstream": "https://github.com/eldritch-theme/kitty"
     },
     {
         "file": "themes/Elemental.conf",
@@ -753,6 +1181,15 @@
         "is_dark": true,
         "name": "Glacier",
         "num_settings": 21
+    },
+    {
+        "author": "Ittner (https://www.ittner.com.br)",
+        "blurb": "A theme based on the colors of the classic Gnome Terminal",
+        "file": "themes/Gnome-ish_gray-on-black.conf",
+        "is_dark": true,
+        "license": "GPLv3+",
+        "name": "Gnome-ish gray-on-black",
+        "num_settings": 41
     },
     {
         "file": "themes/GoaBase.conf",
@@ -983,6 +1420,35 @@
         "is_dark": true,
         "name": "Jet Brains Darcula",
         "num_settings": 21
+    },
+    {
+        "author": "Tommaso Laurenzi",
+        "blurb": "NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.",
+        "file": "themes/kanagawa.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Kanagawa",
+        "num_settings": 28,
+        "upstream": "https://github.com/rebelot/kanagawa.nvim/"
+    },
+    {
+        "author": "Tommaso Laurenzi",
+        "blurb": "NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. Dragon version.",
+        "file": "themes/kanagawa_dragon.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Kanagawa_dragon",
+        "num_settings": 28,
+        "upstream": "https://github.com/rebelot/kanagawa.nvim/"
+    },
+    {
+        "author": "Tommaso Laurenzi",
+        "blurb": "NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. Light version.",
+        "file": "themes/kanagawa_light.conf",
+        "license": "MIT",
+        "name": "Kanagawa_light",
+        "num_settings": 29,
+        "upstream": "https://github.com/rebelot/kanagawa.nvim/"
     },
     {
         "author": "Ogden Webb",
@@ -1336,14 +1802,23 @@
         "upstream": "https://github.com/EdenEast/nightfox.nvim/blob/main/extra/nightfox/nightfox_kitty.conf"
     },
     {
-        "author": "Connor Holyday",
-        "blurb": "An arctic, north-bluish clean and elegant Kitty theme.",
+        "author": "Eric N. Vander Weele",
+        "blurb": "Nord theme utilizing the full Frost and Aurora palette.",
         "file": "themes/Nord.conf",
         "is_dark": true,
-        "license": "MIT",
         "name": "Nord",
-        "num_settings": 22,
-        "upstream": "https://raw.githubusercontent.com/connorholyday/nord-kitty/master/nord.conf"
+        "num_settings": 39,
+        "upstream": "https://www.nordtheme.com/"
+    },
+    {
+        "author": "EdenEast",
+        "blurb": "Nordfox theme from the neovim colorscheme nightfox.nvim.",
+        "file": "themes/Nordfox.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Nordfox",
+        "num_settings": 32,
+        "upstream": "https://github.com/EdenEast/nightfox.nvim/blob/main/extra/nordfox/kitty.conf"
     },
     {
         "file": "themes/Nova.conf",
@@ -1405,6 +1880,16 @@
         "upstream": "https://raw.githubusercontent.com/sonph/onehalf/master/kitty/onehalf-light.conf"
     },
     {
+        "author": "VictorPL (https://github.com/VictorPLopes)",
+        "blurb": "Kitty theme inspired by Binaryify's One Dark Pro theme for Visual Studio Code.",
+        "file": "themes/OneDark-Pro.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "OneDark-Pro",
+        "num_settings": 27,
+        "upstream": "https://github.com/VictorPLopes/OneDark-Pro-Kitty-Terminal/blob/main/kitty-themes/OneDark-Pro.conf"
+    },
+    {
         "author": "Nikyle Nguyen",
         "blurb": "Dark color scheme inspired by Google's Material Design",
         "file": "themes/PaperColor_dark.conf",
@@ -1444,6 +1929,16 @@
         "file": "themes/PencilLight.conf",
         "name": "Pencil Light",
         "num_settings": 21
+    },
+    {
+        "author": "dbw (https://github.com/wolgamot)",
+        "blurb": "Purple and yellow color scheme based on my NixOS configuration",
+        "file": "themes/phanes.conf",
+        "is_dark": true,
+        "license": "GPLv3",
+        "name": "Phanes",
+        "num_settings": 41,
+        "upstream": "https://github.com/wolgamot/phanes_colors/blob/main/phanes.conf"
     },
     {
         "file": "themes/Piatto_Light.conf",
@@ -1552,6 +2047,44 @@
         "is_dark": true,
         "name": "Seafoam Pastel",
         "num_settings": 21
+    },
+    {
+        "author": "Jan Warchol",
+        "blurb": "Selenized black color scheme for Kitty",
+        "file": "themes/selenized-black.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Selenized Black",
+        "num_settings": 28,
+        "upstream": "https://github.com/jan-warchol/selenized/raw/master/terminals/kitty/kitty-selenized-black.conf"
+    },
+    {
+        "author": "Jan Warchol",
+        "blurb": "Selenized dark color scheme for Kitty",
+        "file": "themes/selenized-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Selenized Dark",
+        "num_settings": 28,
+        "upstream": "https://github.com/jan-warchol/selenized/raw/master/terminals/kitty/kitty-selenized-dark.conf"
+    },
+    {
+        "author": "Jan Warchol",
+        "blurb": "Selenized light color scheme for Kitty",
+        "file": "themes/selenized-light.conf",
+        "license": "MIT",
+        "name": "Selenized Light",
+        "num_settings": 28,
+        "upstream": "https://github.com/jan-warchol/selenized/raw/master/terminals/kitty/kitty-selenized-light.conf"
+    },
+    {
+        "author": "Jan Warchol",
+        "blurb": "Selenized white color scheme for Kitty",
+        "file": "themes/selenized-white.conf",
+        "license": "MIT",
+        "name": "Selenized White",
+        "num_settings": 28,
+        "upstream": "https://github.com/jan-warchol/selenized/raw/master/terminals/kitty/kitty-selenized-white.conf"
     },
     {
         "file": "themes/Seti.conf",
@@ -1742,6 +2275,26 @@
         "num_settings": 21
     },
     {
+        "author": "CompEng0001",
+        "blurb": "A Kitty color scheme inspired by the tender_vim color scheme",
+        "file": "themes/tender.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Tender",
+        "num_settings": 18,
+        "upstream": "https://github.com/CompEng0001/tender-kitty/raw/main/theme.conf"
+    },
+    {
+        "author": "EdenEast",
+        "blurb": "Terafox theme from the neovim colorscheme nightfox.nvim.",
+        "file": "themes/Terafox.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Terafox",
+        "num_settings": 32,
+        "upstream": "https://github.com/EdenEast/nightfox.nvim/blob/main/extra/terafox/kitty.conf"
+    },
+    {
         "file": "themes/Thayer_Bright.conf",
         "is_dark": true,
         "name": "Thayer Bright",
@@ -1759,16 +2312,16 @@
         "is_dark": true,
         "license": "MIT",
         "name": "Tokyo Night",
-        "num_settings": 28,
-        "upstream": "https://github.com/folke/tokyonight.nvim/raw/main/extras/kitty_tokyonight_night.conf"
+        "num_settings": 31,
+        "upstream": "https://github.com/folke/tokyonight.nvim/raw/main/extras/kitty/tokyonight_night.conf"
     },
     {
         "author": "Folke Lemaitre",
         "file": "themes/tokyo_night_day.conf",
         "license": "MIT",
         "name": "Tokyo Night Day",
-        "num_settings": 28,
-        "upstream": "https://github.com/folke/tokyonight.nvim/raw/main/extras/kitty_tokyonight_day.conf"
+        "num_settings": 31,
+        "upstream": "https://github.com/folke/tokyonight.nvim/raw/main/extras/kitty/tokyonight_day.conf"
     },
     {
         "author": "Folke Lemaitre",
@@ -1785,8 +2338,8 @@
         "is_dark": true,
         "license": "MIT",
         "name": "Tokyo Night Storm",
-        "num_settings": 28,
-        "upstream": "https://github.com/folke/tokyonight.nvim/raw/main/extras/kitty_tokyonight_storm.conf"
+        "num_settings": 31,
+        "upstream": "https://github.com/folke/tokyonight.nvim/raw/main/extras/kitty/tokyonight_storm.conf"
     },
     {
         "file": "themes/Tomorrow.conf",
@@ -1828,6 +2381,14 @@
         "is_dark": true,
         "name": "Treehouse",
         "num_settings": 21
+    },
+    {
+        "author": "Anoduck",
+        "file": "themes/outrun_electric.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Tropical Neon",
+        "num_settings": 23
     },
     {
         "file": "themes/Twilight.conf",
@@ -1940,6 +2501,15 @@
         "num_settings": 21
     },
     {
+        "author": "dhay3",
+        "file": "themes/bl1nk.conf",
+        "is_dark": true,
+        "license": "CC0 1.0",
+        "name": "bl1nk",
+        "num_settings": 27,
+        "upstream": "https://github.com/dhay3/kitty-bl1nk/blob/main/bl1nk.conf"
+    },
+    {
         "author": "\u98df\u7121\u9b5a <liuyinz@gmail.com>",
         "blurb": "Theme for Kitty inspired by https://citylights.xyz/",
         "file": "themes/citylights.conf",
@@ -2015,6 +2585,25 @@
         "num_settings": 36
     },
     {
+        "author": "Dimitar Dimitrov (https://github.com/n1ghtmare)",
+        "blurb": "A dark minimal theme based on the neovim noirbuddy theme system with a touch of oxide",
+        "file": "themes/noirbuddy-oxide.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "noirbuddy-oxide",
+        "num_settings": 36
+    },
+    {
+        "author": "playerofceleste",
+        "blurb": "calm pink theme for dark mode",
+        "file": "themes/pink_lavender.conf",
+        "is_dark": true,
+        "license": "GPLv3",
+        "name": "pink lavender",
+        "num_settings": 41,
+        "upstream": "https://raw.githubusercontent.com/playerofceleste/pink-lavender/refs/heads/main/implementations/kitty/pink-lavender.conf"
+    },
+    {
         "author": "Ehan Ahamed and contributors",
         "blurb": "A purple-ish-dark theme for kitty & more",
         "file": "themes/purpurite.conf",
@@ -2052,6 +2641,16 @@
         "num_settings": 27
     },
     {
+        "author": "Guillermo Rodriguez",
+        "blurb": "An intergalactic space theme for Vim, Terminal & more!",
+        "file": "themes/spaceduck.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "spaceduck",
+        "num_settings": 21,
+        "upstream": "https://github.com/foofrog/kitty-themes/blob/master/themes/spaceduck.conf"
+    },
+    {
         "author": "Daniel Berg",
         "blurb": "Srcery is a color scheme with clearly defined contrasting colors and a slightly earthy tone.",
         "file": "themes/Srcery.conf",
@@ -2060,6 +2659,16 @@
         "name": "srcery",
         "num_settings": 22,
         "upstream": "https://github.com/srcery-colors/srcery-terminal/blob/master/kitty/srcery_kitty.conf"
+    },
+    {
+        "author": "Diego",
+        "blurb": "Inspired in the theme for neovim vague.nvim by vague2k.",
+        "file": "themes/vague.conf",
+        "is_dark": true,
+        "license": "MIT/X11",
+        "name": "vague kitty",
+        "num_settings": 22,
+        "upstream": "A URL pointing to the location of this file upstream for auto-updates"
     },
     {
         "author": "Michael Chris Lopez",
