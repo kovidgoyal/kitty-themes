@@ -28,6 +28,13 @@
         "num_settings": 21
     },
     {
+        "blurb": "Based on the VGA ANSI palette on IBM PC DOS & OS/2 sytems.",
+        "file": "themes/ANSI-87.conf",
+        "is_dark": true,
+        "name": "ANSI 1987",
+        "num_settings": 22
+    },
+    {
         "blurb": "A description of this theme. This is the default theme for manjaro community eddition of i3.",
         "file": "themes/Adapta_Nokto_Maia.conf",
         "is_dark": true,
