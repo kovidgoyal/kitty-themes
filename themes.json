@@ -966,6 +966,16 @@
         "upstream": "https://github.com/eldritch-theme/kitty"
     },
     {
+        "author": "jacobrreed",
+        "blurb": "A theme for the Ancient Ones!",
+        "file": "themes/Eldritch-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Eldritch dark",
+        "num_settings": 31,
+        "upstream": "https://github.com/eldritch-theme/kitty"
+    },
+    {
         "file": "themes/Elemental.conf",
         "is_dark": true,
         "name": "Elemental",
