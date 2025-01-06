@@ -810,6 +810,16 @@
         "upstream": "https://github.com/Roboron3042/Cyberpunk-Neon/blob/master/terminal/kitty/cyberpunk-neon.conf"
     },
     {
+        "author": "Anshul Singh Chauhan (https://github.com/anshul-exe)",
+        "blurb": "A deep sea-dark theme with vibrant cyan and purple accents",
+        "file": "themes/daintyDark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Dainty Dark",
+        "num_settings": 34,
+        "upstream": "https://github.com/Anshul-exe/Dainty-Dark_kitty_theme/blob/main/daintyDark.conf"
+    },
+    {
         "file": "themes/DarkOneNuanced.conf",
         "is_dark": true,
         "name": "Dark One Nuanced",
