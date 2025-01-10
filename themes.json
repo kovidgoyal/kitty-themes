@@ -2565,6 +2565,16 @@
         "upstream": "https://github.com/Snuggle/kitty-themes"
     },
     {
+        "author": "tpaau-17DB",
+        "blurb": "A grayscale colorscheme.",
+        "file": "themes/graphite.conf",
+        "is_dark": true,
+        "license": "GNU General Public License v3.0",
+        "name": "graphite",
+        "num_settings": 41,
+        "upstream": "https://github.com/tpaau-17DB/kitty-themes-custom/tree/main/themes/graphite.conf"
+    },
+    {
         "author": "Michael Chris Lopez",
         "blurb": "A zenbones variant inspired by Kanagawa.",
         "file": "themes/kanagawabones.conf",
