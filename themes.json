@@ -2512,6 +2512,45 @@
         "num_settings": 21
     },
     {
+        "author": "yorumicolors",
+        "blurb": "A deep abyssal flavor of the yorumi theme. Find more @ github/yorumicolors",
+        "file": "themes/yorumi-abyss.conf",
+        "is_dark": true,
+        "license": "GNU General Public License v3.0",
+        "name": "Yorumi Abyss",
+        "num_settings": 41,
+        "upstream": "https://raw.githubusercontent.com/yorumicolors/kitty/refs/heads/main/yorumi-abyss.conf"
+    },
+    {
+        "author": "yorumicolors",
+        "blurb": "Another flavor of the yorumi theme. Find more @ github/yorumicolors",
+        "file": "themes/yorumi-kraken.conf",
+        "is_dark": true,
+        "license": "GNU General Public License v3.0",
+        "name": "Yorumi Kraken",
+        "num_settings": 41,
+        "upstream": "https://raw.githubusercontent.com/yorumicolors/kitty/refs/heads/main/yorumi-kraken.conf"
+    },
+    {
+        "author": "yorumicolors",
+        "blurb": "A light flavor of the yorumi theme. Find more @ github/yorumicolors",
+        "file": "themes/yorumi-mist.conf",
+        "license": "GNU General Public License v3.0",
+        "name": "Yorumi Mist",
+        "num_settings": 41,
+        "upstream": "https://raw.githubusercontent.com/yorumicolors/kitty/refs/heads/main/yorumi-mist.conf"
+    },
+    {
+        "author": "yorumicolors",
+        "blurb": "A more washed off dark flavor of yorumi. Find more @ github/yorumicolors",
+        "file": "themes/yorumi-shade.conf",
+        "is_dark": true,
+        "license": "GNU General Public License v3.0",
+        "name": "Yorumi Shade",
+        "num_settings": 41,
+        "upstream": "https://raw.githubusercontent.com/yorumicolors/kitty/refs/heads/main/yorumi-shade.conf"
+    },
+    {
         "author": "Ya-suke",
         "blurb": "A dracula inspired colorscheme for kitty.",
         "file": "themes/YsDark.conf",
