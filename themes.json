@@ -1639,6 +1639,15 @@
         "num_settings": 21
     },
     {
+        "blurb": "A soothing, dark color palette. Crafted to be easy on the eyes with a focus on code readability.",
+        "file": "themes/mellow.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Mellow",
+        "num_settings": 28,
+        "upstream": "https://raw.githubusercontent.com/mellow-theme/mellow.nvim/refs/heads/main/extras/kitty/mellow.conf"
+    },
+    {
         "author": "abrielleing",
         "file": "themes/midsummer-night.conf",
         "is_dark": true,
