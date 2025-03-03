@@ -262,6 +262,16 @@
         "num_settings": 21
     },
     {
+        "author": "Ruhannn",
+        "blurb": "A very cute theme made with love",
+        "file": "themes/Ayaka.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Ayaka",
+        "num_settings": 28,
+        "upstream": "https://raw.githubusercontent.com/Ruhannn/kitty-themes/refs/heads/master/themes/Ayaka.conf"
+    },
+    {
         "file": "themes/ayu.conf",
         "is_dark": true,
         "name": "Ayu",
