@@ -594,6 +594,16 @@
         "num_settings": 21
     },
     {
+        "author": "Joshua Jon, Eric Johnson",
+        "blurb": "This is a port for kitty of the Bliss iTerm2 theme by Joshua Jon https://github.com/joshjon/bliss-iterm",
+        "file": "themes/bliss.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Bliss",
+        "num_settings": 39,
+        "upstream": "https://github.com/ejohnso49/bliss-kitty-theme/blob/main/bliss.conf"
+    },
+    {
         "author": "Umut Topuzo\u011flu",
         "blurb": "A fancy and sophisticated dark designer color theme",
         "file": "themes/BlulocoDark.conf",
