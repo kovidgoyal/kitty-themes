@@ -975,7 +975,7 @@
     },
     {
         "author": "Algilbert Gomez (https://github.com/alexxGmZ)",
-        "blurb": "A grascale theme aiming to imitate e-ink displays.",
+        "blurb": "A grayscale theme aiming to imitate e-ink displays.",
         "file": "themes/E-Ink.conf",
         "license": "MIT",
         "name": "E-Ink",
@@ -984,7 +984,7 @@
     },
     {
         "author": "Algilbert Gomez (https://github.com/alexxGmZ)",
-        "blurb": "A grascale theme aiming to imitate e-ink displays.",
+        "blurb": "A grayscale theme aiming to imitate e-ink displays.",
         "file": "themes/E-Ink-Dark.conf",
         "is_dark": true,
         "license": "MIT",
