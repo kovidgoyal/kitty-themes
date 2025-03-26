@@ -974,6 +974,25 @@
         "upstream": "https://github.com/EdenEast/nightfox.nvim/blob/main/extra/duskfox/kitty.conf"
     },
     {
+        "author": "Algilbert Gomez (https://github.com/alexxGmZ)",
+        "blurb": "A grascale theme aiming to imitate e-ink displays.",
+        "file": "themes/E-Ink.conf",
+        "license": "MIT",
+        "name": "E-Ink",
+        "num_settings": 21,
+        "upstream": "https://github.com/alexxGmZ/e-ink.kitty/blob/main/E-Ink.conf"
+    },
+    {
+        "author": "Algilbert Gomez (https://github.com/alexxGmZ)",
+        "blurb": "A grascale theme aiming to imitate e-ink displays.",
+        "file": "themes/E-Ink-Dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "E-Ink Dark",
+        "num_settings": 21,
+        "upstream": "https://github.com/alexxGmZ/e-ink.kitty/blob/main/E-Ink-Dark.conf"
+    },
+    {
         "file": "themes/ENCOM.conf",
         "is_dark": true,
         "name": "ENCOM",
