@@ -604,6 +604,16 @@
         "upstream": "https://github.com/ejohnso49/bliss-kitty-theme/blob/main/bliss.conf"
     },
     {
+        "author": "janbridley",
+        "blurb": "Pastel dark theme optimized to work with mixed deuteranomaly-tritanomaly colorblindness.",
+        "file": "themes/blueberry-mango.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Blueberry Mango",
+        "num_settings": 34,
+        "upstream": "https://github.com/janbridley/blueberry-mango/blob/main/kitty/blueberry-mango.conf"
+    },
+    {
         "author": "Umut Topuzo\u011flu",
         "blurb": "A fancy and sophisticated dark designer color theme",
         "file": "themes/BlulocoDark.conf",
