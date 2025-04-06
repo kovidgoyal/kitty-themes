@@ -1259,6 +1259,14 @@
         "num_settings": 21
     },
     {
+        "author": "rbbl",
+        "blurb": "Colors of the default Gnome-Terminal light theme",
+        "file": "themes/GnomeLight.conf",
+        "license": "MIT",
+        "name": "Gnome Light",
+        "num_settings": 25
+    },
+    {
         "author": "Ittner (https://www.ittner.com.br)",
         "blurb": "A theme based on the colors of the classic Gnome Terminal",
         "file": "themes/Gnome-ish_gray-on-black.conf",
