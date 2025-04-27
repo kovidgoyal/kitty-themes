@@ -2566,6 +2566,16 @@
         "num_settings": 21
     },
     {
+        "author": "ed9w2in6",
+        "blurb": "Relaxing warm theme inspired by wood and plants colours.",
+        "file": "themes/Wood.conf",
+        "is_dark": true,
+        "license": "GPL-3",
+        "name": "Wood",
+        "num_settings": 42,
+        "upstream": "https://github.com/ed9w2in6/wood-theme/blob/master/kitty/Wood.conf"
+    },
+    {
         "file": "themes/Wryan.conf",
         "is_dark": true,
         "name": "Wryan",
