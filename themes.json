@@ -2273,6 +2273,16 @@
         "num_settings": 21
     },
     {
+        "author": "Dustin Miao",
+        "blurb": "A Kitty port for the Sonokai theme (https://github.com/sainnhe/sonokai)",
+        "file": "themes/sonokai-sushia.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Sonokai Sushia",
+        "num_settings": 27,
+        "upstream": "https://github.com/selenebun/sonokai-kitty"
+    },
+    {
         "file": "themes/Source_Code_X.conf",
         "is_dark": true,
         "name": "Source Code X",
