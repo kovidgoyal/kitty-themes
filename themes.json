@@ -2691,13 +2691,13 @@
     },
     {
         "author": "tpaau-17DB",
-        "blurb": "A grayscale colorscheme.",
+        "blurb": "A grayscale color theme",
         "file": "themes/graphite.conf",
         "is_dark": true,
         "license": "GNU General Public License v3.0",
         "name": "graphite",
         "num_settings": 41,
-        "upstream": "https://github.com/tpaau-17DB/kitty-themes-custom/tree/main/themes/graphite.conf"
+        "upstream": "https://github.com/kovidgoyal/kitty-themes/blob/master/themes/graphite.conf"
     },
     {
         "author": "Michael Chris Lopez",
