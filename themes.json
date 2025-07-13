@@ -2532,6 +2532,15 @@
         "num_settings": 21
     },
     {
+        "author": "CarleScript",
+        "blurb": "Vivid theme based on the colors of my wallpaper created by 00xBAD (https://wallhaven.cc/w/gpy1k3)",
+        "file": "themes/VividPunk.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "VividPunk",
+        "num_settings": 43
+    },
+    {
         "file": "themes/WarmNeon.conf",
         "is_dark": true,
         "name": "Warm Neon",
