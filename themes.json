@@ -810,6 +810,15 @@
         "upstream": "none (yet)"
     },
     {
+        "author": "CrystalPixie",
+        "blurb": "Just a simple Copland OS theme, based off the anime \"Serial Experiments Lain\"",
+        "file": "themes/Copland_OS.conf",
+        "is_dark": true,
+        "license": "MIT license",
+        "name": "Copland OS",
+        "num_settings": 25
+    },
+    {
         "file": "themes/Corvine.conf",
         "is_dark": true,
         "name": "Corvine",
