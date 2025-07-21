@@ -3,7 +3,7 @@
         "file": "themes/1984_dark.conf",
         "is_dark": true,
         "name": "1984 Dark",
-        "num_settings": 23
+        "num_settings": 27
     },
     {
         "file": "themes/1984_light.conf",
@@ -14,7 +14,7 @@
         "file": "themes/1984_orwellian.conf",
         "is_dark": true,
         "name": "1984 Orwellian",
-        "num_settings": 23
+        "num_settings": 27
     },
     {
         "file": "themes/3024_Day.conf",
@@ -25,14 +25,14 @@
         "file": "themes/3024_Night.conf",
         "is_dark": true,
         "name": "3024 Night",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "blurb": "Based on the VGA ANSI palette on IBM PC DOS & OS/2 sytems.",
         "file": "themes/ANSI-87.conf",
         "is_dark": true,
         "name": "ANSI 1987",
-        "num_settings": 22
+        "num_settings": 26
     },
     {
         "blurb": "A description of this theme. This is the default theme for manjaro community eddition of i3.",
@@ -45,7 +45,7 @@
         "file": "themes/AdventureTime.conf",
         "is_dark": true,
         "name": "Adventure Time",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "Emil L\u00f6fquist (https://github.com/ewal)",
@@ -80,7 +80,7 @@
         "file": "themes/Afterglow.conf",
         "is_dark": true,
         "name": "Afterglow",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "Nikita Prokopov",
@@ -105,19 +105,19 @@
         "file": "themes/AlienBlood.conf",
         "is_dark": true,
         "name": "Alien Blood",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Alucard.conf",
         "is_dark": true,
         "name": "Alucard",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Apprentice.conf",
         "is_dark": true,
         "name": "Apprentice",
-        "num_settings": 22
+        "num_settings": 26
     },
     {
         "author": "Detective Pikachu",
@@ -126,7 +126,7 @@
         "is_dark": true,
         "license": "MIT",
         "name": "Aquarium Dark",
-        "num_settings": 22,
+        "num_settings": 26,
         "upstream": "https://github.com/FrenzyExists/aquarium-vim/raw/develop/extras/kitty_aquarium_dark.conf"
     },
     {
@@ -142,13 +142,13 @@
         "file": "themes/Argonaut.conf",
         "is_dark": true,
         "name": "Argonaut",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Arthur.conf",
         "is_dark": true,
         "name": "Arthur",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "Bram de Haan (https://github.com/atelierbram)",
@@ -254,7 +254,7 @@
         "file": "themes/Atom.conf",
         "is_dark": true,
         "name": "Atom",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/AtomOneLight.conf",
@@ -275,7 +275,7 @@
         "file": "themes/ayu.conf",
         "is_dark": true,
         "name": "Ayu",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/ayu_light.conf",
@@ -286,7 +286,7 @@
         "file": "themes/ayu_mirage.conf",
         "is_dark": true,
         "name": "Ayu Mirage",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "Bram de Haan (https://github.com/atelierbram)",
@@ -562,7 +562,7 @@
         "file": "themes/Batman.conf",
         "is_dark": true,
         "name": "Batman",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Belafonte_Day.conf",
@@ -573,13 +573,13 @@
         "file": "themes/Belafonte_Night.conf",
         "is_dark": true,
         "name": "Belafonte Night",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/BirdsOfParadise.conf",
         "is_dark": true,
         "name": "Birds Of Paradise",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/BlackMetal.conf",
@@ -591,7 +591,7 @@
         "file": "themes/Blazer.conf",
         "is_dark": true,
         "name": "Blazer",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "Joshua Jon, Eric Johnson",
@@ -653,26 +653,26 @@
         "is_dark": true,
         "license": "MIT",
         "name": "Breath2",
-        "num_settings": 24,
+        "num_settings": 28,
         "upstream": "https://raw.githubusercontent.com/b3yc0d3/my-kitty-themes/main/themes/breath2.conf"
     },
     {
         "file": "themes/Bright_Lights.conf",
         "is_dark": true,
         "name": "Bright Lights",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Broadcast.conf",
         "is_dark": true,
         "name": "Broadcast",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Brogrammer.conf",
         "is_dark": true,
         "name": "Brogrammer",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/C64.conf",
@@ -690,7 +690,7 @@
         "file": "themes/Campbell.conf",
         "is_dark": true,
         "name": "Campbell",
-        "num_settings": 20
+        "num_settings": 24
     },
     {
         "author": "EdenEast",
@@ -745,13 +745,13 @@
         "file": "themes/Chalk.conf",
         "is_dark": true,
         "name": "Chalk",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Chalkboard.conf",
         "is_dark": true,
         "name": "Chalkboard",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/ChallengerDeep.conf",
@@ -781,13 +781,13 @@
         "file": "themes/Ciapre.conf",
         "is_dark": true,
         "name": "Ciapre",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Cobalt_Neon.conf",
         "is_dark": true,
         "name": "Cobalt Neon",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "Lalit Kumar(@laltimee)",
@@ -822,13 +822,13 @@
         "file": "themes/Corvine.conf",
         "is_dark": true,
         "name": "Corvine",
-        "num_settings": 18
+        "num_settings": 22
     },
     {
         "file": "themes/CrayonPonyFish.conf",
         "is_dark": true,
         "name": "Crayon Pony Fish",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "blurb": "A cyberpunk theme based on the Cyberpunk VIM Colorscheme by thedenisnikulin.",
@@ -845,7 +845,7 @@
         "is_dark": true,
         "license": "CC-BY-SA-4.0",
         "name": "Cyberpunk Neon",
-        "num_settings": 21,
+        "num_settings": 25,
         "upstream": "https://github.com/Roboron3042/Cyberpunk-Neon/blob/master/terminal/kitty/cyberpunk-neon.conf"
     },
     {
@@ -862,13 +862,13 @@
         "file": "themes/DarkOneNuanced.conf",
         "is_dark": true,
         "name": "Dark One Nuanced",
-        "num_settings": 26
+        "num_settings": 30
     },
     {
         "file": "themes/Dark_Pastel.conf",
         "is_dark": true,
         "name": "Dark Pastel",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "apathyrecharge",
@@ -877,13 +877,13 @@
         "is_dark": true,
         "license": "GPLv3",
         "name": "Dark Pride",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Darkside.conf",
         "is_dark": true,
         "name": "Darkside",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "EdenEast",
@@ -915,19 +915,19 @@
         "file": "themes/Desert.conf",
         "is_dark": true,
         "name": "Desert",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/DesertNight.conf",
         "is_dark": true,
         "name": "Desert Night",
-        "num_settings": 19
+        "num_settings": 23
     },
     {
         "file": "themes/DimmedMonokai.conf",
         "is_dark": true,
         "name": "Dimmed Monokai",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "Henrik Lissner <https://github.com/hlissner>",
@@ -959,7 +959,7 @@
         "file": "themes/DotGov.conf",
         "is_dark": true,
         "name": "Dot Gov",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "Keegan Carruthers-Smith",
@@ -974,13 +974,13 @@
         "file": "themes/Dumbledore.conf",
         "is_dark": true,
         "name": "Dumbledore",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Duotone_Dark.conf",
         "is_dark": true,
         "name": "Duotone Dark",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "EdenEast",
@@ -1008,20 +1008,20 @@
         "is_dark": true,
         "license": "MIT",
         "name": "E-Ink Dark",
-        "num_settings": 21,
+        "num_settings": 25,
         "upstream": "https://github.com/alexxGmZ/e-ink.kitty/blob/main/E-Ink-Dark.conf"
     },
     {
         "file": "themes/ENCOM.conf",
         "is_dark": true,
         "name": "ENCOM",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Earthsong.conf",
         "is_dark": true,
         "name": "Earthsong",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "jacobrreed",
@@ -1047,7 +1047,7 @@
         "file": "themes/Elemental.conf",
         "is_dark": true,
         "name": "Elemental",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Espresso.conf",
@@ -1059,7 +1059,7 @@
         "file": "themes/Espresso_Libre.conf",
         "is_dark": true,
         "name": "Espresso Libre",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "Sainnhe Park",
@@ -1122,37 +1122,37 @@
         "file": "themes/Falcon.conf",
         "is_dark": true,
         "name": "Falcon",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Farin.conf",
         "is_dark": true,
         "name": "Farin",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Fideloper.conf",
         "is_dark": true,
         "name": "Fideloper",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/FishTank.conf",
         "is_dark": true,
         "name": "Fish Tank",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Flat.conf",
         "is_dark": true,
         "name": "Flat",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Flatland.conf",
         "is_dark": true,
         "name": "Flatland",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "Kepano",
@@ -1177,31 +1177,31 @@
         "file": "themes/Floraverse.conf",
         "is_dark": true,
         "name": "Floraverse",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/ForestNight.conf",
         "is_dark": true,
         "name": "Forest Night",
-        "num_settings": 18
+        "num_settings": 22
     },
     {
         "file": "themes/FrontEndDelight.conf",
         "is_dark": true,
         "name": "Front End Delight",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/FunForrest.conf",
         "is_dark": true,
         "name": "Fun Forrest",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Galaxy.conf",
         "is_dark": true,
         "name": "Galaxy",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "GitHub",
@@ -1265,7 +1265,7 @@
         "file": "themes/Glacier.conf",
         "is_dark": true,
         "name": "Glacier",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "rbbl",
@@ -1288,13 +1288,13 @@
         "file": "themes/GoaBase.conf",
         "is_dark": true,
         "name": "Goa Base",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Grape.conf",
         "is_dark": true,
         "name": "Grape",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Grass.conf",
@@ -1307,7 +1307,7 @@
         "is_dark": true,
         "license": "MIT/X11",
         "name": "Gruvbox Dark",
-        "num_settings": 23,
+        "num_settings": 27,
         "upstream": "https://raw.githubusercontent.com/gruvbox-community/gruvbox-contrib/master/kitty/gruvbox-dark.conf"
     },
     {
@@ -1316,7 +1316,7 @@
         "is_dark": true,
         "license": "MIT/X11",
         "name": "Gruvbox Dark Hard",
-        "num_settings": 23,
+        "num_settings": 27,
         "upstream": "https://raw.githubusercontent.com/gruvbox-community/gruvbox-contrib/master/kitty/gruvbox-dark-hard.conf"
     },
     {
@@ -1325,7 +1325,7 @@
         "is_dark": true,
         "license": "MIT/X11",
         "name": "Gruvbox Dark Soft",
-        "num_settings": 23,
+        "num_settings": 27,
         "upstream": "https://raw.githubusercontent.com/gruvbox-community/gruvbox-contrib/master/kitty/gruvbox-dark-soft.conf"
     },
     {
@@ -1359,7 +1359,7 @@
         "is_dark": true,
         "license": "MIT",
         "name": "Gruvbox Material Dark Hard",
-        "num_settings": 22,
+        "num_settings": 26,
         "upstream": "https://raw.githubusercontent.com/rsaihe/gruvbox-material-kitty/main/colors/gruvbox-material-dark-hard.conf"
     },
     {
@@ -1369,7 +1369,7 @@
         "is_dark": true,
         "license": "MIT",
         "name": "Gruvbox Material Dark Medium",
-        "num_settings": 22,
+        "num_settings": 26,
         "upstream": "https://raw.githubusercontent.com/rsaihe/gruvbox-material-kitty/main/colors/gruvbox-material-dark-medium.conf"
     },
     {
@@ -1379,7 +1379,7 @@
         "is_dark": true,
         "license": "MIT",
         "name": "Gruvbox Material Dark Soft",
-        "num_settings": 22,
+        "num_settings": 26,
         "upstream": "https://raw.githubusercontent.com/rsaihe/gruvbox-material-kitty/main/colors/gruvbox-material-dark-soft.conf"
     },
     {
@@ -1428,91 +1428,91 @@
         "file": "themes/Hardcore.conf",
         "is_dark": true,
         "name": "Hardcore",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Harper.conf",
         "is_dark": true,
         "name": "Harper",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Highway.conf",
         "is_dark": true,
         "name": "Highway",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Hipster_Green.conf",
         "is_dark": true,
         "name": "Hipster Green",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Homebrew.conf",
         "is_dark": true,
         "name": "Homebrew",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Hurtado.conf",
         "is_dark": true,
         "name": "Hurtado",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Hybrid.conf",
         "is_dark": true,
         "name": "Hybrid",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/IC_Green_PPL.conf",
         "is_dark": true,
         "name": "IC Green PPL",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/IC_Orange_PPL.conf",
         "is_dark": true,
         "name": "IC Orange PPL",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/IR_Black.conf",
         "is_dark": true,
         "name": "IR Black",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/idleToes.conf",
         "is_dark": true,
         "name": "Idle Toes",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Jackie_Brown.conf",
         "is_dark": true,
         "name": "Jackie Brown",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Japanesque.conf",
         "is_dark": true,
         "name": "Japanesque",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Jellybeans.conf",
         "is_dark": true,
         "name": "Jellybeans",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/JetBrains_Darcula.conf",
         "is_dark": true,
         "name": "Jet Brains Darcula",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "Tommaso Laurenzi",
@@ -1608,7 +1608,7 @@
         "file": "themes/Kibble.conf",
         "is_dark": true,
         "name": "Kibble",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "Kevin M (github.com/kevinm6)",
@@ -1623,13 +1623,13 @@
         "file": "themes/Later_This_Evening.conf",
         "is_dark": true,
         "name": "Later This Evening",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Lavandula.conf",
         "is_dark": true,
         "name": "Lavandula",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "qewer33, brought to kitty by KodiakWeb",
@@ -1652,19 +1652,19 @@
         "file": "themes/LiquidCarbon.conf",
         "is_dark": true,
         "name": "Liquid Carbon",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/LiquidCarbonTransparent.conf",
         "is_dark": true,
         "name": "Liquid Carbon Transparent",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/LiquidCarbonTransparentInverse.conf",
         "is_dark": true,
         "name": "Liquid Carbon Transparent Inverse",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Man_Page.conf",
@@ -1680,13 +1680,13 @@
         "file": "themes/MaterialDark.conf",
         "is_dark": true,
         "name": "Material Dark",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Mathias.conf",
         "is_dark": true,
         "name": "Mathias",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "Gulajava Ministudio",
@@ -1695,14 +1695,14 @@
         "is_dark": true,
         "license": "MIT",
         "name": "Mayukai",
-        "num_settings": 18,
+        "num_settings": 22,
         "upstream": "https://github.com/elianiva/mayukai-terminal-themes/blob/master/kitty.conf"
     },
     {
         "file": "themes/Medallion.conf",
         "is_dark": true,
         "name": "Medallion",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "blurb": "A soothing, dark color palette. Crafted to be easy on the eyes with a focus on code readability.",
@@ -1727,14 +1727,14 @@
         "is_dark": true,
         "license": "GPL-3",
         "name": "Mishran",
-        "num_settings": 20,
+        "num_settings": 24,
         "upstream": "https://github.com/kovidgoyal/kitty-themes"
     },
     {
         "file": "themes/Misterioso.conf",
         "is_dark": true,
         "name": "Misterioso",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "Protesilaos Stavrou",
@@ -1774,13 +1774,13 @@
         "file": "themes/Molokai.conf",
         "is_dark": true,
         "name": "Molokai",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/MonaLisa.conf",
         "is_dark": true,
         "name": "Mona Lisa",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "blurb": "A port of the Monoindustrial theme from TextMate",
@@ -1800,55 +1800,55 @@
         "file": "themes/Monokai_Classic.conf",
         "is_dark": true,
         "name": "Monokai Classic",
-        "num_settings": 22
+        "num_settings": 26
     },
     {
         "file": "themes/Monokai_Pro.conf",
         "is_dark": true,
         "name": "Monokai Pro",
-        "num_settings": 22
+        "num_settings": 26
     },
     {
         "file": "themes/Monokai_Pro_(Filter_Machine).conf",
         "is_dark": true,
         "name": "Monokai Pro (Filter Machine)",
-        "num_settings": 22
+        "num_settings": 26
     },
     {
         "file": "themes/Monokai_Pro_(Filter_Octagon).conf",
         "is_dark": true,
         "name": "Monokai Pro (Filter Octagon)",
-        "num_settings": 22
+        "num_settings": 26
     },
     {
         "file": "themes/Monokai_Pro_(Filter_Ristretto).conf",
         "is_dark": true,
         "name": "Monokai Pro (Filter Ristretto)",
-        "num_settings": 22
+        "num_settings": 26
     },
     {
         "file": "themes/Monokai_Pro_(Filter_Spectrum).conf",
         "is_dark": true,
         "name": "Monokai Pro (Filter Spectrum)",
-        "num_settings": 22
+        "num_settings": 26
     },
     {
         "file": "themes/Monokai_Soda.conf",
         "is_dark": true,
         "name": "Monokai Soda",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/N0tch2k.conf",
         "is_dark": true,
         "name": "N0tch2k",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Neopolitan.conf",
         "is_dark": true,
         "name": "Neopolitan",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "Everett Howard (neveretth)",
@@ -1863,19 +1863,19 @@
         "file": "themes/Neutron.conf",
         "is_dark": true,
         "name": "Neutron",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/NightLion_v1.conf",
         "is_dark": true,
         "name": "Night Lion V1",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/NightLion_v2.conf",
         "is_dark": true,
         "name": "Night Lion V2",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "Luke Glazebrook <lukeglazebrook@hey.com>",
@@ -1883,7 +1883,7 @@
         "is_dark": true,
         "license": "MIT",
         "name": "Night Owl",
-        "num_settings": 22,
+        "num_settings": 26,
         "upstream": "https://github.com/Glazy/night-owl-kitty-theme/blob/main/night-owl.conf"
     },
     {
@@ -1891,7 +1891,7 @@
         "is_dark": true,
         "license": "MIT",
         "name": "Nightfly",
-        "num_settings": 21,
+        "num_settings": 25,
         "upstream": "https://github.com/bluz71/vim-nightfly-guicolors/blob/master/terminal_themes/kitty-theme.conf"
     },
     {
@@ -1926,7 +1926,7 @@
         "file": "themes/Nova.conf",
         "is_dark": true,
         "name": "Nova",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Novel.conf",
@@ -1937,7 +1937,7 @@
         "file": "themes/Obsidian.conf",
         "is_dark": true,
         "name": "Obsidian",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Ocean.conf",
@@ -1948,13 +1948,13 @@
         "file": "themes/OceanicMaterial.conf",
         "is_dark": true,
         "name": "Oceanic Material",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Ollie.conf",
         "is_dark": true,
         "name": "Ollie",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/OneDark.conf",
@@ -1969,7 +1969,7 @@
         "is_dark": true,
         "license": "MIT",
         "name": "One Half Dark",
-        "num_settings": 21,
+        "num_settings": 25,
         "upstream": "https://raw.githubusercontent.com/sonph/onehalf/master/kitty/onehalf-dark.conf"
     },
     {
@@ -1998,7 +1998,7 @@
         "is_dark": true,
         "license": "MIT",
         "name": "PaperColor Dark",
-        "num_settings": 20
+        "num_settings": 24
     },
     {
         "author": "Nikyle Nguyen",
@@ -2012,19 +2012,19 @@
         "file": "themes/Parasio_Dark.conf",
         "is_dark": true,
         "name": "Parasio Dark",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/PaulMillr.conf",
         "is_dark": true,
         "name": "Paul Millr",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/PencilDark.conf",
         "is_dark": true,
         "name": "Pencil Dark",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/PencilLight.conf",
@@ -2050,13 +2050,13 @@
         "file": "themes/Pnevma.conf",
         "is_dark": true,
         "name": "Pnevma",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Pro.conf",
         "is_dark": true,
         "name": "Pro",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Red_Alert.conf",
@@ -2072,25 +2072,25 @@
         "file": "themes/Relaxed_Afterglow.conf",
         "is_dark": true,
         "name": "Relaxed Afterglow",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Renault_Style.conf",
         "is_dark": true,
         "name": "Renault Style",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Renault_Style_Light.conf",
         "is_dark": true,
         "name": "Renault Style Light",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Rippedcasts.conf",
         "is_dark": true,
         "name": "Rippedcasts",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "mvllow",
@@ -2125,7 +2125,7 @@
         "file": "themes/Royal.conf",
         "is_dark": true,
         "name": "Royal",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "PandaCatPlayz",
@@ -2134,20 +2134,20 @@
         "is_dark": true,
         "license": "MIT",
         "name": "Sakura Night",
-        "num_settings": 21,
+        "num_settings": 25,
         "upstream": "https://pandacatplayz.github.io/kitty-themes/Sakura_Night.conf"
     },
     {
         "file": "themes/SeaShells.conf",
         "is_dark": true,
         "name": "Sea Shells",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Seafoam_Pastel.conf",
         "is_dark": true,
         "name": "Seafoam Pastel",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "Jan Warchol",
@@ -2191,43 +2191,43 @@
         "file": "themes/Seti.conf",
         "is_dark": true,
         "name": "Seti",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Shaman.conf",
         "is_dark": true,
         "name": "Shaman",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Sierra.conf",
         "is_dark": true,
         "name": "Sierra",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Slate.conf",
         "is_dark": true,
         "name": "Slate",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Smyck.conf",
         "is_dark": true,
         "name": "Smyck",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/snazzy.conf",
         "is_dark": true,
         "name": "Snazzy",
-        "num_settings": 23
+        "num_settings": 27
     },
     {
         "file": "themes/SnowDark.conf",
         "is_dark": true,
         "name": "Snow Dark",
-        "num_settings": 22
+        "num_settings": 26
     },
     {
         "file": "themes/SnowLight.conf",
@@ -2238,13 +2238,13 @@
         "file": "themes/SoftServer.conf",
         "is_dark": true,
         "name": "Soft Server",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Solarized_Darcula.conf",
         "is_dark": true,
         "name": "Solarized Darcula",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "Ethan Schoonover",
@@ -2253,19 +2253,19 @@
         "is_dark": true,
         "license": "MIT",
         "name": "Solarized Dark",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Solarized_Dark_-_Patched.conf",
         "is_dark": true,
         "name": "Solarized Dark - Patched",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Solarized_Dark_Higher_Contrast.conf",
         "is_dark": true,
         "name": "Solarized Dark Higher Contrast",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "Ethan Schoonover",
@@ -2279,7 +2279,7 @@
         "file": "themes/Solarized8_Dark.conf",
         "is_dark": true,
         "name": "Solarized8 Dark",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "Dustin Miao",
@@ -2295,49 +2295,49 @@
         "file": "themes/Source_Code_X.conf",
         "is_dark": true,
         "name": "Source Code X",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Sourcerer.conf",
         "is_dark": true,
         "name": "Sourcerer",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/SpaceGray.conf",
         "is_dark": true,
         "name": "Space Gray",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/SpaceGray_Eighties.conf",
         "is_dark": true,
         "name": "Space Gray Eighties",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/SpaceGray_Eighties_Dull.conf",
         "is_dark": true,
         "name": "Space Gray Eighties Dull",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Spacedust.conf",
         "is_dark": true,
         "name": "Spacedust",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Spacemacs.conf",
         "is_dark": true,
         "name": "Spacemacs",
-        "num_settings": 20
+        "num_settings": 24
     },
     {
         "file": "themes/Spiderman.conf",
         "is_dark": true,
         "name": "Spiderman",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Spring.conf",
@@ -2348,31 +2348,31 @@
         "file": "themes/Square.conf",
         "is_dark": true,
         "name": "Square",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Substrata.conf",
         "is_dark": true,
         "name": "Substrata",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Sundried.conf",
         "is_dark": true,
         "name": "Sundried",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Symfonic.conf",
         "is_dark": true,
         "name": "Symfonic",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Tango_Dark.conf",
         "is_dark": true,
         "name": "Tango Dark",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Tango_Light.conf",
@@ -2383,7 +2383,7 @@
         "file": "themes/Teerb.conf",
         "is_dark": true,
         "name": "Teerb",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "CompEng0001",
@@ -2392,7 +2392,7 @@
         "is_dark": true,
         "license": "MIT",
         "name": "Tender",
-        "num_settings": 18,
+        "num_settings": 22,
         "upstream": "https://github.com/CompEng0001/tender-kitty/raw/main/theme.conf"
     },
     {
@@ -2409,13 +2409,13 @@
         "file": "themes/Thayer_Bright.conf",
         "is_dark": true,
         "name": "Thayer Bright",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/The_Hulk.conf",
         "is_dark": true,
         "name": "The Hulk",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "Folke Lemaitre",
@@ -2461,37 +2461,37 @@
         "file": "themes/Tomorrow_Night.conf",
         "is_dark": true,
         "name": "Tomorrow Night",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Tomorrow_Night_Blue.conf",
         "is_dark": true,
         "name": "Tomorrow Night Blue",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Tomorrow_Night_Bright.conf",
         "is_dark": true,
         "name": "Tomorrow Night Bright",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Tomorrow_Night_Eighties.conf",
         "is_dark": true,
         "name": "Tomorrow Night Eighties",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/ToyChest.conf",
         "is_dark": true,
         "name": "Toy Chest",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Treehouse.conf",
         "is_dark": true,
         "name": "Treehouse",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "Anoduck",
@@ -2505,19 +2505,19 @@
         "file": "themes/Twilight.conf",
         "is_dark": true,
         "name": "Twilight",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Ubuntu.conf",
         "is_dark": true,
         "name": "Ubuntu",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Urple.conf",
         "is_dark": true,
         "name": "Urple",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "ported from Microsoft VSCode by huabeiyou",
@@ -2532,13 +2532,13 @@
         "file": "themes/Vaughn.conf",
         "is_dark": true,
         "name": "Vaughn",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/VibrantInk.conf",
         "is_dark": true,
         "name": "Vibrant Ink",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "CarleScript",
@@ -2553,19 +2553,19 @@
         "file": "themes/WarmNeon.conf",
         "is_dark": true,
         "name": "Warm Neon",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/Wez.conf",
         "is_dark": true,
         "name": "Wez",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/WildCherry.conf",
         "is_dark": true,
         "name": "Wild Cherry",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "erin",
@@ -2591,7 +2591,7 @@
         "file": "themes/Wombat.conf",
         "is_dark": true,
         "name": "Wombat",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "ed9w2in6",
@@ -2607,13 +2607,13 @@
         "file": "themes/Wryan.conf",
         "is_dark": true,
         "name": "Wryan",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "file": "themes/xcodedark.conf",
         "is_dark": true,
         "name": "Xcodedark",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "yorumicolors",
@@ -2667,7 +2667,7 @@
         "file": "themes/Zenburn.conf",
         "is_dark": true,
         "name": "Zenburn",
-        "num_settings": 21
+        "num_settings": 25
     },
     {
         "author": "dhay3",
@@ -2826,7 +2826,7 @@
         "is_dark": true,
         "license": "MIT",
         "name": "spaceduck",
-        "num_settings": 21,
+        "num_settings": 25,
         "upstream": "https://github.com/foofrog/kitty-themes/blob/master/themes/spaceduck.conf"
     },
     {
@@ -2836,7 +2836,7 @@
         "is_dark": true,
         "license": "MIT",
         "name": "srcery",
-        "num_settings": 22,
+        "num_settings": 26,
         "upstream": "https://github.com/srcery-colors/srcery-terminal/blob/master/kitty/srcery_kitty.conf"
     },
     {
@@ -2846,7 +2846,7 @@
         "is_dark": true,
         "license": "MIT/X11",
         "name": "vague kitty",
-        "num_settings": 22,
+        "num_settings": 26,
         "upstream": "A URL pointing to the location of this file upstream for auto-updates"
     },
     {
