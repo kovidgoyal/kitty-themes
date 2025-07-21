@@ -127,7 +127,7 @@ def update(theme) -> None:
 
     active_tab_foreground = "#eeeeee"
     if get_lightness(active_tab_background) > 0.7:
-        active_tab_foreground = "#666666"
+        active_tab_foreground = "#444444"
 
     inactive_tab_foreground = foreground
     inactive_tab_background = make_darker(background)
