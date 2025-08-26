@@ -1992,6 +1992,16 @@
         "upstream": "https://github.com/VictorPLopes/OneDark-Pro-Kitty-Terminal/blob/main/kitty-themes/OneDark-Pro.conf"
     },
     {
+        "author": "Charles Kellogg",
+        "blurb": "Based on the Osaka Jade theme for Omarchy (https://github.com/Justikun/omarchy-osaka-jade-theme)",
+        "file": "themes/osaka-jade.conf",
+        "is_dark": true,
+        "license": "GNU GENERAL PUBLIC LICENSE",
+        "name": "Osaka Jade",
+        "num_settings": 36,
+        "upstream": "https://github.com/CharlesKellogg/kitty-themes/blob/master/themes/osaka-jade.conf"
+    },
+    {
         "author": "Nikyle Nguyen",
         "blurb": "Dark color scheme inspired by Google's Material Design",
         "file": "themes/PaperColor_dark.conf",
