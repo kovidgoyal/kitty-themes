@@ -1425,6 +1425,15 @@
         "num_settings": 33
     },
     {
+        "author": "Miro Paintola",
+        "file": "themes/hardhacker.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "HardHacker",
+        "num_settings": 26,
+        "upstream": "https://github.com/miropls/hardhacker-kitty"
+    },
+    {
         "file": "themes/Hardcore.conf",
         "is_dark": true,
         "name": "Hardcore",
