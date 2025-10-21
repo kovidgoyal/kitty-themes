@@ -1812,36 +1812,6 @@
         "num_settings": 26
     },
     {
-        "file": "themes/Monokai_Pro.conf",
-        "is_dark": true,
-        "name": "Monokai Pro",
-        "num_settings": 26
-    },
-    {
-        "file": "themes/Monokai_Pro_(Filter_Machine).conf",
-        "is_dark": true,
-        "name": "Monokai Pro (Filter Machine)",
-        "num_settings": 26
-    },
-    {
-        "file": "themes/Monokai_Pro_(Filter_Octagon).conf",
-        "is_dark": true,
-        "name": "Monokai Pro (Filter Octagon)",
-        "num_settings": 26
-    },
-    {
-        "file": "themes/Monokai_Pro_(Filter_Ristretto).conf",
-        "is_dark": true,
-        "name": "Monokai Pro (Filter Ristretto)",
-        "num_settings": 26
-    },
-    {
-        "file": "themes/Monokai_Pro_(Filter_Spectrum).conf",
-        "is_dark": true,
-        "name": "Monokai Pro (Filter Spectrum)",
-        "num_settings": 26
-    },
-    {
         "file": "themes/Monokai_Soda.conf",
         "is_dark": true,
         "name": "Monokai Soda",
