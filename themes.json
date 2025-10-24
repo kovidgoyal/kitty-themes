@@ -1975,7 +1975,7 @@
         "blurb": "Based on the Osaka Jade theme for Omarchy (https://github.com/Justikun/omarchy-osaka-jade-theme)",
         "file": "themes/osaka-jade.conf",
         "is_dark": true,
-        "license": "GNU GENERAL PUBLIC LICENSE",
+        "license": "MIT",
         "name": "Osaka Jade",
         "num_settings": 36,
         "upstream": "https://github.com/CharlesKellogg/kitty-themes/blob/master/themes/osaka-jade.conf"
