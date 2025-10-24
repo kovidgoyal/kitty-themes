@@ -642,7 +642,7 @@
         "blurb": "Hack The Box inspired colorscheme.",
         "file": "themes/Box.conf",
         "is_dark": true,
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Box",
         "num_settings": 41
     },
@@ -763,7 +763,7 @@
         "author": "nullxception",
         "file": "themes/cherry.conf",
         "is_dark": true,
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Cherry",
         "num_settings": 28,
         "upstream": "https://github.com/nullxception/cherry-kde/raw/main/kitty/cherry.conf"
@@ -772,7 +772,7 @@
         "author": "nullxception",
         "file": "themes/cherry-midnight.conf",
         "is_dark": true,
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Cherry Midnight",
         "num_settings": 28,
         "upstream": "https://github.com/nullxception/cherry-kde/raw/main/kitty/cherry-midnight.conf"
@@ -875,7 +875,7 @@
         "blurb": "Dark trans-pride colour inspired theme",
         "file": "themes/dark_pride.conf",
         "is_dark": true,
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Dark Pride",
         "num_settings": 25
     },
@@ -908,7 +908,7 @@
         "blurb": "This theme uses all default settings from kitty.  Use it to easily restore defaults.",
         "file": "themes/default.conf",
         "is_dark": true,
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Default"
     },
     {
@@ -1280,7 +1280,7 @@
         "blurb": "A theme based on the colors of the classic Gnome Terminal",
         "file": "themes/Gnome-ish_gray-on-black.conf",
         "is_dark": true,
-        "license": "GPLv3+",
+        "license": "GPL-3.0-or-later",
         "name": "Gnome-ish gray-on-black",
         "num_settings": 41
     },
@@ -1305,7 +1305,7 @@
         "author": "Pavel Pertsev",
         "file": "themes/gruvbox-dark.conf",
         "is_dark": true,
-        "license": "MIT/X11",
+        "license": "MIT",
         "name": "Gruvbox Dark",
         "num_settings": 27,
         "upstream": "https://raw.githubusercontent.com/gruvbox-community/gruvbox-contrib/master/kitty/gruvbox-dark.conf"
@@ -1314,7 +1314,7 @@
         "author": "Pavel Pertsev",
         "file": "themes/gruvbox-dark-hard.conf",
         "is_dark": true,
-        "license": "MIT/X11",
+        "license": "MIT",
         "name": "Gruvbox Dark Hard",
         "num_settings": 27,
         "upstream": "https://raw.githubusercontent.com/gruvbox-community/gruvbox-contrib/master/kitty/gruvbox-dark-hard.conf"
@@ -1323,7 +1323,7 @@
         "author": "Pavel Pertsev",
         "file": "themes/gruvbox-dark-soft.conf",
         "is_dark": true,
-        "license": "MIT/X11",
+        "license": "MIT",
         "name": "Gruvbox Dark Soft",
         "num_settings": 27,
         "upstream": "https://raw.githubusercontent.com/gruvbox-community/gruvbox-contrib/master/kitty/gruvbox-dark-soft.conf"
@@ -1331,7 +1331,7 @@
     {
         "author": "Pavel Pertsev",
         "file": "themes/gruvbox-light.conf",
-        "license": "MIT/X11",
+        "license": "MIT",
         "name": "Gruvbox Light",
         "num_settings": 23,
         "upstream": "https://raw.githubusercontent.com/gruvbox-community/gruvbox-contrib/master/kitty/gruvbox-light.conf"
@@ -1339,7 +1339,7 @@
     {
         "author": "Pavel Pertsev",
         "file": "themes/gruvbox-light-hard.conf",
-        "license": "MIT/X11",
+        "license": "MIT",
         "name": "Gruvbox Light Hard",
         "num_settings": 23,
         "upstream": "https://raw.githubusercontent.com/gruvbox-community/gruvbox-contrib/master/kitty/gruvbox-light-hard.conf"
@@ -1347,7 +1347,7 @@
     {
         "author": "Pavel Pertsev",
         "file": "themes/gruvbox-light-soft.conf",
-        "license": "MIT/X11",
+        "license": "MIT",
         "name": "Gruvbox Light Soft",
         "num_settings": 23,
         "upstream": "https://raw.githubusercontent.com/gruvbox-community/gruvbox-contrib/master/kitty/gruvbox-light-soft.conf"
@@ -1412,7 +1412,7 @@
     {
         "author": "Jacob Chapman",
         "file": "themes/h_pux.conf",
-        "license": "CC0 1.0",
+        "license": "CC0-1.0",
         "name": "H-PUX",
         "num_settings": 21,
         "upstream": "https://github.com/chapmanjacobd/computer/blob/main/.config/kitty/theme.conf"
@@ -1557,7 +1557,7 @@
         "blurb": "Kaolin meets polar lights.",
         "file": "themes/Kaolin_Aurora.conf",
         "is_dark": true,
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Kaolin Aurora",
         "num_settings": 28
     },
@@ -1565,7 +1565,7 @@
         "author": "Ogden Webb",
         "blurb": "Light Kaolin theme with soft colors",
         "file": "themes/Kaolin_Breeze.conf",
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Kaolin Breeze",
         "num_settings": 28
     },
@@ -1574,7 +1574,7 @@
         "blurb": "Dark jade theme inspired by Sierra.vim.",
         "file": "themes/Kaolin_Dark.conf",
         "is_dark": true,
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Kaolin Dark",
         "num_settings": 28
     },
@@ -1583,7 +1583,7 @@
         "blurb": "Theme based on one of the Sebastian Andaur arts",
         "file": "themes/Kaolin_Galaxy.conf",
         "is_dark": true,
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Kaolin Galaxy",
         "num_settings": 28
     },
@@ -1591,7 +1591,7 @@
         "author": "Ogden Webb",
         "blurb": "Light variant of the original Kaolin Dark theme.",
         "file": "themes/Kaolin_Light.conf",
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Kaolin Light",
         "num_settings": 28
     },
@@ -1600,7 +1600,7 @@
         "blurb": "Dark blue Kaolin theme",
         "file": "themes/Kaolin_Ocean.conf",
         "is_dark": true,
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Kaolin Ocean",
         "num_settings": 28
     },
@@ -1609,7 +1609,7 @@
         "blurb": "Dark theme where terrestrial sphere imbues the spirit",
         "file": "themes/Kaolin_Temple.conf",
         "is_dark": true,
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Kaolin Temple",
         "num_settings": 28
     },
@@ -1645,7 +1645,7 @@
         "blurb": "a green accent, forest colored dark theme, adapted from leaf kde",
         "file": "themes/leaf_dark.conf",
         "is_dark": true,
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Leaf Dark",
         "num_settings": 23
     },
@@ -1653,7 +1653,7 @@
         "author": "qewer33, brought to kitty by KodiakWeb",
         "blurb": "A green accent, forest colored light theme, adapted from leaf kde",
         "file": "themes/leaf_light.conf",
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Leaf Light",
         "num_settings": 22
     },
@@ -1734,7 +1734,7 @@
         "blurb": "A mixtures of different themes that work well with powerlevel10k",
         "file": "themes/mishran.conf",
         "is_dark": true,
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Mishran",
         "num_settings": 24,
         "upstream": "https://github.com/kovidgoyal/kitty-themes"
@@ -1749,7 +1749,7 @@
         "author": "Protesilaos Stavrou",
         "blurb": "Highly accessible themes made for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA)",
         "file": "themes/Modus_Operandi.conf",
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Modus Operandi",
         "num_settings": 28
     },
@@ -1757,7 +1757,7 @@
         "author": "Protesilaos Stavrou",
         "blurb": "Highly accessible themes made for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA)",
         "file": "themes/Modus_Operandi_Tinted.conf",
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Modus Operandi Tinted",
         "num_settings": 28
     },
@@ -1766,7 +1766,7 @@
         "blurb": "Highly accessible themes made for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA)",
         "file": "themes/Modus_Vivendi.conf",
         "is_dark": true,
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Modus Vivendi",
         "num_settings": 28
     },
@@ -1775,7 +1775,7 @@
         "blurb": "Highly accessible themes made for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA)",
         "file": "themes/Modus_Vivendi_Tinted.conf",
         "is_dark": true,
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Modus Vivendi Tinted",
         "num_settings": 28
     },
@@ -2025,7 +2025,7 @@
         "blurb": "Purple and yellow color scheme based on my NixOS configuration",
         "file": "themes/phanes.conf",
         "is_dark": true,
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Phanes",
         "num_settings": 41,
         "upstream": "https://github.com/wolgamot/phanes_colors/blob/main/phanes.conf"
@@ -2597,7 +2597,7 @@
         "blurb": "Relaxing warm theme inspired by wood and plants colours.",
         "file": "themes/Wood.conf",
         "is_dark": true,
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Wood",
         "num_settings": 42,
         "upstream": "https://github.com/ed9w2in6/wood-theme/blob/master/kitty/Wood.conf"
@@ -2619,7 +2619,7 @@
         "blurb": "A deep abyssal flavor of the yorumi theme. Find more @ github/yorumicolors",
         "file": "themes/yorumi-abyss.conf",
         "is_dark": true,
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Yorumi Abyss",
         "num_settings": 41,
         "upstream": "https://raw.githubusercontent.com/yorumicolors/kitty/refs/heads/main/yorumi-abyss.conf"
@@ -2629,7 +2629,7 @@
         "blurb": "Another flavor of the yorumi theme. Find more @ github/yorumicolors",
         "file": "themes/yorumi-kraken.conf",
         "is_dark": true,
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Yorumi Kraken",
         "num_settings": 41,
         "upstream": "https://raw.githubusercontent.com/yorumicolors/kitty/refs/heads/main/yorumi-kraken.conf"
@@ -2638,7 +2638,7 @@
         "author": "yorumicolors",
         "blurb": "A light flavor of the yorumi theme. Find more @ github/yorumicolors",
         "file": "themes/yorumi-mist.conf",
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Yorumi Mist",
         "num_settings": 41,
         "upstream": "https://raw.githubusercontent.com/yorumicolors/kitty/refs/heads/main/yorumi-mist.conf"
@@ -2648,7 +2648,7 @@
         "blurb": "A more washed off dark flavor of yorumi. Find more @ github/yorumicolors",
         "file": "themes/yorumi-shade.conf",
         "is_dark": true,
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "Yorumi Shade",
         "num_settings": 41,
         "upstream": "https://raw.githubusercontent.com/yorumicolors/kitty/refs/heads/main/yorumi-shade.conf"
@@ -2672,7 +2672,7 @@
         "author": "dhay3",
         "file": "themes/bl1nk.conf",
         "is_dark": true,
-        "license": "CC0 1.0",
+        "license": "CC0-1.0",
         "name": "bl1nk",
         "num_settings": 27,
         "upstream": "https://github.com/dhay3/kitty-bl1nk/blob/main/bl1nk.conf"
@@ -2711,7 +2711,7 @@
         "blurb": "A grayscale color theme",
         "file": "themes/graphite.conf",
         "is_dark": true,
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "graphite",
         "num_settings": 41,
         "upstream": "https://github.com/kovidgoyal/kitty-themes/blob/master/themes/graphite.conf"
@@ -2786,7 +2786,7 @@
         "blurb": "calm pink theme for dark mode",
         "file": "themes/pink_lavender.conf",
         "is_dark": true,
-        "license": "GPLv3",
+        "license": "GPL-3.0",
         "name": "pink lavender",
         "num_settings": 41,
         "upstream": "https://raw.githubusercontent.com/playerofceleste/pink-lavender/refs/heads/main/implementations/kitty/pink-lavender.conf"
