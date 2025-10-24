@@ -804,7 +804,7 @@
         "blurb": "ANSI term colors picked with OKHSL maximizing difference in color subject to constant perceptual luminosity so that all colors are readable on dark screens even against transparency yet gentle on the eyes in dark environments.  for colors (starting with red at 30 degrees) luminosity is .4, .6 (bright) .5 for white(gray), .7 bright white (light gray) 0 for black and .3 for bright black For transparency I find these work ok:  background_opacity 0.7 dynamic_background_opacity yes",
         "file": "themes/Constant_Perceptual_Luminosity_dark.conf",
         "is_dark": true,
-        "license": "MIT, I prefer credit (and money) to none, but I won't sue",
+        "license": "MIT",
         "name": "Constant Perceptual Luminosity (dark)",
         "num_settings": 26,
         "upstream": "none (yet)"
@@ -814,7 +814,7 @@
         "blurb": "Just a simple Copland OS theme, based off the anime \"Serial Experiments Lain\"",
         "file": "themes/Copland_OS.conf",
         "is_dark": true,
-        "license": "MIT license",
+        "license": "MIT",
         "name": "Copland OS",
         "num_settings": 25
     },
@@ -1412,7 +1412,7 @@
     {
         "author": "Jacob Chapman",
         "file": "themes/h_pux.conf",
-        "license": "CC0 Public Domain",
+        "license": "CC0 1.0",
         "name": "H-PUX",
         "num_settings": 21,
         "upstream": "https://github.com/chapmanjacobd/computer/blob/main/.config/kitty/theme.conf"
@@ -1557,7 +1557,7 @@
         "blurb": "Kaolin meets polar lights.",
         "file": "themes/Kaolin_Aurora.conf",
         "is_dark": true,
-        "license": "GNU GPLv3",
+        "license": "GPLv3",
         "name": "Kaolin Aurora",
         "num_settings": 28
     },
@@ -1565,7 +1565,7 @@
         "author": "Ogden Webb",
         "blurb": "Light Kaolin theme with soft colors",
         "file": "themes/Kaolin_Breeze.conf",
-        "license": "GNU GPLv3",
+        "license": "GPLv3",
         "name": "Kaolin Breeze",
         "num_settings": 28
     },
@@ -1574,7 +1574,7 @@
         "blurb": "Dark jade theme inspired by Sierra.vim.",
         "file": "themes/Kaolin_Dark.conf",
         "is_dark": true,
-        "license": "GNU GPLv3",
+        "license": "GPLv3",
         "name": "Kaolin Dark",
         "num_settings": 28
     },
@@ -1583,7 +1583,7 @@
         "blurb": "Theme based on one of the Sebastian Andaur arts",
         "file": "themes/Kaolin_Galaxy.conf",
         "is_dark": true,
-        "license": "GNU GPLv3",
+        "license": "GPLv3",
         "name": "Kaolin Galaxy",
         "num_settings": 28
     },
@@ -1591,7 +1591,7 @@
         "author": "Ogden Webb",
         "blurb": "Light variant of the original Kaolin Dark theme.",
         "file": "themes/Kaolin_Light.conf",
-        "license": "GNU GPLv3",
+        "license": "GPLv3",
         "name": "Kaolin Light",
         "num_settings": 28
     },
@@ -1600,7 +1600,7 @@
         "blurb": "Dark blue Kaolin theme",
         "file": "themes/Kaolin_Ocean.conf",
         "is_dark": true,
-        "license": "GNU GPLv3",
+        "license": "GPLv3",
         "name": "Kaolin Ocean",
         "num_settings": 28
     },
@@ -1609,7 +1609,7 @@
         "blurb": "Dark theme where terrestrial sphere imbues the spirit",
         "file": "themes/Kaolin_Temple.conf",
         "is_dark": true,
-        "license": "GNU GPLv3",
+        "license": "GPLv3",
         "name": "Kaolin Temple",
         "num_settings": 28
     },
@@ -1734,7 +1734,7 @@
         "blurb": "A mixtures of different themes that work well with powerlevel10k",
         "file": "themes/mishran.conf",
         "is_dark": true,
-        "license": "GPL-3",
+        "license": "GPLv3",
         "name": "Mishran",
         "num_settings": 24,
         "upstream": "https://github.com/kovidgoyal/kitty-themes"
@@ -1749,7 +1749,7 @@
         "author": "Protesilaos Stavrou",
         "blurb": "Highly accessible themes made for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA)",
         "file": "themes/Modus_Operandi.conf",
-        "license": "GNU GPLv3",
+        "license": "GPLv3",
         "name": "Modus Operandi",
         "num_settings": 28
     },
@@ -1757,7 +1757,7 @@
         "author": "Protesilaos Stavrou",
         "blurb": "Highly accessible themes made for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA)",
         "file": "themes/Modus_Operandi_Tinted.conf",
-        "license": "GNU GPLv3",
+        "license": "GPLv3",
         "name": "Modus Operandi Tinted",
         "num_settings": 28
     },
@@ -1766,7 +1766,7 @@
         "blurb": "Highly accessible themes made for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA)",
         "file": "themes/Modus_Vivendi.conf",
         "is_dark": true,
-        "license": "GNU GPLv3",
+        "license": "GPLv3",
         "name": "Modus Vivendi",
         "num_settings": 28
     },
@@ -1775,7 +1775,7 @@
         "blurb": "Highly accessible themes made for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA)",
         "file": "themes/Modus_Vivendi_Tinted.conf",
         "is_dark": true,
-        "license": "GNU GPLv3",
+        "license": "GPLv3",
         "name": "Modus Vivendi Tinted",
         "num_settings": 28
     },
@@ -1834,7 +1834,7 @@
         "blurb": "A very vibrant and very neon colorscheme.",
         "file": "themes/Neowave.conf",
         "is_dark": true,
-        "license": "MIT license - https://www.mit.edu/~amini/LICENSE.md",
+        "license": "MIT",
         "name": "Neowave",
         "num_settings": 39
     },
@@ -2597,7 +2597,7 @@
         "blurb": "Relaxing warm theme inspired by wood and plants colours.",
         "file": "themes/Wood.conf",
         "is_dark": true,
-        "license": "GPL-3",
+        "license": "GPLv3",
         "name": "Wood",
         "num_settings": 42,
         "upstream": "https://github.com/ed9w2in6/wood-theme/blob/master/kitty/Wood.conf"
@@ -2619,7 +2619,7 @@
         "blurb": "A deep abyssal flavor of the yorumi theme. Find more @ github/yorumicolors",
         "file": "themes/yorumi-abyss.conf",
         "is_dark": true,
-        "license": "GNU General Public License v3.0",
+        "license": "GPLv3",
         "name": "Yorumi Abyss",
         "num_settings": 41,
         "upstream": "https://raw.githubusercontent.com/yorumicolors/kitty/refs/heads/main/yorumi-abyss.conf"
@@ -2629,7 +2629,7 @@
         "blurb": "Another flavor of the yorumi theme. Find more @ github/yorumicolors",
         "file": "themes/yorumi-kraken.conf",
         "is_dark": true,
-        "license": "GNU General Public License v3.0",
+        "license": "GPLv3",
         "name": "Yorumi Kraken",
         "num_settings": 41,
         "upstream": "https://raw.githubusercontent.com/yorumicolors/kitty/refs/heads/main/yorumi-kraken.conf"
@@ -2638,7 +2638,7 @@
         "author": "yorumicolors",
         "blurb": "A light flavor of the yorumi theme. Find more @ github/yorumicolors",
         "file": "themes/yorumi-mist.conf",
-        "license": "GNU General Public License v3.0",
+        "license": "GPLv3",
         "name": "Yorumi Mist",
         "num_settings": 41,
         "upstream": "https://raw.githubusercontent.com/yorumicolors/kitty/refs/heads/main/yorumi-mist.conf"
@@ -2648,7 +2648,7 @@
         "blurb": "A more washed off dark flavor of yorumi. Find more @ github/yorumicolors",
         "file": "themes/yorumi-shade.conf",
         "is_dark": true,
-        "license": "GNU General Public License v3.0",
+        "license": "GPLv3",
         "name": "Yorumi Shade",
         "num_settings": 41,
         "upstream": "https://raw.githubusercontent.com/yorumicolors/kitty/refs/heads/main/yorumi-shade.conf"
@@ -2711,7 +2711,7 @@
         "blurb": "A grayscale color theme",
         "file": "themes/graphite.conf",
         "is_dark": true,
-        "license": "GNU General Public License v3.0",
+        "license": "GPLv3",
         "name": "graphite",
         "num_settings": 41,
         "upstream": "https://github.com/kovidgoyal/kitty-themes/blob/master/themes/graphite.conf"
