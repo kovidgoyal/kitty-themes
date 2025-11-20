@@ -1204,6 +1204,16 @@
         "num_settings": 25
     },
     {
+        "author": "Based on Ghostty's StyleDark theme",
+        "blurb": "The default color palette from Ghostty terminal emulator (StyleDark theme)",
+        "file": "themes/Ghostty_Default.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Ghostty Default",
+        "num_settings": 29,
+        "upstream": "https://github.com/ghostty-org/ghostty"
+    },
+    {
         "author": "GitHub",
         "file": "themes/GitHub_Dark.conf",
         "is_dark": true,
