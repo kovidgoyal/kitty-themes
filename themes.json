@@ -2052,6 +2052,14 @@
         "num_settings": 25
     },
     {
+        "author": "hedinee",
+        "blurb": "This theme is designed to have vivid colors to capture your attention, yet be easy on the eyes. It is originally based on the color themes VS Dark+, Gruvbox Dark, and One Dark, but has changed a lot since. It is designed for web languages (HTML, CSS, JS, and more).",
+        "file": "themes/PoppingAndLocking.conf",
+        "is_dark": true,
+        "name": "Popping and Locking",
+        "num_settings": 42
+    },
+    {
         "file": "themes/Pro.conf",
         "is_dark": true,
         "name": "Pro",
