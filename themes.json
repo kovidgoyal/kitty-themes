@@ -1740,6 +1740,16 @@
         "num_settings": 27
     },
     {
+        "author": "pivattogui",
+        "blurb": "Modern minimal dark theme with transparency support",
+        "file": "themes/Min_Dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Min Dark",
+        "num_settings": 39,
+        "upstream": "https://raw.githubusercontent.com/pivattogui/min-dark-kitty/main/kitty.conf"
+    },
+    {
         "author": "Anupam Srivastava",
         "blurb": "A mixtures of different themes that work well with powerlevel10k",
         "file": "themes/mishran.conf",
