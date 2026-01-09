@@ -15,7 +15,7 @@ Using the themes
 The easiest way to use these themes is to run the `kitty
 themes kitten <https://sw.kovidgoyal.net/kitty/kittens/themes/>`_::
 
-    kitty +kitten themes
+    kitten themes
 
 Contributing new themes
 --------------------------
