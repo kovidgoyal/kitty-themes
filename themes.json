@@ -2024,6 +2024,15 @@
         "num_settings": 25
     },
     {
+        "author": "chuck (based on Cyberpunk Neon by Theo)",
+        "blurb": "A softer, dulled-down variant of Cyberpunk Neon with muted neon colors and a slightly lighter background while maintaining the dark cyberpunk aesthetic",
+        "file": "themes/Pastel_Cyberpunk.conf",
+        "is_dark": true,
+        "license": "CC-BY-SA-4.0",
+        "name": "Pastel Cyberpunk",
+        "num_settings": 25
+    },
+    {
         "file": "themes/PaulMillr.conf",
         "is_dark": true,
         "name": "Paul Millr",
