@@ -1630,6 +1630,15 @@
         "num_settings": 25
     },
     {
+        "author": "Chuck",
+        "blurb": "A mellow forest village light theme with amber text on meadow green - no red, only gold",
+        "file": "themes/Kokiri.conf",
+        "license": "MIT",
+        "name": "Kokiri",
+        "num_settings": 41,
+        "upstream": "https://github.com/fremontcw/kokiri-theme/blob/main/kitty/Kokiri.conf"
+    },
+    {
         "author": "Kevin M (github.com/kevinm6)",
         "file": "themes/kurayami.conf",
         "is_dark": true,
