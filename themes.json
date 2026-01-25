@@ -1695,6 +1695,14 @@
         "num_settings": 25
     },
     {
+        "author": "Chuck",
+        "blurb": "An ethereal light theme - pale whispers of rose and cream for spectral romantics",
+        "file": "themes/Love_Ghost.conf",
+        "license": "MIT",
+        "name": "Love Ghost",
+        "num_settings": 40
+    },
+    {
         "file": "themes/Man_Page.conf",
         "name": "Man Page",
         "num_settings": 21
