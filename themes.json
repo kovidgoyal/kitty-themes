@@ -2050,6 +2050,14 @@
         "num_settings": 25
     },
     {
+        "author": "Timo Heidutzek (trzyglow)",
+        "blurb": "A 16 color softened pastel theme, initially made as an artistic color palette (fist published on Lospec [https://lospec.com/palette-list/pastel-ega])",
+        "file": "themes/pastel_ega.conf",
+        "is_dark": true,
+        "name": "Pastel EGA",
+        "num_settings": 26
+    },
+    {
         "file": "themes/PaulMillr.conf",
         "is_dark": true,
         "name": "Paul Millr",
