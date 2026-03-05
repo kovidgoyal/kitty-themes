@@ -2420,6 +2420,15 @@
         "num_settings": 25
     },
     {
+        "author": "Dio Lin (Dionysus326)",
+        "blurb": "A Python-optimized variant of the neon-soaked SynthWave '84 theme. Ported from the VS Code theme by Skengrek. Original repository: https://gitlab.com/Skengrek/vscode-synthwave84-python",
+        "file": "themes/SynthWave84_Python.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "SynthWave 84 python",
+        "num_settings": 42
+    },
+    {
         "file": "themes/Tango_Dark.conf",
         "is_dark": true,
         "name": "Tango Dark",
