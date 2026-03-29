@@ -2605,6 +2605,12 @@
         "num_settings": 25
     },
     {
+        "file": "themes/Vesper.conf",
+        "is_dark": true,
+        "name": "Vesper",
+        "num_settings": 42
+    },
+    {
         "file": "themes/VibrantInk.conf",
         "is_dark": true,
         "name": "Vibrant Ink",
