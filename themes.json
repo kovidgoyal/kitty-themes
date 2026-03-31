@@ -1456,6 +1456,13 @@
         "num_settings": 25
     },
     {
+        "author": "hackinister (https://github.com/hackinister)",
+        "file": "themes/HeetchDark.conf",
+        "is_dark": true,
+        "name": "Heetch Dark",
+        "num_settings": 37
+    },
+    {
         "file": "themes/Highway.conf",
         "is_dark": true,
         "name": "Highway",
