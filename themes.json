@@ -2436,6 +2436,15 @@
         "num_settings": 42
     },
     {
+        "author": "Tytanium654",
+        "blurb": "Didn't see a terminal theme I wanted. I decided to do it myself. I hope you like purple. This theme is meant to cater to my tastes and mine alone. But feel free to modify and make it your own! :)",
+        "file": "themes/tmoney.conf",
+        "is_dark": true,
+        "license": "GPL-3.0",
+        "name": "T-Money",
+        "upstream": "https://github.com/Tytanium654/kitty-themes-tmoney/new/master/themes"
+    },
+    {
         "file": "themes/Tango_Dark.conf",
         "is_dark": true,
         "name": "Tango Dark",
