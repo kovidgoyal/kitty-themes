@@ -2155,6 +2155,25 @@
         "num_settings": 25
     },
     {
+        "author": "BrokenSideViewMirror (https://github.com/BrokenSideViewMirror)",
+        "blurb": "Retrowave Dark is a theme that I have mainly based off of the more vivid vintage age of colors. It is vivid and saturated with a defined palette.",
+        "file": "themes/retrowave-dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Retrowave Dark",
+        "num_settings": 42,
+        "upstream": "https://github.com/BrokenSideViewMirror/themes-lair/blob/main/themes/Retrowave/retrowave-dark.conf"
+    },
+    {
+        "author": "BrokenSideViewMirror (https://github.com/BrokenSideViewMirror)",
+        "blurb": "Retrowave Light is a light mode theme that takes inspiration from the vintage colors of the mid-to-late '90s! If you would like the dark mode version, refer to Retrowave Dark.",
+        "file": "themes/retrowave-light.conf",
+        "license": "MIT",
+        "name": "Retrowave Light",
+        "num_settings": 42,
+        "upstream": "https://github.com/BrokenSideViewMirror/themes-lair/blob/main/themes/Retrowave/retrowave-light.conf"
+    },
+    {
         "file": "themes/Rippedcasts.conf",
         "is_dark": true,
         "name": "Rippedcasts",
@@ -2204,6 +2223,26 @@
         "name": "Sakura Night",
         "num_settings": 25,
         "upstream": "https://pandacatplayz.github.io/kitty-themes/Sakura_Night.conf"
+    },
+    {
+        "author": "BrokenSideViewMirror (https://github.com/BrokenSideViewMirror)",
+        "blurb": "Get back to school with this chalkboard theme! With this theme, you can finally live your dreams of being able to write your commands on the chalkboard! Oh, and the chalk now has colors! (Fonts not included.)",
+        "file": "themes/school-boy-colored.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "School Boy Colored Dark",
+        "num_settings": 42,
+        "upstream": "https://github.com/BrokenSideViewMirror/themes-lair/blob/main/themes/School-Boy/school-boy-colored.conf"
+    },
+    {
+        "author": "BrokenSideViewMirror (https://github.com/BrokenSideViewMirror)",
+        "blurb": "Absolutely HATE colored chalk but still want that school board aesthetic? This version of School Boy is for you! Unlike Colored, it is a monotone of green and white with colors staying constant.",
+        "file": "themes/school-boy-mono.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "School Boy Mono Dark",
+        "num_settings": 42,
+        "upstream": "https://github.com/BrokenSideViewMirror/themes-lair/blob/main/themes/School-Boy/school-boy-mono.conf"
     },
     {
         "file": "themes/SeaShells.conf",
