@@ -633,6 +633,16 @@
         "upstream": "https://github.com/uloco/bluloco.nvim/blob/main/terminal-themes/kitty/BlulocoLight.conf"
     },
     {
+        "author": "lhs",
+        "blurb": "A warm, muted dark theme with earthy, cozy vibes",
+        "file": "themes/bogster_dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Bogster (Dark)",
+        "num_settings": 41,
+        "upstream": "https://github.com/vv9k/bogster"
+    },
+    {
         "file": "themes/Borland.conf",
         "name": "Borland",
         "num_settings": 21
