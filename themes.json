@@ -1872,6 +1872,15 @@
         "num_settings": 25
     },
     {
+        "author": "Dennis B",
+        "file": "themes/moonfly.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Moonfly",
+        "num_settings": 28,
+        "upstream": "https://github.com/bluz71/vim-moonfly-colors/blob/master/extras/moonfly-kitty.conf"
+    },
+    {
         "file": "themes/N0tch2k.conf",
         "is_dark": true,
         "name": "N0tch2k",
