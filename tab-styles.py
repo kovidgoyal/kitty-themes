@@ -1,3 +1,4 @@
+#!kitty +launch
 import colorsys
 from typing import Tuple
 import subprocess

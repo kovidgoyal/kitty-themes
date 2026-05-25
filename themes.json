@@ -2314,6 +2314,92 @@
         "upstream": "https://github.com/jan-warchol/selenized/raw/master/terminals/kitty/kitty-selenized-white.conf"
     },
     {
+        "author": "Micheal Andreuzza",
+        "blurb": "Sequoia Monochrome Dark from the Sequoia theme family.",
+        "file": "themes/Sequoia_Monochrome_Dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Sequoia Monochrome Dark",
+        "num_settings": 21,
+        "upstream": "https://raw.githubusercontent.com/Sequoia-Theme/kitty/main/sequoia-monochrome-dark.conf"
+    },
+    {
+        "author": "Micheal Andreuzza",
+        "blurb": "Sequoia Monochrome Light from the Sequoia theme family.",
+        "file": "themes/Sequoia_Monochrome_Light.conf",
+        "license": "MIT",
+        "name": "Sequoia Monochrome Light",
+        "num_settings": 21,
+        "upstream": "https://raw.githubusercontent.com/Sequoia-Theme/kitty/main/sequoia-monochrome-light.conf"
+    },
+    {
+        "author": "Micheal Andreuzza",
+        "blurb": "Sequoia Moonlight Dark from the Sequoia theme family.",
+        "file": "themes/Sequoia_Moonlight_Dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Sequoia Moonlight Dark",
+        "num_settings": 21,
+        "upstream": "https://raw.githubusercontent.com/Sequoia-Theme/kitty/main/sequoia-moonlight-dark.conf"
+    },
+    {
+        "author": "Micheal Andreuzza",
+        "blurb": "Sequoia Moonlight Light from the Sequoia theme family.",
+        "file": "themes/Sequoia_Moonlight_Light.conf",
+        "license": "MIT",
+        "name": "Sequoia Moonlight Light",
+        "num_settings": 21,
+        "upstream": "https://raw.githubusercontent.com/Sequoia-Theme/kitty/main/sequoia-moonlight-light.conf"
+    },
+    {
+        "author": "Micheal Andreuzza",
+        "blurb": "Sequoia Retro Dark from the Sequoia theme family.",
+        "file": "themes/Sequoia_Retro_Dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Sequoia Retro Dark",
+        "num_settings": 21,
+        "upstream": "https://raw.githubusercontent.com/Sequoia-Theme/kitty/main/sequoia-retro-dark.conf"
+    },
+    {
+        "author": "Micheal Andreuzza",
+        "blurb": "Sequoia Retro Light from the Sequoia theme family.",
+        "file": "themes/Sequoia_Retro_Light.conf",
+        "license": "MIT",
+        "name": "Sequoia Retro Light",
+        "num_settings": 21,
+        "upstream": "https://raw.githubusercontent.com/Sequoia-Theme/kitty/main/sequoia-retro-light.conf"
+    },
+    {
+        "author": "Micheal Andreuzza",
+        "blurb": "Serendipity Midnight from the Serendipity theme family.",
+        "file": "themes/Serendipity_Midnight.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Serendipity Midnight",
+        "num_settings": 21,
+        "upstream": "https://raw.githubusercontent.com/Serendipity-Theme/kitty/main/serendipity-midnight.conf"
+    },
+    {
+        "author": "Micheal Andreuzza",
+        "blurb": "Serendipity Morning from the Serendipity theme family.",
+        "file": "themes/Serendipity_Morning.conf",
+        "license": "MIT",
+        "name": "Serendipity Morning",
+        "num_settings": 21,
+        "upstream": "https://raw.githubusercontent.com/Serendipity-Theme/kitty/main/serendipity-morning.conf"
+    },
+    {
+        "author": "Micheal Andreuzza",
+        "blurb": "Serendipity Sunset from the Serendipity theme family.",
+        "file": "themes/Serendipity_Sunset.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Serendipity Sunset",
+        "num_settings": 21,
+        "upstream": "https://raw.githubusercontent.com/Serendipity-Theme/kitty/main/serendipity-sunset.conf"
+    },
+    {
         "file": "themes/Seti.conf",
         "is_dark": true,
         "name": "Seti",
