@@ -2954,6 +2954,16 @@
         "upstream": "https://github.com/Snuggle/kitty-themes"
     },
     {
+        "author": "eureka-cpu \u00b7 https://github.com/eureka-cpu",
+        "blurb": "A warm, dark theme inspired by Kanagawa and Gruvbox.",
+        "file": "themes/ferra.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "ferra",
+        "num_settings": 25,
+        "upstream": "https://github.com/casperstorm/ferra"
+    },
+    {
         "author": "tpaau-17DB",
         "blurb": "A grayscale color theme",
         "file": "themes/graphite.conf",
