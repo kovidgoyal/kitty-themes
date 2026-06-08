@@ -21,6 +21,7 @@ LICENSE_RENAMES = {
     "LGPL-3.0": "LGPL-3.0",
     'CC0 1.0': 'CC0-1.0',
     'CC-BY-SA-4.0': 'CC-BY-SA-4.0',
+    "GPLv2": "GPL-2.0",
     "GPLv3": "GPL-3.0",
     'GPLv3+': 'GPL-3.0-or-later',
     "MIT license - https://www.mit.edu/~amini/LICENSE.md": "MIT",

@@ -1656,6 +1656,16 @@
         "upstream": "https://github.com/fremontcw/kokiri-theme/blob/main/kitty/Kokiri.conf"
     },
     {
+        "author": "Claes",
+        "blurb": "Breeze theme from the KDE Konsole terminal. Useful to match KDE Breeze dark theme.",
+        "file": "themes/Konsole_Breeze_Dark.conf",
+        "is_dark": true,
+        "license": "GPL-2.0",
+        "name": "Konsole Breeze Dark.",
+        "num_settings": 27,
+        "upstream": "https://github.com/KDE/konsole/blob/master/data/color-schemes/Breeze.colorscheme"
+    },
+    {
         "author": "Kevin M (github.com/kevinm6)",
         "file": "themes/kurayami.conf",
         "is_dark": true,
