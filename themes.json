@@ -1704,6 +1704,16 @@
         "num_settings": 22
     },
     {
+        "author": "cungun (https://github.com/cungun)",
+        "blurb": "A dark theme w/ a light-blue foreground.",
+        "file": "themes/Linh.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Linh",
+        "num_settings": 26,
+        "upstream": "https://raw.githubusercontent.com/cungun/kitty-themes/refs/heads/linh/themes/Linh.conf"
+    },
+    {
         "file": "themes/LiquidCarbon.conf",
         "is_dark": true,
         "name": "Liquid Carbon",
