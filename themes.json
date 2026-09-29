@@ -3173,7 +3173,7 @@
         "is_dark": true,
         "license": "MIT",
         "name": "srcery",
-        "num_settings": 26,
+        "num_settings": 28,
         "upstream": "https://github.com/srcery-colors/srcery-terminal/blob/master/kitty/srcery_kitty.conf"
     },
     {
