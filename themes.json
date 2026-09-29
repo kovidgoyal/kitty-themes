@@ -794,6 +794,16 @@
         "num_settings": 25
     },
     {
+        "author": "Sonja Leaf, Clockwork",
+        "blurb": "A dark, Monokai-descended theme on a warm near-black, built on clockwork.com's #FFCC00 gold.",
+        "file": "themes/Clockwork_Gold.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Clockwork Gold",
+        "num_settings": 31,
+        "upstream": "https://raw.githubusercontent.com/ClockworkNet/clockwork-gold/main/kitty/Clockwork_Gold.conf"
+    },
+    {
         "file": "themes/Cobalt_Neon.conf",
         "is_dark": true,
         "name": "Cobalt Neon",
