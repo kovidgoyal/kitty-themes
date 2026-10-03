@@ -2972,6 +2972,32 @@
         "upstream": "https://raw.githubusercontent.com/yorumicolors/kitty/refs/heads/main/yorumi-shade.conf"
     },
     {
+        "author": "Zenky",
+        "blurb": "Yotei, inspired by a purple-red sky at dawn.",
+        "file": "themes/Yotei.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Yotei",
+        "num_settings": 31
+    },
+    {
+        "author": "Zenky",
+        "blurb": "Yotei Dawn, inspired by a purple-red sky at dawn.",
+        "file": "themes/Yotei_Dawn.conf",
+        "license": "MIT",
+        "name": "Yotei Dawn",
+        "num_settings": 31
+    },
+    {
+        "author": "Zenky",
+        "blurb": "Yotei Midnight, inspired by a purple-red sky at dawn.",
+        "file": "themes/Yotei_Midnight.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Yotei Midnight",
+        "num_settings": 31
+    },
+    {
         "author": "Ya-suke",
         "blurb": "A dracula inspired colorscheme for kitty.",
         "file": "themes/YsDark.conf",
