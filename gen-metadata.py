@@ -27,6 +27,7 @@ LICENSE_RENAMES = {
     'GPLv3+': 'GPL-3.0-or-later',
     "MIT license - https://www.mit.edu/~amini/LICENSE.md": "MIT",
     "MIT, I prefer credit (and money) to none, but I won't sue": "MIT",
+    "Apache-2.0": "Apache-2.0",
 }
 
 
