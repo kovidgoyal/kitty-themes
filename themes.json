@@ -1341,6 +1341,23 @@
         "num_settings": 21
     },
     {
+        "author": "Bijan Rahnema",
+        "blurb": "Grok light palette from xai-org/grok-build. ANSI white is a dark gray so punctuation drawn as white stays readable.",
+        "file": "themes/GrokDay.conf",
+        "license": "Apache-2.0",
+        "name": "GrokDay",
+        "num_settings": 27
+    },
+    {
+        "author": "Bijan Rahnema",
+        "blurb": "Grok dark palette from xai-org/grok-build. Tokyo Night accents on a neutral gray base.",
+        "file": "themes/GrokNight.conf",
+        "is_dark": true,
+        "license": "Apache-2.0",
+        "name": "GrokNight",
+        "num_settings": 27
+    },
+    {
         "author": "Pavel Pertsev",
         "file": "themes/gruvbox-dark.conf",
         "is_dark": true,
