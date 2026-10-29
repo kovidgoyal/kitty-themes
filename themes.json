@@ -3024,6 +3024,74 @@
         "num_settings": 29
     },
     {
+        "author": "Zacess",
+        "blurb": "Black on cream for dyslexia, the reader's Black on cream theme. Part of the Zacess Themes family, where every colour is checked against WCAG contrast floors: https://github.com/zacesshq/themes",
+        "file": "themes/Zacess_Cream.conf",
+        "license": "MIT",
+        "name": "Zacess Cream",
+        "num_settings": 29
+    },
+    {
+        "author": "Zacess",
+        "blurb": "Near white on near black, the reader's Light on dark theme. Part of the Zacess Themes family, where every colour is checked against WCAG contrast floors: https://github.com/zacesshq/themes",
+        "file": "themes/Zacess_Dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Zacess Dark",
+        "num_settings": 29
+    },
+    {
+        "author": "Zacess",
+        "blurb": "White on black with deep, fully saturated colours, yellow focus outlines and cyan frames, for low vision. Part of the Zacess Themes family, where every colour is checked against WCAG contrast floors: https://github.com/zacesshq/themes",
+        "file": "themes/Zacess_Deep_Contrast_Dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Zacess Deep Contrast Dark",
+        "num_settings": 29
+    },
+    {
+        "author": "Zacess",
+        "blurb": "Black on white with vivid deep colours, red focus outlines and navy frames, for low vision. Part of the Zacess Themes family, where every colour is checked against WCAG contrast floors: https://github.com/zacesshq/themes",
+        "file": "themes/Zacess_Deep_Contrast_Light.conf",
+        "license": "MIT",
+        "name": "Zacess Deep Contrast Light",
+        "num_settings": 29
+    },
+    {
+        "author": "Zacess",
+        "blurb": "White on black with strong borders and a yellow focus ring, for the highest contrast on a dark screen. Part of the Zacess Themes family, where every colour is checked against WCAG contrast floors: https://github.com/zacesshq/themes",
+        "file": "themes/Zacess_High_Contrast_Dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Zacess High Contrast Dark",
+        "num_settings": 29
+    },
+    {
+        "author": "Zacess",
+        "blurb": "Black on white with strong dark borders and focus outlines, for the highest contrast on a light screen. Part of the Zacess Themes family, where every colour is checked against WCAG contrast floors: https://github.com/zacesshq/themes",
+        "file": "themes/Zacess_High_Contrast_Light.conf",
+        "license": "MIT",
+        "name": "Zacess High Contrast Light",
+        "num_settings": 29
+    },
+    {
+        "author": "Zacess",
+        "blurb": "Ink on white, the reader's Dark on light theme. Part of the Zacess Themes family, where every colour is checked against WCAG contrast floors: https://github.com/zacesshq/themes",
+        "file": "themes/Zacess_Light.conf",
+        "license": "MIT",
+        "name": "Zacess Light",
+        "num_settings": 29
+    },
+    {
+        "author": "Zacess",
+        "blurb": "Yellow on black for low vision, the reader's Yellow on black theme. Part of the Zacess Themes family, where every colour is checked against WCAG contrast floors: https://github.com/zacesshq/themes",
+        "file": "themes/Zacess_Yellow_on_Black.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Zacess Yellow on Black",
+        "num_settings": 29
+    },
+    {
         "file": "themes/Zenburn.conf",
         "is_dark": true,
         "name": "Zenburn",
