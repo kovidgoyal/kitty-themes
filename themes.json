@@ -2820,6 +2820,15 @@
         "num_settings": 23
     },
     {
+        "author": "ronmi (generated with Claude)",
+        "blurb": "Unofficial fan-made dark theme based on TWICE logo and member colors on a warm dark-brown background. Every ANSI hue except black uses a member color (Chaeyoung, Jeongyeon, Jihyo, Tzuyu, Sana, Nayeon, Dahyun) in its normal or bright slot; marks use member-color fills. An optional custom tab bar using the logo gradient is available at https://gist.github.com/Ronmi/80653b64880cc75b7f2f9c845cdab3c9 Not affiliated with or endorsed by JYP Entertainment.",
+        "file": "themes/Twice.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Twice",
+        "num_settings": 37
+    },
+    {
         "file": "themes/Twilight.conf",
         "is_dark": true,
         "name": "Twilight",
