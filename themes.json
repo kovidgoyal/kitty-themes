@@ -3093,6 +3093,23 @@
     },
     {
         "author": "Zacess",
+        "blurb": "Cream on warm dark brown with earthy colours, a gentler theme for anyone who finds high contrast too intense. Part of the Zacess Themes family, where every colour is checked against WCAG contrast floors: https://github.com/zacesshq/themes",
+        "file": "themes/Zacess_Warm_Dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Zacess Warm Dark",
+        "num_settings": 29
+    },
+    {
+        "author": "Zacess",
+        "blurb": "Dark brown on warm paper with earthy colours, a gentler theme for anyone who finds high contrast too intense. Part of the Zacess Themes family, where every colour is checked against WCAG contrast floors: https://github.com/zacesshq/themes",
+        "file": "themes/Zacess_Warm_Light.conf",
+        "license": "MIT",
+        "name": "Zacess Warm Light",
+        "num_settings": 29
+    },
+    {
+        "author": "Zacess",
         "blurb": "Yellow on black for low vision, the reader's Yellow on black theme. Part of the Zacess Themes family, where every colour is checked against WCAG contrast floors: https://github.com/zacesshq/themes",
         "file": "themes/Zacess_Yellow_on_Black.conf",
         "is_dark": true,
