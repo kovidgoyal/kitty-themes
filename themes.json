@@ -2651,6 +2651,60 @@
         "num_settings": 25
     },
     {
+        "author": "Stranger Theme",
+        "blurb": "Moody dark red dimension with organic tones, from the Stranger Theme collection inspired by Stranger Things.",
+        "file": "themes/Stranger_Theme_Dimension_X.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Stranger Theme Dimension X",
+        "num_settings": 22
+    },
+    {
+        "author": "Stranger Theme",
+        "blurb": "Warm, muted autumnal colours on dark brown, from the Stranger Theme collection inspired by Stranger Things.",
+        "file": "themes/Stranger_Theme_Hawkins.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Stranger Theme Hawkins",
+        "num_settings": 22
+    },
+    {
+        "author": "Stranger Theme",
+        "blurb": "Vibrant 80s mall neon on deep navy, from the Stranger Theme collection inspired by Stranger Things.",
+        "file": "themes/Stranger_Theme_Starcourt.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Stranger Theme Starcourt",
+        "num_settings": 22
+    },
+    {
+        "author": "Stranger Theme",
+        "blurb": "Clinical, institutional colours on cold dark slate, from the Stranger Theme collection inspired by Stranger Things.",
+        "file": "themes/Stranger_Theme_The_Lab.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Stranger Theme The Lab",
+        "num_settings": 22
+    },
+    {
+        "author": "Stranger Theme",
+        "blurb": "Orange and black school colours with a vintage academic feel, from the Stranger Theme collection inspired by Stranger Things.",
+        "file": "themes/Stranger_Theme_Tigers.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Stranger Theme Tigers",
+        "num_settings": 22
+    },
+    {
+        "author": "Stranger Theme",
+        "blurb": "Dark blue-black with desaturated tones, from the Stranger Theme collection inspired by Stranger Things.",
+        "file": "themes/Stranger_Theme_Upside_Down.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Stranger Theme Upside Down",
+        "num_settings": 22
+    },
+    {
         "file": "themes/Substrata.conf",
         "is_dark": true,
         "name": "Substrata",
