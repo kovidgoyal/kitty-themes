@@ -2175,6 +2175,84 @@
         "num_settings": 21
     },
     {
+        "author": "Neal McKee",
+        "blurb": "Perceptually uniform colour scheme modelled after natural sunlight and shade (Revised CAM16-UCS + H-K).",
+        "file": "themes/penumbra_dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Penumbra Dark",
+        "num_settings": 41,
+        "upstream": "https://raw.githubusercontent.com/nealmckee/penumbra/main/kitty/penumbra_dark.conf"
+    },
+    {
+        "author": "Neal McKee",
+        "blurb": "Perceptually uniform colour scheme modelled after natural sunlight and shade (Revised CAM16-UCS + H-K).",
+        "file": "themes/penumbra_dark_semantic6.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Penumbra Dark (Semantic 6)",
+        "num_settings": 41,
+        "upstream": "https://raw.githubusercontent.com/nealmckee/penumbra/main/kitty/penumbra_dark_semantic6.conf"
+    },
+    {
+        "author": "Neal McKee",
+        "blurb": "Perceptually uniform colour scheme modelled after natural sunlight and shade (Revised CAM16-UCS + H-K).",
+        "file": "themes/penumbra_dark_plus.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Penumbra Dark+",
+        "num_settings": 41,
+        "upstream": "https://raw.githubusercontent.com/nealmckee/penumbra/main/kitty/penumbra_dark%2B.conf"
+    },
+    {
+        "author": "Neal McKee",
+        "blurb": "Perceptually uniform colour scheme modelled after natural sunlight and shade (Revised CAM16-UCS + H-K).",
+        "file": "themes/penumbra_dark_plus_semantic6.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Penumbra Dark+ (Semantic 6)",
+        "num_settings": 41,
+        "upstream": "https://raw.githubusercontent.com/nealmckee/penumbra/main/kitty/penumbra_dark%2B_semantic6.conf"
+    },
+    {
+        "author": "Neal McKee",
+        "blurb": "Perceptually uniform colour scheme modelled after natural sunlight and shade (Revised CAM16-UCS + H-K).",
+        "file": "themes/penumbra_dark_plus_plus.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Penumbra Dark++",
+        "num_settings": 41,
+        "upstream": "https://raw.githubusercontent.com/nealmckee/penumbra/main/kitty/penumbra_dark%2B%2B.conf"
+    },
+    {
+        "author": "Neal McKee",
+        "blurb": "Perceptually uniform colour scheme modelled after natural sunlight and shade (Revised CAM16-UCS + H-K).",
+        "file": "themes/penumbra_dark_plus_plus_semantic6.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Penumbra Dark++ (Semantic 6)",
+        "num_settings": 41,
+        "upstream": "https://raw.githubusercontent.com/nealmckee/penumbra/main/kitty/penumbra_dark%2B%2B_semantic6.conf"
+    },
+    {
+        "author": "Neal McKee",
+        "blurb": "Perceptually uniform colour scheme modelled after natural sunlight and shade (Revised CAM16-UCS + H-K).",
+        "file": "themes/penumbra_light.conf",
+        "license": "MIT",
+        "name": "Penumbra Light",
+        "num_settings": 41,
+        "upstream": "https://raw.githubusercontent.com/nealmckee/penumbra/main/kitty/penumbra_light.conf"
+    },
+    {
+        "author": "Neal McKee",
+        "blurb": "Perceptually uniform colour scheme modelled after natural sunlight and shade (Revised CAM16-UCS + H-K).",
+        "file": "themes/penumbra_light_semantic6.conf",
+        "license": "MIT",
+        "name": "Penumbra Light (Semantic 6)",
+        "num_settings": 41,
+        "upstream": "https://raw.githubusercontent.com/nealmckee/penumbra/main/kitty/penumbra_light_semantic6.conf"
+    },
+    {
         "author": "dbw (https://github.com/wolgamot)",
         "blurb": "Purple and yellow color scheme based on my NixOS configuration",
         "file": "themes/phanes.conf",
