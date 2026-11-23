@@ -1330,6 +1330,46 @@
         "num_settings": 25
     },
     {
+        "author": "Zain Ahmed",
+        "blurb": "Weathered warm dark slate with desaturated antique gold tuned for 3 AM zero-glare focus (11.28:1 WCAG / Lc 79.2 APCA).",
+        "file": "themes/gotham_noir_arkham_slate.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Gotham Noir - Arkham Slate",
+        "num_settings": 22,
+        "upstream": "https://github.com/thezaynahmed/gotham-noir"
+    },
+    {
+        "author": "Zain Ahmed",
+        "blurb": "OLED obsidian control-plane dark theme with signal gold and emerald telemetry (14.15:1 WCAG / Lc 87.0 APCA).",
+        "file": "themes/gotham_noir_batcomputer.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Gotham Noir - Batcomputer",
+        "num_settings": 22,
+        "upstream": "https://github.com/thezaynahmed/gotham-noir"
+    },
+    {
+        "author": "Zain Ahmed",
+        "blurb": "Rain-soaked obsidian chrome with tactical crimson accents and balanced syntax contrast (12.98:1 WCAG / Lc 82.7 APCA).",
+        "file": "themes/gotham_noir_vengeance.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Gotham Noir - Vengeance",
+        "num_settings": 22,
+        "upstream": "https://github.com/thezaynahmed/gotham-noir"
+    },
+    {
+        "author": "Zain Ahmed",
+        "blurb": "Matte anti-halation dark charcoal with signal gold and OKLCH-balanced syntax (12.35:1 WCAG / Lc 80.7 APCA).",
+        "file": "themes/gotham_noir_year_one.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Gotham Noir - Year One",
+        "num_settings": 22,
+        "upstream": "https://github.com/thezaynahmed/gotham-noir"
+    },
+    {
         "file": "themes/Grape.conf",
         "is_dark": true,
         "name": "Grape",
